@@ -21,7 +21,7 @@ class Spider_Model(object):
 	Business_Item = re.findall(r'<span class="business item".*?><a.*?>(.*?)</a></span>', UnicodePage, re.S)
 	Employment_Item = re.findall(r'<span class="employment item".*?><a.*?>(.*?)</a></span>', UnicodePage, re.S)
 	Education_Item = re.findall(r'<span class="education item".*?>(.*?)</span>.|\n<span class="education-extra.*?>(.*?)</span>', UnicodePage, re.S)
-	Description = re.findall(r'<span class="description unfold-item"><span.*?>(.*?)</span>.*?</span>', UnicodePage, re.S)
+	Description = re.findall(r'<span class="description unfold.*?">\n<span class="cont.*?>\n\n(.*?)\n\n</span>', UnicodePage, re.S)
 	return Description, #Education_Item, Employment_Item, Business_Item, Location, ''.join(Title_Section[0])
 
 Spyder = Spider_Model()
