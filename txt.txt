@@ -1,0 +1,2388 @@
+<!DOCTYPE html>
+<html lang="zh-CN" dropEffect="none" class="no-js no-auth ">
+<head>
+<meta charset="utf-8" />
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="renderer" content="webkit" />
+<meta http-equiv="X-ZA-Response-Id" content="85fe943879e14dcf8b417944f8eb6288">
+
+<title> 孔庆勋 - 知乎</title>
+
+<meta name="apple-itunes-app" content="app-id=432274380, app-argument=zhihu://people/kong-qing-xun">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/people/kong-qing-xun">
+<meta id="znonce" name="znonce" content="f8a090f2e89c43ca8e2842a80ed229cf">
+
+
+
+<link rel="apple-touch-icon" href="http://static.zhihu.com/static/revved/img/ios/touch-icon-152.87c020b9.png" sizes="152x152">
+<link rel="apple-touch-icon" href="http://static.zhihu.com/static/revved/img/ios/touch-icon-120.496c913b.png" sizes="120x120">
+<link rel="apple-touch-icon" href="http://static.zhihu.com/static/revved/img/ios/touch-icon-76.dcf79352.png" sizes="76x76">
+<link rel="apple-touch-icon" href="http://static.zhihu.com/static/revved/img/ios/touch-icon-60.9911cffb.png" sizes="60x60">
+
+
+<link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
+<link rel="stylesheet" href="http://static.zhihu.com/static/revved/-/css/z.69975821.css">
+<link rel="stylesheet" href="http://static.zhihu.com/static/revved/-/css/pages/profile/main.72a07704.css">
+
+
+<meta name="google-site-verification" content="FTeR0c8arOPKh8c5DYh_9uu98_zJbaWw53J-Sch9MTg" />
+
+
+
+<!--[if lt IE 9]>
+<script src="http://static.zhihu.com/static/components/respond/dest/respond.min.js"></script>
+<link href="http://static.zhihu.com/static/components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="/static/components/respond/cross-domain/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+<script src="/static/components/respond/cross-domain/respond.proxy.js"></script>
+<![endif]-->
+<script src="http://static.zhihu.com/static/revved/-/js/instant.e7a17de6.js"></script>
+
+<style>
+.zm-item-top-container{
+display:none;
+}
+.zm-profile-section-head .goog-menu{
+display:none;!important;
+}
+</style>
+
+</head>
+
+<body class="zhi ">
+
+
+
+<div role="navigation" class="zu-top">
+<div class="zg-wrap modal-shifting clearfix" id="zh-top-inner">
+<a href="/" class="zu-top-link-logo" id="zh-top-link-logo" data-za-c="view_home" data-za-a="visit_home" data-za-l="top_navigation_zhihu_logo">知乎</a>
+
+
+
+<ul class="topnav-noauth clearfix">
+<li>
+<a href="javascript:;" class="js-signup-noauth"><i class="zg-icon zg-icon-dd-home"></i>注册知乎</a>
+</li>
+<li>
+<a href="javascript:;" class="js-signin-noauth">登录</a>
+</li>
+</ul>
+
+
+
+<button class="zu-top-add-question" id="zu-top-add-question">提问</button>
+
+
+<div role="search" id="zh-top-search" class="zu-top-search">
+<form method="GET" action="/search" id="zh-top-search-form" class="zu-top-search-form">
+
+
+
+<input type="hidden" name="type" value="content">
+<label for="q" class="hide-text">知乎搜索</label><input type="text" class="zu-top-search-input" id="q" name="q" autocomplete="off" value="" placeholder="搜索你感兴趣的内容...">
+<button type="submit" class="zu-top-search-button"><span class="hide-text">搜索</span><span class="sprite-global-icon-magnifier-dark"></span></button>
+</form>
+</div>
+
+
+
+<div id="zg-top-nav" class="zu-top-nav">
+<ul class="zu-top-nav-ul zg-clear">
+
+<li class="zu-top-nav-li " id="zh-top-nav-home">
+<a class="zu-top-nav-link" href="/" id="zh-top-link-home" data-za-c="view_home" data-za-a="visit_home" data-za-l="top_navigation_home">首页</a>
+</li>
+
+
+
+<li class="top-nav-topic-selector zu-top-nav-li " id="zh-top-nav-topic">
+<a class="zu-top-nav-link" href="/topic" id="top-nav-dd-topic">话题</a>
+</li>
+
+<li class="zu-top-nav-li " id="zh-top-nav-explore">
+<a class="zu-top-nav-link" href="/explore">发现</a>
+</li>
+
+
+</ul>
+<div class="zu-top-nav-live zu-noti7-popup zg-r5px no-hovercard" id="zh-top-nav-live-new" role="popup" tabindex="0">
+<div class="zu-top-nav-live-inner zg-r5px">
+<div class="zu-top-live-icon">&nbsp;</div>
+<div class="zu-home-noti-inner" id="zh-top-nav-live-new-inner">
+<div class="zm-noti7-popup-tab-container clearfix" tabindex="0">
+<button class="zm-noti7-popup-tab-item message">
+<span class="icon">消息</span>
+</button>
+<button class="zm-noti7-popup-tab-item user">
+<span class="icon">用户</span>
+</button>
+<button class="zm-noti7-popup-tab-item thanks">
+<span class="icon">赞同和感谢</span>
+</button>
+</div>
+</div>
+<div class="zm-noti7-frame-border top"></div>
+<div class="zm-noti7-frame">
+<div class="zm-noti7-content">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-content" style="display:none;">
+<div class="zm-noti7-content-inner">
+<div class="zm-noti7-content-body">
+<div class="zm-noti7-popup-loading">
+<span class="noti-spinner-loading"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="zm-noti7-frame-border bottom"></div>
+<div class="zm-noti7-popup-footer">
+<a href="/notifications" class="zm-noti7-popup-footer-all zg-right">查看全部 &raquo;</a>
+<a href="/settings/notification" class="zm-noti7-popup-footer-set" title="通知设置" ><i class="zg-icon zg-icon-settings"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+
+</div>
+</div>
+
+
+<div class="zu-global-notify" id="zh-global-message" style="display:none">
+<div class="zg-wrap">
+<div class="zu-global-nitify-inner">
+<a class="zu-global-notify-close" href="javascript:;" title="关闭" name="close">x</a>
+<span class="zu-global-notify-icon"></span>
+<span class="zu-global-notify-msg"></span>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="zg-wrap zu-main clearfix "  role="main">
+<div class="zu-main-content">
+<div class="zu-main-content-inner">
+
+
+
+
+<div class="zm-profile-header ProfileCard">
+<div class="zm-profile-header-main">
+<div class="top">
+
+<div class='weibo-wrap'>
+
+<a class="zm-profile-header-user-weibo" target="_blank" href="http://weibo.com/kqx1997" data-tip="s$b$新浪微博"><i class="zm-profile-header-icon sina"></i></a>
+
+</div>
+
+<div class="title-section ellipsis">
+<span class="name">孔庆勋</span>，<span class="bio" title="创业中，微信：cyjxs100 值乎：孔庆勋">创业中，微信：cyjxs100 值乎：孔庆勋</span>
+</div>
+</div>
+<div class="body clearfix">
+
+<img class="Avatar Avatar--l" src="https://pic3.zhimg.com/186bbf9b4b585cad53615a07beb08c4e_l.png" srcset="https://pic3.zhimg.com/186bbf9b4b585cad53615a07beb08c4e_xl.png 2x" alt="孔庆勋" />
+
+<div class="zm-profile-header-info">
+<div class="zm-profile-header-user-describe">
+<div class="items">
+
+<div class="item editable-group" data-name="location">
+
+<i class="icon icon-profile-location"></i>
+
+<span class="info-wrap">
+
+<span class="location item" title="广州市"><a href="/topic/19551846" title="广州市" class="topic-link" data-token="19551846" data-topicid="545">广州市</a></span>
+
+
+<span class="business item" title="互联网"><a href="/topic/19550517" title="互联网" class="topic-link" data-token="19550517" data-topicid="99">互联网</a></span>
+
+
+<span class="item gender" ><i class="icon icon-profile-male"></i></span>
+
+
+</span>
+<span class="edit-wrap" style="display:none;">
+<span class="topic-input-wrap"><input autocomplete="off" aria-haspopup="true" type="text" name="location" value="广州市" class="zg-form-text-input location" placeholder="居住地"/></span>
+<div class="business-selection">
+<select name="business">
+<option value="">选择行业</option>
+
+
+<option value="高新科技">高新科技</option>
+
+<option value="互联网" selected>&nbsp;&nbsp;&nbsp;互联网</option>
+
+<option value="电子商务">&nbsp;&nbsp;&nbsp;电子商务</option>
+
+<option value="电子游戏">&nbsp;&nbsp;&nbsp;电子游戏</option>
+
+<option value="计算机软件">&nbsp;&nbsp;&nbsp;计算机软件</option>
+
+<option value="计算机硬件">&nbsp;&nbsp;&nbsp;计算机硬件</option>
+
+
+
+
+<option value="信息传媒">信息传媒</option>
+
+<option value="出版业">&nbsp;&nbsp;&nbsp;出版业</option>
+
+<option value="电影录音">&nbsp;&nbsp;&nbsp;电影录音</option>
+
+<option value="广播电视">&nbsp;&nbsp;&nbsp;广播电视</option>
+
+<option value="通信">&nbsp;&nbsp;&nbsp;通信</option>
+
+
+
+
+<option value="金融">金融</option>
+
+<option value="银行">&nbsp;&nbsp;&nbsp;银行</option>
+
+<option value="资本投资">&nbsp;&nbsp;&nbsp;资本投资</option>
+
+<option value="证券投资">&nbsp;&nbsp;&nbsp;证券投资</option>
+
+<option value="保险">&nbsp;&nbsp;&nbsp;保险</option>
+
+<option value="信贷">&nbsp;&nbsp;&nbsp;信贷</option>
+
+<option value="财务">&nbsp;&nbsp;&nbsp;财务</option>
+
+<option value="审计">&nbsp;&nbsp;&nbsp;审计</option>
+
+
+
+
+<option value="服务业">服务业</option>
+
+<option value="法律">&nbsp;&nbsp;&nbsp;法律</option>
+
+<option value="餐饮">&nbsp;&nbsp;&nbsp;餐饮</option>
+
+<option value="酒店">&nbsp;&nbsp;&nbsp;酒店</option>
+
+<option value="旅游">&nbsp;&nbsp;&nbsp;旅游</option>
+
+<option value="广告">&nbsp;&nbsp;&nbsp;广告</option>
+
+<option value="公关">&nbsp;&nbsp;&nbsp;公关</option>
+
+<option value="景观">&nbsp;&nbsp;&nbsp;景观</option>
+
+<option value="咨询分析">&nbsp;&nbsp;&nbsp;咨询分析</option>
+
+<option value="市场推广">&nbsp;&nbsp;&nbsp;市场推广</option>
+
+<option value="人力资源">&nbsp;&nbsp;&nbsp;人力资源</option>
+
+<option value="社工服务">&nbsp;&nbsp;&nbsp;社工服务</option>
+
+<option value="养老服务">&nbsp;&nbsp;&nbsp;养老服务</option>
+
+
+
+
+<option value="教育">教育</option>
+
+<option value="高等教育">&nbsp;&nbsp;&nbsp;高等教育</option>
+
+<option value="基础教育">&nbsp;&nbsp;&nbsp;基础教育</option>
+
+<option value="职业教育">&nbsp;&nbsp;&nbsp;职业教育</option>
+
+<option value="幼儿教育">&nbsp;&nbsp;&nbsp;幼儿教育</option>
+
+<option value="特殊教育">&nbsp;&nbsp;&nbsp;特殊教育</option>
+
+<option value="培训">&nbsp;&nbsp;&nbsp;培训</option>
+
+
+
+
+<option value="医疗服务">医疗服务</option>
+
+<option value="临床医疗">&nbsp;&nbsp;&nbsp;临床医疗</option>
+
+<option value="制药">&nbsp;&nbsp;&nbsp;制药</option>
+
+<option value="保健">&nbsp;&nbsp;&nbsp;保健</option>
+
+<option value="美容">&nbsp;&nbsp;&nbsp;美容</option>
+
+<option value="医疗器材">&nbsp;&nbsp;&nbsp;医疗器材</option>
+
+<option value="生物工程">&nbsp;&nbsp;&nbsp;生物工程</option>
+
+<option value="疗养服务">&nbsp;&nbsp;&nbsp;疗养服务</option>
+
+<option value="护理服务">&nbsp;&nbsp;&nbsp;护理服务</option>
+
+
+
+
+<option value="艺术娱乐">艺术娱乐</option>
+
+<option value="创意艺术">&nbsp;&nbsp;&nbsp;创意艺术</option>
+
+<option value="体育健身">&nbsp;&nbsp;&nbsp;体育健身</option>
+
+<option value="娱乐休闲">&nbsp;&nbsp;&nbsp;娱乐休闲</option>
+
+<option value="图书馆">&nbsp;&nbsp;&nbsp;图书馆</option>
+
+<option value="博物馆">&nbsp;&nbsp;&nbsp;博物馆</option>
+
+<option value="策展">&nbsp;&nbsp;&nbsp;策展</option>
+
+<option value="博彩">&nbsp;&nbsp;&nbsp;博彩</option>
+
+
+
+
+<option value="制造加工">制造加工</option>
+
+<option value="食品饮料业">&nbsp;&nbsp;&nbsp;食品饮料业</option>
+
+<option value="纺织皮革业">&nbsp;&nbsp;&nbsp;纺织皮革业</option>
+
+<option value="服装业">&nbsp;&nbsp;&nbsp;服装业</option>
+
+<option value="烟草业">&nbsp;&nbsp;&nbsp;烟草业</option>
+
+<option value="造纸业">&nbsp;&nbsp;&nbsp;造纸业</option>
+
+<option value="印刷业">&nbsp;&nbsp;&nbsp;印刷业</option>
+
+<option value="化工业">&nbsp;&nbsp;&nbsp;化工业</option>
+
+<option value="汽车">&nbsp;&nbsp;&nbsp;汽车</option>
+
+<option value="家具">&nbsp;&nbsp;&nbsp;家具</option>
+
+<option value="电子电器">&nbsp;&nbsp;&nbsp;电子电器</option>
+
+<option value="机械设备">&nbsp;&nbsp;&nbsp;机械设备</option>
+
+<option value="塑料工业">&nbsp;&nbsp;&nbsp;塑料工业</option>
+
+<option value="金属加工">&nbsp;&nbsp;&nbsp;金属加工</option>
+
+<option value="军火">&nbsp;&nbsp;&nbsp;军火</option>
+
+
+
+
+<option value="地产建筑">地产建筑</option>
+
+<option value="房地产">&nbsp;&nbsp;&nbsp;房地产</option>
+
+<option value="装饰装潢">&nbsp;&nbsp;&nbsp;装饰装潢</option>
+
+<option value="物业服务">&nbsp;&nbsp;&nbsp;物业服务</option>
+
+<option value="特殊建造">&nbsp;&nbsp;&nbsp;特殊建造</option>
+
+<option value="建筑设备">&nbsp;&nbsp;&nbsp;建筑设备</option>
+
+
+
+
+<option value="贸易零售">贸易零售</option>
+
+<option value="零售">&nbsp;&nbsp;&nbsp;零售</option>
+
+<option value="大宗交易">&nbsp;&nbsp;&nbsp;大宗交易</option>
+
+<option value="进出口贸易">&nbsp;&nbsp;&nbsp;进出口贸易</option>
+
+
+
+
+<option value="公共服务">公共服务</option>
+
+<option value="政府">&nbsp;&nbsp;&nbsp;政府</option>
+
+<option value="国防军事">&nbsp;&nbsp;&nbsp;国防军事</option>
+
+<option value="航天">&nbsp;&nbsp;&nbsp;航天</option>
+
+<option value="科研">&nbsp;&nbsp;&nbsp;科研</option>
+
+<option value="给排水">&nbsp;&nbsp;&nbsp;给排水</option>
+
+<option value="水利能源">&nbsp;&nbsp;&nbsp;水利能源</option>
+
+<option value="电力电网">&nbsp;&nbsp;&nbsp;电力电网</option>
+
+<option value="公共管理">&nbsp;&nbsp;&nbsp;公共管理</option>
+
+<option value="环境保护">&nbsp;&nbsp;&nbsp;环境保护</option>
+
+<option value="非营利组织">&nbsp;&nbsp;&nbsp;非营利组织</option>
+
+
+
+
+<option value="开采冶金">开采冶金</option>
+
+<option value="煤炭工业">&nbsp;&nbsp;&nbsp;煤炭工业</option>
+
+<option value="石油工业">&nbsp;&nbsp;&nbsp;石油工业</option>
+
+<option value="黑色金属">&nbsp;&nbsp;&nbsp;黑色金属</option>
+
+<option value="有色金属">&nbsp;&nbsp;&nbsp;有色金属</option>
+
+<option value="土砂石开采">&nbsp;&nbsp;&nbsp;土砂石开采</option>
+
+<option value="地热开采">&nbsp;&nbsp;&nbsp;地热开采</option>
+
+
+
+
+<option value="交通仓储">交通仓储</option>
+
+<option value="邮政">&nbsp;&nbsp;&nbsp;邮政</option>
+
+<option value="物流递送">&nbsp;&nbsp;&nbsp;物流递送</option>
+
+<option value="地面运输">&nbsp;&nbsp;&nbsp;地面运输</option>
+
+<option value="铁路运输">&nbsp;&nbsp;&nbsp;铁路运输</option>
+
+<option value="管线运输">&nbsp;&nbsp;&nbsp;管线运输</option>
+
+<option value="航运业">&nbsp;&nbsp;&nbsp;航运业</option>
+
+<option value="民用航空业">&nbsp;&nbsp;&nbsp;民用航空业</option>
+
+
+
+
+<option value="农林牧渔">农林牧渔</option>
+
+<option value="种植业">&nbsp;&nbsp;&nbsp;种植业</option>
+
+<option value="畜牧养殖业">&nbsp;&nbsp;&nbsp;畜牧养殖业</option>
+
+<option value="林业">&nbsp;&nbsp;&nbsp;林业</option>
+
+<option value="渔业">&nbsp;&nbsp;&nbsp;渔业</option>
+
+
+
+</select>
+</div>
+<span class="zg-bull">|</span>
+<input type="radio" name="gender" value="1" checked="checked" class="male"/> 男&nbsp;&nbsp;
+<input type="radio" name="gender" value="0"  class="female"/> 女
+<a class="zg-btn-blue" name="save" href="javascript:;">确定</a>
+</span>
+</div>
+
+<div class="item editable-group " data-name="employment">
+<i class="icon icon-profile-company"></i>
+<span class="info-wrap">
+
+<span class="employment item" title="超级体验官">超级体验官</span>
+
+
+<span class="position item" title="创业"><a href="/topic/19550560" title="创业" class="topic-link" data-token="19550560" data-topicid="112">创业</a></span>
+
+
+</span>
+<span class='info-empty-wrap'><a href="javascript:;" name="edit" class="zg-link-litblue-normal">填写工作信息</a></span>
+<span class="edit-wrap" style="display:none;">
+<span class="topic-input-wrap"><input autocomplete="off" aria-haspopup="true" type="text" name="employment" value="超级体验官" class="zg-form-text-input employment" placeholder="公司或组织名称"/></span>
+<span class="topic-input-wrap"><input autocomplete="off" aria-haspopup="true" type="text" name="position" value="创业" class="zg-form-text-input position" placeholder="你的职位"/></span>
+<a class="zg-btn-blue" name="save" href="javascript:;">确定</a>
+</span>
+</div>
+
+
+<div class="item editable-group " data-name="education" >
+<i class="icon icon-profile-education"></i>
+<span class="info-wrap">
+
+<span class="education item" title="暨南大学 (JNU)"><a href="/topic/19573532" title="暨南大学 (JNU)" class="topic-link" data-token="19573532" data-topicid="7778">暨南大学 (JNU)</a></span>
+
+
+<span class="education-extra item" title='市场营销'><a href="/topic/19550803" title="市场营销" class="topic-link" data-token="19550803" data-topicid="196">市场营销</a></span>
+
+
+</span>
+<span class='info-empty-wrap'><a href="javascript:;" name="edit" class="zg-link-litblue-normal">填写教育信息</a></span>
+<span class="edit-wrap" style="display:none;">
+<span class="topic-input-wrap"><input autocomplete="off" aria-haspopup="true" type="text" name="education" value="暨南大学 (JNU)" class="zg-form-text-input education" placeholder="学校或教育机构"/></span>
+<span class="topic-input-wrap"><input autocomplete="off" aria-haspopup="true" type="text" name="education" value="市场营销" class="zg-form-text-input education-extra" placeholder="专业方向"/></span>
+<a class="zg-btn-blue" name="save" href="javascript:;">确定</a>
+</span>
+</div>
+
+<div class="item">
+
+<a class="zm-profile-header-user-detail zg-link-litblue-normal" href="/people/kong-qing-xun/about">
+<i class="icon zm-profile-header-icon"></i>
+<span>查看详细资料</span>
+</a>
+
+</div>
+
+</div>
+
+<div class="zm-profile-header-description editable-group " data-name="description">
+<span class="info-wrap fold-wrap fold disable-fold">
+<span class="description unfold-item">
+<span class="content">
+
+创业中，微信：cyjxs100（创业进行时）<br>所有内容转载，请通过原创基地获取授权。<a href="//link.zhihu.com/?target=http%3A//www.iprbase.com/user/4fcce4d4" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://www.</span><span class="visible">iprbase.com/user/4fcce4</span><span class="invisible">d4</span><span class="ellipsis"></span><i class="icon-external"></i></a>
+
+</span>
+<a href="javascript:;" name="fold" class="fold collapse meta-item"><i class="z-icon-fold"></i>收起</a>
+</span>
+<span class="fold-item">
+<span class="content">
+
+创业中，微信：cyjxs100（创业进行时）<br>所有内容转载，请通过原创基地获取授权。<a href="//link.zhihu.com/?target=http%3A//www.iprbase.com/user/4fcce4d4" class=" external" target="_blank" rel="nofollow noreferrer"><span class="invisible">http://www.</span><span class="visible">iprbase.com/user/4fcce4</span><span class="invisible">d4</span><span class="ellipsis"></span><i class="icon-external"></i></a>
+
+</span>
+<a href="javascript:;" class="unfold zg-link-litblue-normal" name="unfold">显示全部 »</a>
+</span>
+
+</span>
+<span class='info-empty-wrap'><a href="javascript:;" name="edit" class="zg-link-litblue-normal">
+<i class="zg-icon zg-icon-edit-button-blue"></i>
+<span>填写个人简介</span>
+</a></span>
+<span class="edit-wrap" style="display:none;">
+<div class="zm-editable-editor-outer">
+<div class="zm-editable-editor-inner zg-form-text-input">
+<textarea name="description" value="" class="zm-editable-editor-input description" id="profile-header-description-input">创业中，微信：cyjxs100（创业进行时）
+所有内容转载，请通过原创基地获取授权。http://www.iprbase.com/user/4fcce4d4</textarea>
+</div>
+</div>
+<a class="zg-btn-blue" name="save" href="javascript:;">确定</a>
+</span>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="zm-profile-header-marked">
+<i class="sprite-global-icon-marked"></i>被编辑推荐收录了 <a class="zg-link-litblue-normal" href="/people/kong-qing-xun/answers/marked">1 个回答</a>
+</div>
+
+
+<div class="zm-profile-header-operation zg-clear ">
+<div class="zm-profile-header-info-list">
+<span class="zm-profile-header-info-title">获得</span>
+<span class="zm-profile-header-user-agree"><span class="zm-profile-header-icon"></span><strong>54325</strong>赞同</span>
+<span class="zm-profile-header-user-thanks"><span class="zm-profile-header-icon"></span><strong>11736</strong>感谢</span>
+
+</div>
+
+<div class="zm-profile-header-op-btns clearfix">
+
+
+<button data-follow="m:button" data-id="ef24014bf4bfc938829a105d38f68bd1" class="zg-btn zg-btn-follow zm-rich-follow-btn">关注他</button>
+
+
+
+<a href="/inbox/2412294300" class="zg-btn-white zm-profile-header-pm-btn" id="zm-profile-header-pm-btn"><i class="zg-icon">私信</i></a>
+
+
+</div>
+
+</div>
+<div class="profile-navbar clearfix">
+<a class="item home first active"
+href="/people/kong-qing-xun">
+<i class="icon icon-profile-tab-home"></i><span class="hide-text">主页</span>
+</a>
+<a class="item "
+href="/people/kong-qing-xun/asks">
+提问
+<span class="num">248</span>
+</a>
+<a class="item "
+href="/people/kong-qing-xun/answers">
+回答
+<span class="num">305</span>
+</a>
+<a class="item "
+href="/people/kong-qing-xun/posts">
+文章
+<span class="num">38</span>
+</a>
+
+<a class="item "
+href="/people/kong-qing-xun/collections">
+收藏
+<span class="num">4</span>
+</a>
+<a class="item "
+href="/people/kong-qing-xun/logs">
+公共编辑
+<span class="num">2084</span>
+</a>
+
+</div>
+
+</div>
+
+
+<div class="zm-profile-section-wrap zm-profile-section-grid skilled-topics">
+<div class="zm-profile-section-head">
+
+<a class="js-expand zg-right zg-gray-normal" href="#">
+展开全部
+</a>
+
+<span class="zm-profile-section-title">
+<h2 class="zm-profile-section-name" style="color:#666;">擅长话题</h2>
+</span>
+</div>
+<div class="inner zg-clear">
+<div class="zm-profile-section-list zg-clear">
+
+<script class="ProfileExpertItem-template" type="text/template">
+
+<div tabindex="-1" class="item" data-url-token="19550581" data-active="1" data-href="/people/kong-qing-xun/topic/19550581/answers" data-id="119" title="孔庆勋在学习下的回答">
+<span class="avatar"><img src="https://pic2.zhimg.com/a0075c7f9_m.jpg" /></span>
+
+<a href="/topic/19550581" title="学习"><div class="arrow zg-icon">&gt;</div></a>
+
+<div class="content">
+<div class="content-inner">
+<h3 class="ellipsis">
+<a href="/people/kong-qing-xun/topic/19550581/answers" class="zg-gray-darker">学习 </a>
+</h3>
+
+</p>
+<p class="meta">
+<span><i class="zg-icon vote"></i>7946</span>
+<span><i class="zg-icon comment"></i>14</span>
+</p>
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="item" data-url-token="19553176" data-active="1" data-href="/people/kong-qing-xun/topic/19553176/answers" data-id="988" title="孔庆勋在教育下的回答">
+<span class="avatar"><img src="https://pic2.zhimg.com/f672948364a6592511342b965bbfad91_m.jpg" /></span>
+
+<a href="/topic/19553176" title="教育"><div class="arrow zg-icon">&gt;</div></a>
+
+<div class="content">
+<div class="content-inner">
+<h3 class="ellipsis">
+<a href="/people/kong-qing-xun/topic/19553176/answers" class="zg-gray-darker">教育 </a>
+</h3>
+
+</p>
+<p class="meta">
+<span><i class="zg-icon vote"></i>10895</span>
+<span><i class="zg-icon comment"></i>23</span>
+</p>
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="item" data-url-token="19550994" data-active="1" data-href="/people/kong-qing-xun/topic/19550994/answers" data-id="253" title="孔庆勋在游戏下的回答">
+<span class="avatar"><img src="https://pic4.zhimg.com/fb89e0ea3_m.jpg" /></span>
+
+<a href="/topic/19550994" title="游戏"><div class="arrow zg-icon">&gt;</div></a>
+
+<div class="content">
+<div class="content-inner">
+<h3 class="ellipsis">
+<a href="/people/kong-qing-xun/topic/19550994/answers" class="zg-gray-darker">游戏 </a>
+</h3>
+
+</p>
+<p class="meta">
+<span><i class="zg-icon vote"></i>3695</span>
+<span><i class="zg-icon comment"></i>9</span>
+</p>
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="item" data-url-token="19556353" data-active="1" data-href="/people/kong-qing-xun/topic/19556353/answers" data-id="2029" title="孔庆勋在大学下的回答">
+<span class="avatar"><img src="https://pic1.zhimg.com/3b441fad0_m.jpg" /></span>
+
+<a href="/topic/19556353" title="大学"><div class="arrow zg-icon">&gt;</div></a>
+
+<div class="content">
+<div class="content-inner">
+<h3 class="ellipsis">
+<a href="/people/kong-qing-xun/topic/19556353/answers" class="zg-gray-darker">大学 </a>
+</h3>
+
+</p>
+<p class="meta">
+<span><i class="zg-icon vote"></i>10589</span>
+<span><i class="zg-icon comment"></i>14</span>
+</p>
+</div>
+</div>
+</div>
+
+</script>
+
+<div tabindex="-1" class="item" data-url-token="19550560" data-active="1" data-href="/people/kong-qing-xun/topic/19550560/answers" data-id="112" title="孔庆勋在创业下的回答">
+<span class="avatar"><img src="https://pic4.zhimg.com/b75f995419ff775ff71fca685d7825af_m.jpg" /></span>
+
+<a href="/topic/19550560" title="创业"><div class="arrow zg-icon">&gt;</div></a>
+
+<div class="content">
+<div class="content-inner">
+<h3 class="ellipsis">
+<a href="/people/kong-qing-xun/topic/19550560/answers" class="zg-gray-darker">创业 </a>
+</h3>
+
+</p>
+<p class="meta">
+<span><i class="zg-icon vote"></i>2823</span>
+<span><i class="zg-icon comment"></i>36</span>
+</p>
+</div>
+</div>
+</div>
+
+<div tabindex="-1" class="item" data-url-token="19550517" data-active="1" data-href="/people/kong-qing-xun/topic/19550517/answers" data-id="99" title="孔庆勋在互联网下的回答">
+<span class="avatar"><img src="https://pic4.zhimg.com/f07808da5625fef3607f8b75b770349f_m.jpg" /></span>
+
+<a href="/topic/19550517" title="互联网"><div class="arrow zg-icon">&gt;</div></a>
+
+<div class="content">
+<div class="content-inner">
+<h3 class="ellipsis">
+<a href="/people/kong-qing-xun/topic/19550517/answers" class="zg-gray-darker">互联网 </a>
+</h3>
+
+</p>
+<p class="meta">
+<span><i class="zg-icon vote"></i>8305</span>
+<span><i class="zg-icon comment"></i>41</span>
+</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+
+
+<div class="zm-profile-section-wrap">
+<div class="zm-profile-section-head">
+<a class="zm-profile-section-title" href="/people/kong-qing-xun/answers?from=profile_answer_card">
+<h2 class="zm-profile-section-name">回答</h2>
+<i class="zg-right zg-icon zm-profile-section-more-btn"></i>
+</a>
+</div>
+<div class="zm-profile-section-list" id="zh-profile-answers-inner-list">
+
+<div class="zm-profile-section-item zg-clear">
+<div class="zm-profile-vote-count">
+<div class="zm-profile-vote-num">27</div>
+<div class="zm-profile-vote-type">赞同</div>
+</div>
+<div class="zm-profile-section-main">
+<h2 class="zm-profile-question">
+<a class="question_link" href="/question/47404871/answer/105814407?from=profile_answer_card" data-id="11176513">如何看待微软以 262 亿美元全现金收购 LinkedIn？</a>
+</h2>
+
+<p class="zm-profile-item-text">想起一本书《创新者的窘境》。<b>如今的情况，是一个陷入窘境的创新者，把另一个陷入窘…</b></p>
+
+</div>
+</div>
+
+<div class="zm-profile-section-item zg-clear">
+<div class="zm-profile-vote-count">
+<div class="zm-profile-vote-num">24</div>
+<div class="zm-profile-vote-type">赞同</div>
+</div>
+<div class="zm-profile-section-main">
+<h2 class="zm-profile-question">
+<a class="question_link" href="/question/45209216/answer/105561524?from=profile_answer_card" data-id="10296035">如何评价小红书说要做一家上海的“北京公司”？北/上创业公司在哪些方面有区别？</a>
+</h2>
+
+<p class="zm-profile-item-text">谢邀，翻邀请列表突然发现了已经写好一多半的草稿，就顺便答完吧。问题很有意思，题…</p>
+
+</div>
+</div>
+
+<div class="zm-profile-section-item zg-clear">
+<div class="zm-profile-vote-count">
+<div class="zm-profile-vote-num">2058</div>
+<div class="zm-profile-vote-type">赞同</div>
+</div>
+<div class="zm-profile-section-main">
+<h2 class="zm-profile-question">
+<a class="question_link" href="/question/41710867/answer/105429893?from=profile_answer_card" data-id="8891726">怎么看当下非常火的直播？</a>
+</h2>
+
+<p class="zm-profile-item-text"><b>全文更新完成，没想到又被抄了，还刷屏了朋友圈……目前，抄袭文章已经突破10W+。</b><b>为…</b></p>
+
+</div>
+</div>
+
+
+</div>
+</div>
+<div class="zm-profile-section-wrap zm-profile-ask-wrap" id="zh-profile-ask-wrap">
+<div class="zm-profile-section-head">
+<a class="zm-profile-section-title" href="/people/kong-qing-xun/asks?from=profile_question_card">
+<h2 class="zm-profile-section-name">提问</h2>
+<i class="zg-right zg-icon zm-profile-section-more-btn" href="/people/kong-qing-xun/asks"></i>
+</a>
+</div>
+<div class="zm-profile-section-list" id="zh-profile-ask-inner-list">
+
+<div class="zm-profile-section-item zg-clear">
+<span class="zm-profile-vote-count">
+<div class="zm-profile-vote-num">696</div>
+<div class="zm-profile-vote-type">浏览</div>
+</span>
+<div class="zm-profile-section-main">
+<h2 class="zm-profile-question">
+<a class="question_link" target="_blank" href="/question/47249250?from=profile_question_card">朋友圈传播的各种“结婚证图片”“准考证图片”等等是如何生成的？</a>
+</h2>
+<div class="meta zg-gray">
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-11114036"><i class="z-icon-follow"></i>关注问题</a>
+<span class="zg-bull">&bull;</span>
+7 个回答
+<span class="zg-bull">&bull;</span>
+58 人关注
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zg-clear">
+<span class="zm-profile-vote-count">
+<div class="zm-profile-vote-num">26</div>
+<div class="zm-profile-vote-type">浏览</div>
+</span>
+<div class="zm-profile-section-main">
+<h2 class="zm-profile-question">
+<a class="question_link" target="_blank" href="/question/47157895?from=profile_question_card">如何评价2016年6月推出的《李翔商业内参》？</a>
+</h2>
+<div class="meta zg-gray">
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-11077349"><i class="z-icon-follow"></i>关注问题</a>
+<span class="zg-bull">&bull;</span>
+3 个回答
+<span class="zg-bull">&bull;</span>
+7 人关注
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zg-clear">
+<span class="zm-profile-vote-count">
+<div class="zm-profile-vote-num">148</div>
+<div class="zm-profile-vote-type">浏览</div>
+</span>
+<div class="zm-profile-section-main">
+<h2 class="zm-profile-question">
+<a class="question_link" target="_blank" href="/question/47127031?from=profile_question_card">为什么私募、信托等高收益率的理财产品，都有100万甚至更高的资金门槛？</a>
+</h2>
+<div class="meta zg-gray">
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-11064995"><i class="z-icon-follow"></i>关注问题</a>
+<span class="zg-bull">&bull;</span>
+6 个回答
+<span class="zg-bull">&bull;</span>
+34 人关注
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+<div class="zm-profile-section-wrap" id="zh-profile-activity-wrap">
+<div class="zm-profile-section-head">
+<h2 class="zm-profile-section-title" style="color:#666;">最新动态</h2>
+</a>
+</div>
+<div class="zm-profile-section-list profile-feed-wrap">
+<div id="zh-profile-activity-page-list">
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1465914640" data-type="a" data-type-detail="member_voteup_answer">
+<span class="zm-profile-setion-time zg-gray zg-right">19 小时前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
+>孔庆勋</a> 赞同了回答
+
+<a class="question_link" target="_blank" href="/question/23776540/answer/93288951">喷子的思维是什么样的？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="32755711"
+data-atoken="93288951"
+data-collapsed="0"
+data-created="1459521126"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/23776540/answer/93288951">
+<meta itemprop="answer-id" content="32755711">
+<meta itemprop="answer-url-token" content="93288951">
+<a class="zg-anchor-hidden" name="answer-32755711"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>1974</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">1974</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/too-young" target="_blank" data-tip="p$t$too-young"
+
+><img src="https://pic3.zhimg.com/7e396d05e7afbbcb0a60f8d862db460e_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$too-young"
+target="_blank" href="/people/too-young"
+>涂样</a>
+
+
+<span title="我不是新闻工作者。" class="bio">，我不是新闻工作者。</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="1974">
+
+
+<span class="voters text">
+<span class="user-block"><a data-tip="p$t$ma-long-ji" href="http://www.zhihu.com/people/ma-long-ji" target="_blank" class="zg-link" title="马隆基"
+>马隆基</a>、</span><span class="user-block"><a data-tip="p$t$shinntei" href="http://www.zhihu.com/people/shinntei" target="_blank" class="zg-link" title="shinntei"
+>shinntei</a>、</span><span class="user-block"><a data-tip="p$t$zhang-cheng-72-64" href="http://www.zhihu.com/people/zhang-cheng-72-64" target="_blank" class="zg-link" title="张晟"
+>张晟</a></span>
+</span>
+
+
+<a href="javascript:;" class="more text"> 等人赞同</a>
+
+
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="1692321" data-action="/answer/content" data-author-name="涂样" data-entry-url="/question/23776540/answer/93288951">
+
+<textarea hidden class="content">&lt;a href=&quot;//link.zhihu.com/?target=http%3A//news.163.com/16/0401/17/BJJ7A5RE00011229.html&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;孕妇就医遭拒 家人拿剃刀街边剖腹取双胞胎(图)_网易新闻&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;这是新闻，是不是看起来很骇人听闻啊？&lt;br&gt;然后你接着看&lt;br&gt;&lt;blockquote&gt;【孕妇就医遭拒 家人拿剃刀街边剖腹取双胞胎】近日，喀麦隆发生一件医疗纠纷，一名濒死孕妇被医院拒之门外，亲友自行拿剃刀剖腹，希望能救出孕妇肚中的孩子。但最后却是悲剧收场，孕妇和所生的双胞胎死亡...&lt;br&gt;&lt;/blockquote&gt;你会发现，喀麦隆啊，老实说我也不知道喀麦隆的地理位置。&lt;br&gt;然后点开评论区&lt;br&gt;&lt;img src=&quot;https://pic2.zhimg.com/f0b0ae3c96a8ea8264a2f194a3cf1b95_b.png&quot; data-rawwidth=&quot;586&quot; data-rawheight=&quot;243&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;586&quot; data-original=&quot;https://pic2.zhimg.com/f0b0ae3c96a8ea8264a2f194a3cf1b95_r.png&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://pic1.zhimg.com/f1f09f9bc6a171fc59a3e8d875a14f38_b.png&quot; data-rawwidth=&quot;618&quot; data-rawheight=&quot;77&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;618&quot; data-original=&quot;https://pic1.zhimg.com/f1f09f9bc6a171fc59a3e8d875a14f38_r.png&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://pic2.zhimg.com/509c4a244119f953facfb37b0e821f15_b.png&quot; data-rawwidth=&quot;620&quot; data-rawheight=&quot;83&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;620&quot; data-original=&quot;https://pic2.zhimg.com/509c4a244119f953facfb37b0e821f15_r.png&quot;&gt;&lt;br&gt;你们赢了</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic2.zhimg.com/f0b0ae3c96a8ea8264a2f194a3cf1b95_200x112.png" data-rawwidth="586" data-rawheight="243" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic2.zhimg.com/f0b0ae3c96a8ea8264a2f194a3cf1b95_r.png">
+<a href="//link.zhihu.com/?target=http%3A//news.163.com/16/0401/17/BJJ7A5RE00011229.html" class=" wrap external" target="_blank" rel="nofollow noreferrer">孕妇就医遭拒 家人拿剃刀街边剖腹取双胞胎(图)_网易新闻<i class="icon-external"></i></a>这是新闻，是不是看起来很骇人听闻啊？然后你接着看【孕妇就医遭拒 家人拿剃刀街边剖腹取双胞胎】近日，喀麦隆发生一件医疗纠纷，一名濒死孕妇被医院拒之门外，亲友自行拿剃刀剖腹，希望能救出孕妇肚…
+
+<a href="/question/23776540/answer/93288951" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/23776540/answer/93288951">发布于 2016-04-01</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-1692321"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>355 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1465911224" data-type="a" data-type-detail="member_voteup_answer">
+<span class="zm-profile-setion-time zg-gray zg-right">20 小时前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
+>孔庆勋</a> 赞同了回答
+
+<a class="question_link" target="_blank" href="/question/46478674/answer/104837299">工作太杂是该学会拒绝还是当做挑战？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="37394211"
+data-atoken="104837299"
+data-collapsed="0"
+data-created="1465315180"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/46478674/answer/104837299">
+<meta itemprop="answer-id" content="37394211">
+<meta itemprop="answer-url-token" content="104837299">
+<a class="zg-anchor-hidden" name="answer-37394211"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>126</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">126</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/li-shi-87-4" target="_blank" data-tip="p$t$li-shi-87-4"
+
+><img src="https://pic4.zhimg.com/76ddd55245b330a024762b3781a8e67b_s.png"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$li-shi-87-4"
+target="_blank" href="/people/li-shi-87-4"
+>李石</a>
+
+
+<span title="活在当下，解决问题" class="bio">，活在当下，解决问题</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="126">
+
+
+<span class="voters text">
+<span class="user-block"><a data-tip="p$t$pam-15" href="http://www.zhihu.com/people/pam-15" target="_blank" class="zg-link" title="Pam"
+>Pam</a>、</span><span class="user-block"><a data-tip="p$t$huang-qun-zi-41" href="http://www.zhihu.com/people/huang-qun-zi-41" target="_blank" class="zg-link" title="黄裙子"
+>黄裙子</a>、</span><span class="user-block"><a data-tip="p$t$yiwang-er-shen-27-88" href="http://www.zhihu.com/people/yiwang-er-shen-27-88" target="_blank" class="zg-link" title="一往而深"
+>一往而深</a></span>
+</span>
+
+
+<a href="javascript:;" class="more text"> 等人赞同</a>
+
+
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="10805259" data-action="/answer/content" data-author-name="李石" data-entry-url="/question/46478674/answer/104837299">
+
+<textarea hidden class="content">谢邀&lt;br&gt;&lt;blockquote&gt;工作太杂是该学会拒绝还是当做挑战？&lt;/blockquote&gt;很多职场新人都和我抱怨过，做的都是杂活，没有专业成长，希望学习如何拒绝。我的回答是，在学习如何拒绝之前，更该思考的是该不该决绝。本文不鸡汤，不洗脑，站在管理、企业和员工角度分析一下如何面对杂活。&lt;br&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;简答&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;工作中的杂活是建立信任的必经之路，杂活都做不好那么有挑战的事更不会交给你做。&lt;br&gt;&lt;br&gt;&lt;b&gt;正向职场发展路径：&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;按质按量做好杂活，能力获得认可；&lt;/li&gt;&lt;li&gt;契合的价值观，稳定的工作状态，回报潜力获得认可；&lt;/li&gt;&lt;li&gt;给予有一定挑战/风险的工作进行培养/投资；&lt;/li&gt;&lt;li&gt;完成任务/总结经验，快速成长；&lt;/li&gt;&lt;li&gt;按质按量做好高级杂活，能力获得认可；&lt;br&gt;&lt;/li&gt;&lt;li&gt;契合的价值观，稳定的工作状态，回报潜力获得认可；&lt;/li&gt;&lt;li&gt;给予有更高挑战/风险的工作进行培养/投资；&lt;/li&gt;&lt;li&gt;循环双赢。&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;b&gt;逆向职场发展路径：&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;拒绝做杂活，能力难以评估；&lt;/li&gt;&lt;li&gt;拒绝做杂活，没人做杂活让上司很难做，回报潜力难以评估；&lt;br&gt;&lt;/li&gt;&lt;li&gt;不会给予有风险的工作，不会投入资源培养；&lt;/li&gt;&lt;li&gt;纠结只有杂活可做和拒绝做杂活；&lt;/li&gt;&lt;li&gt;没有职业发展，愤而跳槽；&lt;/li&gt;&lt;li&gt;新公司，拒绝做杂活，能力难以评估；&lt;/li&gt;&lt;li&gt;新公司，拒绝做杂活，没人做杂活让上司很难做，回报潜力难以评估；&lt;/li&gt;&lt;li&gt;循环跳槽。&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;b&gt;无论是否公平合理，职业发展是自己的，人生也是自己的，取巧容易，守拙难。&lt;/b&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;————————————展开的分割线————————————&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;站在企业角度：企业不是学校&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;生存比发展重要&lt;/b&gt;。对于企业来说，生存永远比发展重要，只有当生存不是问题的时候，才会考虑发展，即使考虑发展，也会评估&lt;b&gt;贴现率&lt;/b&gt;；&lt;/li&gt;&lt;li&gt;&lt;b&gt;员工发展是手段而不是目的&lt;/b&gt;。只有当企业预期员工发展能够带给企业更高的价值和利润的时候，员工发展在企业管理中才会有优先级；&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;不重视员工发展并非出于无知。&lt;/b&gt;考虑到中国企业的平均寿命，多数中小企业不重视员工发展，其实非常理性；&lt;/li&gt;&lt;li&gt;&lt;b&gt;员工不会一视同仁。&lt;/b&gt;即使是重视员工发展的企业，考虑不同员工的投资回报率并不相同，也会将员工分类分级；&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;站在管理角度：工作分为两种&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;例行工作。&lt;/b&gt;比如资料收集、整理，供应商联络，客户维护，计划执行，这类工作有三个特点：能力要求不高，难以取得学习成长，工作成果影响不大。&lt;/li&gt;&lt;li&gt;&lt;b&gt;挑战工作。&lt;/b&gt;比如客户拓展、谈判，资料分析，计划制定，制度设计，这类工作有三个特点：难能力要求较高，可以不断创新突破，工作成果影响较大。&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;站在员工角度：学会换位思考&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;能力不是说出来的，是从工作中展现的。&lt;/b&gt;员工常常会聚焦在前两点上，觉得能力出色可以胜任，就应该给予挑战工作，事实上能力从来不是自己说出来的，而是从工作中展现出来的，只有展现出来的工作获得了信任，公司才会愿意承担风险把挑战任务交给你。&lt;/li&gt;&lt;li&gt;&lt;b&gt;员工培养是手段不是目的。&lt;/b&gt;企业没有义务为员工的成长负责，只有展现投资价值的人才值得给予机会锻炼培养；企业并不崇尚公平，有限的资源和机会必然会给回报最高的人。&lt;/li&gt;&lt;/ol&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+谢邀工作太杂是该学会拒绝还是当做挑战？很多职场新人都和我抱怨过，做的都是杂活，没有专业成长，希望学习如何拒绝。我的回答是，在学习如何拒绝之前，更该思考的是该不该决绝。本文不鸡汤，不洗脑，站在管理、企业和员工角度分析一下如何面对杂活。<b>简答</b>工…
+
+<a href="/question/46478674/answer/104837299" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2016-06-07" target="_blank" href="/question/46478674/answer/104837299">编辑于 2016-06-08</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-10805259"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>18 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1465877147" data-type="a" data-type-detail="member_voteup_answer">
+<span class="zm-profile-setion-time zg-gray zg-right">1 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
+>孔庆勋</a> 赞同了回答
+
+<a class="question_link" target="_blank" href="/question/26980854/answer/105808243">什么是「富人思维」？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="37784766"
+data-atoken="105808243"
+data-collapsed="0"
+data-created="1465820887"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/26980854/answer/105808243">
+<meta itemprop="answer-id" content="37784766">
+<meta itemprop="answer-url-token" content="105808243">
+<a class="zg-anchor-hidden" name="answer-37784766"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>392</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">392</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/wang-yu-rong" target="_blank" data-tip="p$t$wang-yu-rong"
+
+><img src="https://pic3.zhimg.com/746ecdfdd123929c26773f11e2b62f0a_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$wang-yu-rong"
+target="_blank" href="/people/wang-yu-rong"
+>Pein融</a>
+
+
+<span title="95后创业者 坐标洛杉矶" class="bio">，95后创业者 坐标洛杉矶</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="392">
+
+
+<span class="voters text">
+<span class="user-block"><a data-tip="p$t$zhao-hui-ying-95" href="http://www.zhihu.com/people/zhao-hui-ying-95" target="_blank" class="zg-link" title="赵会颖"
+>赵会颖</a>、</span><span class="user-block"><a data-tip="p$t$hong-ya-pei" href="http://www.zhihu.com/people/hong-ya-pei" target="_blank" class="zg-link" title="洪亚培"
+>洪亚培</a>、</span><span class="user-block"><a data-tip="p$t$ou-zhan-55" href="http://www.zhihu.com/people/ou-zhan-55" target="_blank" class="zg-link" title="欧沾"
+>欧沾</a></span>
+</span>
+
+
+<a href="javascript:;" class="more text"> 等人赞同</a>
+
+
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="2975313" data-action="/answer/content" data-author-name="Pein融" data-entry-url="/question/26980854/answer/105808243">
+
+<textarea hidden class="content">富人思维大概就是&lt;b&gt;“把赚到的钱认真的花出去，不过多的积存”。&lt;/b&gt;&lt;br&gt;&lt;br&gt;我经常跟身边年轻的企业老总和留学党朋友聊起金钱观念，大抵得到的回答是没有必要留钱，对于30以下的人来说“富裕”并不需要千万资产，甚至不需要百万。大多数创业成功的朋友已经在北美开上了跑车或者高档suv，不需要养房，稳定的恋爱关系也不必大把花钱保养，因此&lt;b&gt;并没有过多的生活花销。&lt;/b&gt;&lt;br&gt;&lt;br&gt;因此对于这样的人来说，没有必要留钱，看到好的项目和机会可以不假思索的一头钻进去，也往往有机会做成。&lt;br&gt;&lt;br&gt;&lt;b&gt;财富的积累不光光是balance上的数字，更多是阅历和可以变现资源的整合。&lt;/b&gt;这些年因为微信群和各类峰会的存在，加到大佬微信已经变得稀疏平常，但是资源的整合并不如此。举个例子，我做新媒体到现在频繁维护的关系不过二三十条，但是每一条线都有它的价值。&lt;br&gt;&lt;br&gt;比如每次在微博上写文章，都会投稿给@北美新浪 转发并投放粉丝头条，平时有话题合作的媒体大V @侨报网和@吃货小分队等八个平台总共一百多万粉丝都可以转发。&lt;b&gt;在我看来，人脉的定义是不欠人情的基础上能办事的总量；人情一定要维护，但是绝对和执行力是两码事。&lt;/b&gt;&lt;br&gt;&lt;br&gt;富人思维不仅善于在做新尝试上花钱，更需要敏锐的嗅觉去发现哪些关系值得去维护，他们的价值有多高，稳定性有多强。&lt;b&gt;在外界的赞誉中保持冷静的区分自己真实执行力和一些虚假的人情&lt;/b&gt;，也是一个很重要的能力。&lt;br&gt;&lt;br&gt;这些思维并不只是有钱人才能有的，放低自己生活花销的期望值之后大多数知友都能够去运用这些思维，来更高效的运用自己手上有限的资源去优化自己。&lt;br&gt;&lt;br&gt;&lt;b&gt;应该不算强答，过5500关注继续更新哈哈哈。&lt;/b&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+富人思维大概就是<b>“把赚到的钱认真的花出去，不过多的积存”。</b>我经常跟身边年轻的企业老总和留学党朋友聊起金钱观念，大抵得到的回答是没有必要留钱，对于30以下的人来说“富裕”并不需要千万资产，甚至不需要百万。大多数创业成功的朋友已经在北美开上了跑…
+
+<a href="/question/26980854/answer/105808243" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2016-06-13" target="_blank" href="/question/26980854/answer/105808243">编辑于 昨天 08:32</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-2975313"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>35 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1465871296" data-type="a" data-type-detail="member_voteup_answer">
+<span class="zm-profile-setion-time zg-gray zg-right">1 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
+>孔庆勋</a> 赞同了回答
+
+<a class="question_link" target="_blank" href="/question/40761619/answer/105702064">如何评价 2016 年全国一卷高考漫画作文题（耳光与亲吻）？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="37741862"
+data-atoken="105702064"
+data-collapsed="0"
+data-created="1465784123"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/40761619/answer/105702064">
+<meta itemprop="answer-id" content="37741862">
+<meta itemprop="answer-url-token" content="105702064">
+<a class="zg-anchor-hidden" name="answer-37741862"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>33</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">33</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/zhe-lee-16" target="_blank" data-tip="p$t$zhe-lee-16"
+
+><img src="https://pic1.zhimg.com/adc782b8352b18ecbdfada0ec12cde8c_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$zhe-lee-16"
+target="_blank" href="/people/zhe-lee-16"
+>哲 Lee</a>
+
+
+<span title="2016届高考考生" class="bio">，2016届高考考生</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="33">
+
+
+<span class="voters text">
+<span class="user-block"><a data-tip="p$t$yuan-yu-ming-57" href="http://www.zhihu.com/people/yuan-yu-ming-57" target="_blank" class="zg-link" title="袁驭溟"
+>袁驭溟</a>、</span><span class="user-block"><a data-tip="p$t$du-xiao-fu-12" href="http://www.zhihu.com/people/du-xiao-fu-12" target="_blank" class="zg-link" title="杜小甫"
+>杜小甫</a>、</span><span class="user-block"><a data-tip="p$t$monica-wu-16" href="http://www.zhihu.com/people/monica-wu-16" target="_blank" class="zg-link" title="Monica Wu"
+>Monica Wu</a></span>
+</span>
+
+
+<a href="javascript:;" class="more text"> 等人赞同</a>
+
+
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="8511648" data-action="/answer/content" data-author-name="哲 Lee" data-entry-url="/question/40761619/answer/105702064">
+
+<textarea hidden class="content">首先，作为一个真实参加了这次高考的人，也切实在高考考场写了这个漫画题目的人，首先漫画作为作文材料至少我个人确实没有写过，但漫画的解读题目我们是经常做的，一般也就是作文前一道题出一个漫画的解读，或者某一个Logo的解读，所以说漫画本身并不陌生，只是以往我们只做50~100字的解读，这次要扩充到800字以上，需要去对这个寓意做更多的深挖，就个人的体验而言，刚开始的时候确实有些摸不着头脑，后面写得就还算顺利，不过对于很多本身读图能力就不强的人来说，可能确实写得很痛苦。 &lt;br&gt;&lt;br&gt;下面说一下我具体是怎么一个思维的过程，和最终的撰写，首先，我看到这幅图，我大脑风暴了很多东西，第一，家庭的教育问题是直接也是最容易想到的点，但不用想肯定写的人特别多，不容易出彩，我进而想到了一个可能更宏观的社会问题，也就是我最后决定写的所谓“双重标准”问题，然后我就想了几个材料，逻辑线也不是特别清晰，就开始写了，这里要着重提一下我的作文标题是整个文章写完之后再定的，主要是时间也确实不够，我前面也算写得蛮快的了，但到作文这儿也就剩一个小时多点，没有太多时间去让我明确自己在最后要表达什么内容，具体要怎么拔高等等，只能一边想一边写。&lt;br&gt;&lt;br&gt;下面是我据回忆写得我当时的高考作文，首先说一下，我个人平时模拟的作文成绩也就45分左右，属于非常普通的三类作文，不作为范文参考，只是给大家看一下一个普通考生面对这样一个作文材料的应对，另外写到的很多观点和所用材料，我个人也并不认同，只是为应试所作，很多地方不得不这么去写，大家看个意思就行了。&lt;br&gt;&lt;br&gt;&lt;blockquote&gt;                                                     对事不对人&lt;br&gt;&lt;/blockquote&gt;首先我在写完作文之后把这个标题的总结出来，只是为了鲜明，毕竟高考作文的判卷速度非常快，让他非常明确的知道你get到点了，没有偏题最为重要。&lt;br&gt;&lt;blockquote&gt;   对于一个国家或者一个社会来讲，往往它越去宣传什么，它就越缺失什么，我们在今天的这样一个时代中，往往谈及一个说法，就是所谓的“对事不对人”，我们今天总是在社交当中谈及这种行为方式，恰恰是因为我们的社会当中充满着所谓的“熟人关系”，大部分情况下，我们“对人不对事”，相比于很多客观的事物的规则，我们更看重所谓的“潜规则”，这也导致很多难于理解的乱象的发生。&lt;/blockquote&gt;还是为了鲜明，与文章的标题相接。&lt;br&gt;&lt;blockquote&gt;    中国，四大文明古国之一，也是文化传承至今，保留最为完整的文明古国，有着悠久的历史和灿烂的文化，但令人费解的是，时至今日，我们的青少年的文化消费却以舶来文化为主，在《变形金刚》系列在中国横扫票房市场的同时，我们却鲜有作品能够脱离大陆市场，这一方面源自于我国电影工业的不成熟，但另一方面，也源自于我国电影行业的过度保护，促使国内的电影难于进入一个良性的竞争当中，没有拍不好真的会赔的紧迫感，所以才导致了所谓“烂片横行”的乱象。&lt;br&gt;    而另一方面，我国的家电行业，早早的放开了竞争，才有了今天像格力，美的这样的国产品牌对市场的把控，同样的在移动终端领域，才会今天华为，小米这样的企业，在市场上叫板苹果，三星的情形出现。&lt;br&gt;   国家对两种产业的双重标准的管理，国民对这两者的双重标准的评价，导致了两个截然不同的结果，诚然，对客观上不发达的产业，我们需要去给予鼓励和支持，但这并不应该是过度保护，过度保护的产业和过度溺爱的孩子一样，都是畸形的、走不出温室的。&lt;/blockquote&gt;额，一连说了两个知乎上的月经话题，看来确实是重度知乎用户了，不过大家应该也看的出来，其实我是把这个“双重标准”应往上生搬硬套了，而且我也知道，电影产业的所谓“保护”更多的是一种文化管制，但这高考作文咱又不能说是不？总的来讲这个材料用的比较瞎，不过也不重要，一般高考作文改卷，只是看个头看个尾，中间这段，也就稀里糊涂过去了。&lt;blockquote&gt;   对于原先可能做得不那么好的孩子，他有所进步给予鼓励，可以理解，但给予和那些真正做得好的孩子同样的褒奖，就显得有些不公，对于原先真的做得非常优秀的孩子，他稍微有所浮动便给予和那些真的做得很差的孩子同等的惩罚，即使他付出的努力是他人的数倍十数倍，这样的“双重标准”的评价体系不光光是教育上的，也是这个社会的，我们总是推崇所谓“浪子回归金不换”，也总是热衷于所谓“墙倒众人推”，这样的一个评价体系是不公的，也是病态的。&lt;br&gt;&lt;/blockquote&gt;结合题目的材料，准备拔高。&lt;br&gt;&lt;blockquote&gt;  时至今日，我们的国力正在飞速的成长，国民生产总值，超美的势头逐步显露，国际影响力有望回归中古时期乃至盛唐，在这样一个时期我们的社会有太多的地方需要转变，同样的，我们的评价的体系也需要去做出改变，去给这个社会带来更多的规则感，真正的做到“对事不对人”，给那些真正做出成果的人所应有的回报。&lt;br&gt;  学问虽远在中国，亦当求知，我希望这句话不仅仅被说出在千年以前，也能够被提及在不远的将来。&lt;/blockquote&gt;主旋律，正能量加小煽情，老师你给分吧。&lt;br&gt;&lt;br&gt;总的来讲这篇文章还是很套路化的，基本上就还是按照标准的所谓议论文的模板去写，这也是现有的高考评分体系下的产物，无论这个题目出的怎么偏，怎么怪异或者有新意，这种评分模式导致了我们写作无论题目如何，最后都会像写八股一样去模板化，套路化的去写，这种模式才是最应该去改变的，才是真正所谓“蠢”的存在。&lt;br&gt;&lt;br&gt;OK，最后上一下准考证，祝我数学蒙的全对:P&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://pic3.zhimg.com/ea2bdece8768e392b140774ddc99c3b6_b.jpg&quot; data-rawwidth=&quot;984&quot; data-rawheight=&quot;1312&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;984&quot; data-original=&quot;https://pic3.zhimg.com/ea2bdece8768e392b140774ddc99c3b6_r.jpg&quot;&gt;</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic3.zhimg.com/ea2bdece8768e392b140774ddc99c3b6_200x112.jpg" data-rawwidth="984" data-rawheight="1312" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic3.zhimg.com/ea2bdece8768e392b140774ddc99c3b6_r.jpg">
+首先，作为一个真实参加了这次高考的人，也切实在高考考场写了这个漫画题目的人，首先漫画作为作文材料至少我个人确实没有写过，但漫画的解读题目我们是经常做的，一般也就是作文前一道题出一个漫画的解读，或者某一个Logo的解读，所以说漫画本身并不陌生，…
+
+<a href="/question/40761619/answer/105702064" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/40761619/answer/105702064">发布于 2016-06-13</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-8511648"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>30 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1465827231" data-type="a" data-type-detail="member_voteup_answer">
+<span class="zm-profile-setion-time zg-gray zg-right">1 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
+>孔庆勋</a> 赞同了回答
+
+<a class="question_link" target="_blank" href="/question/47404871/answer/105821389">如何看待微软以 262 亿美元全现金收购 LinkedIn？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="37790018"
+data-atoken="105821389"
+data-collapsed="0"
+data-created="1465826562"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/47404871/answer/105821389">
+<meta itemprop="answer-id" content="37790018">
+<meta itemprop="answer-url-token" content="105821389">
+<a class="zg-anchor-hidden" name="answer-37790018"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>1018</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">1018</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/kaiqu" target="_blank" data-tip="p$t$kaiqu"
+
+><img src="https://pic4.zhimg.com/352f3aea3_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$kaiqu"
+target="_blank" href="/people/kaiqu"
+>曲凯</a>
+
+
+<span title="海归创投人。微信公号：42章经（ID：MyFortyTwo）" class="bio">，海归创投人。微信公号：42章经（ID：MyFo…</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="1018">
+
+
+<span class="voters text">
+<span class="user-block"><a data-tip="p$t$luo-yichao-71" href="http://www.zhihu.com/people/luo-yichao-71" target="_blank" class="zg-link" title="罗一超"
+>罗一超</a>、</span><span class="user-block"><a data-tip="p$t$ma-de-fang-85" href="http://www.zhihu.com/people/ma-de-fang-85" target="_blank" class="zg-link" title="马德方"
+>马德方</a>、</span><span class="user-block"><a data-tip="p$t$charleslaw901" href="http://www.zhihu.com/people/charleslaw901" target="_blank" class="zg-link" title="永明生"
+>永明生</a></span>
+</span>
+
+
+<a href="javascript:;" class="more text"> 等人赞同</a>
+
+
+
+
+<span class="answer-tag">
+
+<span class="zg-bull text">•</span>
+
+<span class="text">收录于 </span>
+
+
+<span class="text">编辑推荐</span>
+
+
+
+</span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="11176513" data-action="/answer/content" data-author-name="曲凯" data-entry-url="/question/47404871/answer/105821389">
+
+<textarea hidden class="content">1）这个大deal是Morgan Stanley做的，微软将主要以发行债券的方式，用全现金收购，收购后Linkedin将保持独立运作，原CEO汇报给微软高层。&lt;br&gt;&lt;br&gt;2）Linkedin之前收盘价是$131.08，微软的收购价是$196每股，所以今天盘前Linkedin直接涨了60%+，我相信很多国人有持有该股，恭喜。&lt;br&gt;&lt;br&gt;3）按照微软的说法，微软和Linkedin的共同目标都是Empower people and organizations（给人和组织赋能），所以合起来也是合理的。&lt;br&gt;&lt;br&gt;4）其实微软的现状是空有一堆工具，没有主线。而Linkedin的问题是空有一堆用户，缺乏新的故事和变现方式。&lt;br&gt;&lt;br&gt;微软和Linkedin的现状图，尤其是微软，产品个个好用，却就是一盘散沙，生硬的把Office 365服务打包，却也还缺乏更好地卖点：&lt;br&gt;&lt;img src=&quot;https://pic3.zhimg.com/79c59fdcf0f88009305e1ac411c76442_b.jpg&quot; data-rawwidth=&quot;748&quot; data-rawheight=&quot;311&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;748&quot; data-original=&quot;https://pic3.zhimg.com/79c59fdcf0f88009305e1ac411c76442_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;5）所以合在一起，微软之所以肯花重金来收购Linkedin，我觉得重点就是下面这个图：&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://pic2.zhimg.com/9ad2fb02de37fd955c500558c38bd7a5_b.jpg&quot; data-rawwidth=&quot;439&quot; data-rawheight=&quot;389&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;439&quot; data-original=&quot;https://pic2.zhimg.com/9ad2fb02de37fd955c500558c38bd7a5_r.jpg&quot;&gt;&lt;br&gt;有了Linkedin的用户和社交关系，微软的所有产品都能有机的联系在一起了（所有的Linkedin上的用户和组织也都变成了Office 365的潜在购买用户）。Linkedin之于微软，就好像没做起来的Google+之于Google一样，但至少Google还有一个Gmail，而微软是真的没有一个可依赖的账户体系（Linkedin的关系体系确实远比不上Facebook，但是微软要的不是全部，要的只是职业人士市场，从这个角度来说，Linkedin的定位和社交关系反而更适合）。如果一切真的能依照微软的理想进行，那么未来Linkedin会成为嫁接微软一切服务的入口，所有的产品都会打包其上。而对于Linkedin来讲，反正故事讲不下去了，广告变现潜力有限，市场都要被Facebook和Google垄断了，那干脆就依附在巨头身上，还有个蛮重要的战略位置，也不错。&lt;br&gt;&lt;br&gt;6）Linkedin除了是招聘产品和社交网络，最近其实重心也转向了商业新闻和内容，所以这块也是微软看重的一点，内容是有粘性的有传播度的，新闻也是职场人士所需的。此外再加上Linkedin之前收购的在线学习网站&lt;a href=&quot;//link.zhihu.com/?target=http%3A//Lynda.com&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;Lynda.com&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;之类的边边角角的布局，合在一起也还是有些小用处。&lt;br&gt;&lt;br&gt;7）在我专栏文章&lt;a href=&quot;https://zhuanlan.zhihu.com/p/21320055&quot; class=&quot;internal&quot;&gt;暗流涌动的互联网世界 - Everything about a startup - 知乎专栏&lt;/a&gt;中其实提到了美国三家巨头都在拼AI，Apple有Siri，Google有Google AI，Amazon有Alexa，其中Siri是有硬件设备基础的，Google是技术最雄厚的，Amazon是从物联网切入最巧妙也最可能釜底抽薪的，而微软其实也有自己的AI产品叫Microsoft Cortana。Still，AI的核心是你要知道这个人是谁，这个人想做什么，而Linkedin是能够很好地补足Microsoft这一环的。这是一场关乎未来的战争。&lt;br&gt;&lt;br&gt;8）Microsoft为了Office 365这一套产品和服务，之前其实已经重金收购过Yammer，Linkedin是第二个大动作了。我相信如果未来Slack愿意卖的话，微软也不会犹豫。毕竟对一个明显落后于市场的巨头来说，能用钱换来的东西又算什么呢？不信？不信你就看看百度之前和之后的各种资本运作吧。</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic3.zhimg.com/79c59fdcf0f88009305e1ac411c76442_200x112.jpg" data-rawwidth="748" data-rawheight="311" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic3.zhimg.com/79c59fdcf0f88009305e1ac411c76442_r.jpg">
+1）这个大deal是Morgan Stanley做的，微软将主要以发行债券的方式，用全现金收购，收购后Linkedin将保持独立运作，原CEO汇报给微软高层。2）Linkedin之前收盘价是$131.08，微软的收购价是$196每股，所以今天盘前Linkedin直接涨了60%+，我相信很多国人有持有…
+
+<a href="/question/47404871/answer/105821389" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2016-06-13" target="_blank" href="/question/47404871/answer/105821389">编辑于 2016-06-13</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-11176513"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>87 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1465823538" data-type="a" data-type-detail="member_answer_question">
+<span class="zm-profile-setion-time zg-gray zg-right">1 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a title="孔庆勋"
+data-tip="p$t$kong-qing-xun"
+class="zm-item-link-avatar"
+href="/people/kong-qing-xun">
+<img src="https://pic3.zhimg.com/186bbf9b4b585cad53615a07beb08c4e_s.png" class="zm-item-img-avatar">
+</a><a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
+>孔庆勋</a> 回答了问题
+
+<a class="question_link" target="_blank" href="/question/47404871/answer/105814407">如何看待微软以 262 亿美元全现金收购 LinkedIn？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="37787204"
+data-atoken="105814407"
+data-collapsed="0"
+data-created="1465823538"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/47404871/answer/105814407">
+<meta itemprop="answer-id" content="37787204">
+<meta itemprop="answer-url-token" content="105814407">
+<a class="zg-anchor-hidden" name="answer-37787204"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>27</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">27</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/kong-qing-xun" target="_blank" data-tip="p$t$kong-qing-xun"
+
+><img src="https://pic3.zhimg.com/186bbf9b4b585cad53615a07beb08c4e_s.png"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$kong-qing-xun"
+target="_blank" href="/people/kong-qing-xun"
+>孔庆勋</a>
+
+
+<span title="创业中，微信：cyjxs100 值乎：孔庆勋" class="bio">，创业中，微信：cyjxs100 值乎：孔庆勋</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="27">
+
+
+<span class="voters text">
+<span class="user-block"><a data-tip="p$t$li-ly-46" href="http://www.zhihu.com/people/li-ly-46" target="_blank" class="zg-link" title="篱ly"
+>篱ly</a>、</span><span class="user-block"><a data-tip="p$t$yan-wang-34-15" href="http://www.zhihu.com/people/yan-wang-34-15" target="_blank" class="zg-link" title="严旺"
+>严旺</a>、</span><span class="user-block"><a data-tip="p$t$james.g" href="http://www.zhihu.com/people/james.g" target="_blank" class="zg-link" title="James.G"
+>James.G</a></span>
+</span>
+
+
+<a href="javascript:;" class="more text"> 等人赞同</a>
+
+
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="11176513" data-action="/answer/content" data-author-name="孔庆勋" data-entry-url="/question/47404871/answer/105814407">
+
+<textarea hidden class="content">想起一本书《创新者的窘境》。&lt;br&gt;&lt;br&gt;&lt;b&gt;如今的情况，是一个陷入窘境的创新者，把另一个陷入窘境的创新者吞掉了。&lt;/b&gt;&lt;br&gt;&lt;br&gt;一张图，看一下LinkedIn的股价。&lt;br&gt;&lt;img src=&quot;https://pic2.zhimg.com/8b7e7f500591ad2e613aa9442a9f1d91_b.png&quot; data-rawwidth=&quot;586&quot; data-rawheight=&quot;500&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;586&quot; data-original=&quot;https://pic2.zhimg.com/8b7e7f500591ad2e613aa9442a9f1d91_r.png&quot;&gt;放在4个多月前，股价还是200美元以上，市值接近300亿美元。如果当时微软给出262亿美元的价格，我想LinkedIn多半不会答应。再往前一段时间，市值已经超过300亿美元了。&lt;br&gt;&lt;br&gt;而现在，盘前大涨将近50%后，收购股价也不到200美元。估计大家都能看到哪条非常明显的绿色柱体，也就是今年2月份的一次大跌。&lt;br&gt;&lt;br&gt;至于大跌的原因，这篇文章还比较到位：&lt;a href=&quot;//link.zhihu.com/?target=http%3A//it.sohu.com/20160206/n437027236.shtml&quot; class=&quot; wrap external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;LinkedIn股价暴跌40％ 100亿市值蒸发痛自何处?-搜狐科技&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt;简单说，就是&lt;b&gt;营收增长慢，亏损增长快，华尔街等不及了。&lt;/b&gt;&lt;br&gt;&lt;br&gt;看了一下LinkedIn近几季度的财报，盈利亏损不时反转，有点亚马逊的味道。然而，这家公司既没有亚马逊庞大的GMV作为支撑，又没有亚马逊一般的增长速度，而华尔街的忍耐终究是有限度的。&lt;br&gt;&lt;br&gt;不过，最终能被微软收购，还是很令人惊讶。虽然实在搞不清楚微软收购的用意何在（难道想做社交？还是纯财务投资？），不过不得不说，保密做的真好……&lt;br&gt;&lt;br&gt;身处《创新者的窘境》中的微软，特别喜欢投一些身处窘境的创新者，像什么Nokia，Skype，最新一个就是LinkedIn。预祝别成为下一个诺记吧……</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img src="https://pic2.zhimg.com/8b7e7f500591ad2e613aa9442a9f1d91_200x112.png" data-rawwidth="586" data-rawheight="500" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic2.zhimg.com/8b7e7f500591ad2e613aa9442a9f1d91_r.png">
+想起一本书《创新者的窘境》。<b>如今的情况，是一个陷入窘境的创新者，把另一个陷入窘境的创新者吞掉了。</b>一张图，看一下LinkedIn的股价。放在4个多月前，股价还是200美元以上，市值接近300亿美元。如果当时微软给出262亿美元的价格，我想LinkedIn多半不会答应…
+
+<a href="/question/47404871/answer/105814407" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2016-06-13" target="_blank" href="/question/47404871/answer/105814407">编辑于 2016-06-13</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-11176513"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>11 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1465823294" data-type="" data-type-detail="member_follow_question">
+<span class="zm-profile-setion-time zg-gray zg-right">1 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
+>孔庆勋</a> 关注了问题
+
+<a class="question_link" href="/question/47404871" data-id="11176513">如何看待微软以 262 亿美元全现金收购 LinkedIn？</a>
+</div>
+
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1465797931" data-type="" data-type-detail="member_follow_question">
+<span class="zm-profile-setion-time zg-gray zg-right">2 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
+>孔庆勋</a> 关注了问题
+
+<a class="question_link" href="/question/46890820" data-id="10970338">重庆会是下一个房价暴涨的城市吗？</a>
+</div>
+
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1465785451" data-type="a" data-type-detail="member_voteup_answer">
+<span class="zm-profile-setion-time zg-gray zg-right">2 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
+>孔庆勋</a> 赞同了回答
+
+<a class="question_link" target="_blank" href="/question/46467400/answer/103789899">为什么很多移动互联网的 CEO 对 App 刷量作假现象态度很暧昧？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="36973580"
+data-atoken="103789899"
+data-collapsed="0"
+data-created="1464779684"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/46467400/answer/103789899">
+<meta itemprop="answer-id" content="36973580">
+<meta itemprop="answer-url-token" content="103789899">
+<a class="zg-anchor-hidden" name="answer-36973580"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>23</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">23</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/kuaidaoqingyi" target="_blank" data-tip="p$t$kuaidaoqingyi"
+
+><img src="https://pic1.zhimg.com/2dc90d15ca0508d29faf3a992fcbc6f4_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$kuaidaoqingyi"
+target="_blank" href="/people/kuaidaoqingyi"
+>快刀青衣</a>
+
+
+<span title="产品狗，无节操，有底线" class="bio">，产品狗，无节操，有底线</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="23">
+
+
+<span class="voters text">
+<span class="user-block"><a data-tip="p$t$gao-leng-nan-dou-bi" href="http://www.zhihu.com/people/gao-leng-nan-dou-bi" target="_blank" class="zg-link" title="高冷男逗比"
+>高冷男逗比</a>、</span><span class="user-block"><a data-tip="p$t$zoewen1813" href="http://www.zhihu.com/people/zoewen1813" target="_blank" class="zg-link" title="zoewen1813"
+>zoewen1813</a>、</span><span class="user-block"><a data-tip="p$t$ma-jie-dong" href="http://www.zhihu.com/people/ma-jie-dong" target="_blank" class="zg-link" title="马杰栋"
+>马杰栋</a></span>
+</span>
+
+
+<a href="javascript:;" class="more text"> 等人赞同</a>
+
+
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="10800787" data-action="/answer/content" data-author-name="快刀青衣" data-entry-url="/question/46467400/answer/103789899">
+
+<textarea hidden class="content">谢邀。&lt;br&gt;&lt;br&gt;我的产品技术同学可以证明，我几乎每个月都会强调一下数据真实性和不要为了宣传或者汇报去作假的原则。&lt;br&gt;&lt;br&gt;恩，首先我没有道德洁癖，我在前东家内部汇报时也做过数据美化（恩，不是造假，而是把好看的数据拿出来，不好看的数据装作没看见）&lt;br&gt;&lt;br&gt;但是创业之后，我的想法就改变了。&lt;br&gt;&lt;br&gt;1.绝不能数据造假&lt;br&gt;&lt;br&gt;数据不好看，可以想办法去解决，不能用一个谎言去掩盖另一个谎言，这样只是自欺欺人。特别是在创业团队，如果团队能对用户造假，那么就能对投资人造假，就能对创始人造假，那么什么底线都能突破。&lt;br&gt;&lt;br&gt;2.数据透明更有力于团队的进步&lt;br&gt;&lt;br&gt;我司每天会在全公司微信群里放出在各个渠道的销售数据、运营数据等，让每个人都思考为什么有的卖的好，有的流量高，深切的理解自己的用户。&lt;br&gt;&lt;br&gt;更核心的还是让团队成员明白公司的现状、现金流等等，能安心的工作，不会出现“吃个晚饭回来加班发现公司破产了”这样的狗血事件。&lt;br&gt;&lt;br&gt;3.数据造假的话，会被黑的&lt;br&gt;&lt;br&gt;我司总是自带被黑光环，可能一个季度就会被不良媒体黑上一次。我们也没打算争辩什么，被黑了，那就去吃顿好的算了。&lt;br&gt;&lt;br&gt;所以我们不敢数据造假，在这个时代里，怎么可能会有秘密存在……造假之后估计一个小时全世界都知道了。&lt;br&gt;&lt;br&gt;4.创业团队的造假与背后的不得已&lt;br&gt;&lt;br&gt;我相信很多团队的数据造假是因为压力，例如要融资了，投资人要求订单数达到多少多少，复购率达到多少多少。我能理解但是并不支持，因为优秀的投资人会关注数据指标，但是更关注的是整体项目的发展前景，而不是短期的数据飙升。</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+谢邀。我的产品技术同学可以证明，我几乎每个月都会强调一下数据真实性和不要为了宣传或者汇报去作假的原则。恩，首先我没有道德洁癖，我在前东家内部汇报时也做过数据美化（恩，不是造假，而是把好看的数据拿出来，不好看的数据装作没看见）但是创业之后，…
+
+<a href="/question/46467400/answer/103789899" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/46467400/answer/103789899">发布于 2016-06-01</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-10800787"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>7 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1465780743" data-type="a" data-type-detail="member_voteup_answer">
+<span class="zm-profile-setion-time zg-gray zg-right">2 天前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
+>孔庆勋</a> 赞同了回答
+
+<a class="question_link" target="_blank" href="/question/37065743/answer/71743797">如何成为 Instagram 的网红？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="24118812"
+data-atoken="71743797"
+data-collapsed="1"
+data-created="1447224542"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="0"
+>
+<link itemprop="url" href="/question/37065743/answer/71743797">
+<meta itemprop="answer-id" content="24118812">
+<meta itemprop="answer-url-token" content="71743797">
+<a class="zg-anchor-hidden" name="answer-24118812"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>613</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">613</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/wang-yu-rong" target="_blank" data-tip="p$t$wang-yu-rong"
+
+><img src="https://pic3.zhimg.com/746ecdfdd123929c26773f11e2b62f0a_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$wang-yu-rong"
+target="_blank" href="/people/wang-yu-rong"
+>Pein融</a>
+
+
+<span title="95后创业者 坐标洛杉矶" class="bio">，95后创业者 坐标洛杉矶</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="613">
+
+
+<span class="voters text">
+<span class="user-block"><a data-tip="p$t$deng-hui-22" href="http://www.zhihu.com/people/deng-hui-22" target="_blank" class="zg-link" title="一枚软胖子"
+>一枚软胖子</a>、</span><span class="user-block"><a data-tip="p$t$ban-nc" href="http://www.zhihu.com/people/ban-nc" target="_blank" class="zg-link" title="BAN.NC"
+>BAN.NC</a>、</span><span class="user-block"><a data-tip="p$t$ma-ge-li-te-ai-chi-suan-ning-meng" href="http://www.zhihu.com/people/ma-ge-li-te-ai-chi-suan-ning-meng" target="_blank" class="zg-link" title="玛格丽特爱吃酸柠檬"
+>玛格丽特爱吃酸柠檬</a></span>
+</span>
+
+
+<a href="javascript:;" class="more text"> 等人赞同</a>
+
+
+
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="7033237" data-action="/answer/content" data-author-name="Pein融" data-entry-url="/question/37065743/answer/71743797">
+
+<textarea hidden class="content">互联网社交平台的发展过程经历了以下几个阶段，从我小学的时候开始经历第一期直到现在还在不断变化&lt;br&gt;&lt;br&gt;1.2005年-QQ PC端社交新鲜期当时玩QQ的时候才开始学会打字不久，记得那时候还有个练打字的游戏，有打飞碟青蛙跳等属于比较基础的应用&lt;img data-rawwidth=&quot;500&quot; data-rawheight=&quot;375&quot; src=&quot;https://pic2.zhimg.com/51bbbf11241927ed8227ab93aafd6189_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;500&quot; data-original=&quot;https://pic2.zhimg.com/51bbbf11241927ed8227ab93aafd6189_r.jpg&quot;&gt;&lt;br&gt;小学的时候大家主要是看等级，那时候移动端还完全没有普及开始，大家都还在小灵通时代: 回到家第一件事就是挂QQ，然后看小企鹅喂养啊之类的，或者冲进去一张新买的点卡。那个时候还有QQ秀，基本上所有人还在PC端社交软件新鲜期。&lt;br&gt;&lt;br&gt;2. 2008-2010 PC-移动转换期&lt;br&gt;&lt;br&gt;那段时间我在用的是三星anycall的手机，3G手机刚出来的时候很是受追捧，因为界面清晰然后大家还是普遍更容易接受按键的手机一些---Iphone4刚进市场时候普及度不算很高。&lt;br&gt;那个时候我身边朋友刚开始有习惯用自己的ID发动态，包括一些现在看起来非主流的动态和其他的转载 段子 游戏的点评（吐槽）等等---那个时候，打酱油，老鼠爱大米，洗刷刷等所谓的新星词汇开始在QQ空间等地方火起来，逐渐印入眼帘，包括后续的80后，90后等等这些现在看起来已经约定俗成，写入年轻人字典的词语。&lt;br&gt;&lt;img data-rawwidth=&quot;1400&quot; data-rawheight=&quot;818&quot; src=&quot;https://pic1.zhimg.com/14ab204de3c678443c252e0b78db8b50_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1400&quot; data-original=&quot;https://pic1.zhimg.com/14ab204de3c678443c252e0b78db8b50_r.jpg&quot;&gt;3. 2011年之后 移动端的胜利&lt;br&gt;2011年之后，IPhone4s开始普及，人人网开始大范围渗透年轻的高中大学人群，网红这个词语开始获得关注。&lt;br&gt;第一批网红感觉就是那时候人人买了会员，那时候记得头像上上有乔巴的小鹿角，然后发状态有边框什么的，很多人会去加这些活跃用户人人好友。&lt;br&gt;值得一提的是，当时“网红”的评判标准是关系网的强度和访问量，而不是现在的粉丝数和传播度，算是一个微妙的区别&lt;br&gt;&lt;img data-rawwidth=&quot;600&quot; data-rawheight=&quot;599&quot; src=&quot;https://pic3.zhimg.com/169bbbe018660871f4f48e3b68f465ca_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;https://pic3.zhimg.com/169bbbe018660871f4f48e3b68f465ca_r.jpg&quot;&gt;4. 2012年之后 人人没落 微信微博平分秋色&lt;br&gt;重点来了，如何成为网红？&lt;br&gt;我很不要脸的说我算是一个过来人&lt;br&gt;“网红”肯定是不敢当的，但是营销自身的网络ID还是有一定的经验，这里想要分享给大家看看，希望能有用&lt;br&gt;最初我是主办了杭城盛宴，一个面向90后的大型Party，第一条状态获得了92万的阅读量并且直接增加了数千基础粉丝&lt;br&gt;&lt;img data-rawwidth=&quot;589&quot; data-rawheight=&quot;414&quot; src=&quot;https://pic3.zhimg.com/e6ebbd7e2bb907ae4410650e2d2abefa_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;589&quot; data-original=&quot;https://pic3.zhimg.com/e6ebbd7e2bb907ae4410650e2d2abefa_r.jpg&quot;&gt;&lt;br&gt;不妨分成几个模块去讲解：&lt;br&gt;【如何成为微信网红-初级篇】&lt;br&gt;微信网红这个概念可能听起来有点奇怪，我先直接上图&lt;br&gt;&lt;br&gt;这个是初级篇的原因是因为比较容易达到，成本大约是找网红的推广费用3000左右+约拍摄影师（注意，必须是懂精修图的，你懂得）400左右&lt;br&gt;做法简单粗暴：&lt;br&gt;1. 拍写真 一套 选出最好看的三张&lt;br&gt;2. 找微信网红 做网络推广的 让她发你的三张照片加上一段文字，通常是“清纯小美女xxx，来自xxx，爱玩不高冷，新晋小网红，xxx白富美…,xxx千金”这些台词先从扩展圈子，添加好友开始。&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;617&quot; src=&quot;https://pic2.zhimg.com/6ab2f2485e6bf85a386fd816718f7355_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic2.zhimg.com/6ab2f2485e6bf85a386fd816718f7355_r.jpg&quot;&gt;&lt;br&gt;3.达到约2500好友后，开始和人互推，就是你发他到朋友圈 她发你互相加粉丝&lt;br&gt;&lt;br&gt;4.这个时候可以开始跟小网红们打交道，进群先聊参加酒吧之类的聚会了，如果有闲钱和线人，找个混得开的开一个卡请客 可以很快融入 虽然这些关系都很虚弱&lt;br&gt;&lt;br&gt;【如何搭建微博人脉圈-中级篇】&lt;br&gt;1. 取关所有网红 取关所有网红 取关所有网红&lt;br&gt;重要的事情说三遍，别问我为什么&lt;br&gt;网红群范例：打码，很无聊，对确实是很无聊，很标准的围城&lt;br&gt;&lt;br&gt;原因很简单，你单向关注他之后买【账号推荐】产品会关联到不想干的新增粉丝。&lt;br&gt;例如你和A都关注了王思聪，或者你和A都关注了你某个闺蜜&lt;br&gt;明显后者是你想要的粉丝，前者可能是一个跟你无关的某外省路人甲，他粉你边际收益约等于零。&lt;br&gt;&lt;br&gt;账号推荐产品的边际成本约为0.6-9元一个粉丝，个人觉得还是划得来的，毕竟新浪搞垄断也没有其他更便宜的办法现阶段，意外火的是个例，事实上大多数网络红人都在现实中投入了不少成本&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; src=&quot;https://pic3.zhimg.com/bdf01c7b5d7d237f5d6a5c6548c213ce_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic3.zhimg.com/bdf01c7b5d7d237f5d6a5c6548c213ce_r.jpg&quot;&gt;接下来就是，500个高质量互粉&lt;br&gt;中国玩家普遍喜欢被关注，不喜欢关注人，所以互粉是必须的。&lt;br&gt;这批人可以从微信上挖，也就是为什么我说了微信网红是最最初级的。&lt;br&gt;方法很简单，发朋友圈点赞互粉，抽人发红包…1.88一个红包发二十个基本都可以达到效果。&lt;br&gt;然后这批人常常互动，如果互动足够高的话，可以达到一个小网红的效果了。&lt;br&gt;&lt;br&gt;这个阶段结束后，你的微博粉丝应该是500+个羡慕你的小白和500个相对高质量的互粉=1000个左右&lt;br&gt;上互粉图，截图中都是N千+的互粉&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; src=&quot;https://pic2.zhimg.com/7efedd28a4f264e6a3e2e57a3c81c909_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic2.zhimg.com/7efedd28a4f264e6a3e2e57a3c81c909_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; src=&quot;https://pic2.zhimg.com/369b225aefa31b393d8bc5bd2f2c40b9_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic2.zhimg.com/369b225aefa31b393d8bc5bd2f2c40b9_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;【如何成为微博网红并入圈-进阶篇】&lt;br&gt;因为过多在线上消耗精力的“网红”在生活中往往处理关系会有一些摩擦，在交友方面最好是谨慎一些，现实和网络能分的清楚自然是最好的&lt;br&gt;&lt;br&gt;在这里给大家举一个例子：PGY美女自媒体联盟，CEO是95年的也是我的好朋友，这些“网红”虽然线上消耗时间很多但是做事非常认真也收益不小，是一个很好的“值得交往的网红”范例&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; src=&quot;https://pic2.zhimg.com/b89a47f390439a34be5bbf70c49accdd_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic2.zhimg.com/b89a47f390439a34be5bbf70c49accdd_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; src=&quot;https://pic3.zhimg.com/0f2c41e1f6cc070c09780da7d94ed04e_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic3.zhimg.com/0f2c41e1f6cc070c09780da7d94ed04e_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; src=&quot;https://pic1.zhimg.com/eb14b597669b39ae9aaf56af9db09f48_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic1.zhimg.com/eb14b597669b39ae9aaf56af9db09f48_r.jpg&quot;&gt;事实上，“网红圈内是非多”很大程度因为消耗了过多精力在虚拟世界，相应的现实生活中会有一些行为不妥，或者把网络世界不合时宜的评判标准放在现实&lt;br&gt;因此有些时候其实依靠线上变现的网红更加值得信任，因为他们讲ID当成一个项目或事业来经营而不会过于沉浸于溢出满足感和虚荣指数之中。&lt;br&gt;&lt;br&gt;【如何进行事件营销 明确微博定位 建立可持续涨粉渠道-小资篇】&lt;br&gt;这个简单来说，就是需要明确你的定位，现在秀生活的窗口期已经过了，需要提供一些干货才能够取得效果&lt;br&gt;&lt;br&gt;例如我分三个模块&lt;br&gt;1. 分享国外留学生活，如下图&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; src=&quot;https://pic2.zhimg.com/5481af07050ffdeefa84b257f1a63209_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic2.zhimg.com/5481af07050ffdeefa84b257f1a63209_r.jpg&quot;&gt;&lt;br&gt;2. 海外新闻撰稿和采访&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;859&quot; src=&quot;https://pic3.zhimg.com/b2bb564236aa34e4b47dca546910d506_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic3.zhimg.com/b2bb564236aa34e4b47dca546910d506_r.jpg&quot;&gt;&lt;br&gt;3. 分享创业项目&amp;amp;Party，如下图&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; src=&quot;https://pic2.zhimg.com/1ff1bdcbc2cc82285b6f2b3929400c39_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic2.zhimg.com/1ff1bdcbc2cc82285b6f2b3929400c39_r.jpg&quot;&gt;&lt;br&gt;同时，一个好看的自定义菜单也是很重要的细节可以在很多时候留住粉丝&lt;br&gt;自定义菜单建议分成三个一级菜单和若干二级菜单，在其中一项留下联系方式&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; src=&quot;https://pic4.zhimg.com/09a6963364e544cab2ca99a0f8370297_b.jpeg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic4.zhimg.com/09a6963364e544cab2ca99a0f8370297_r.jpeg&quot;&gt;&lt;img data-rawwidth=&quot;709&quot; data-rawheight=&quot;1054&quot; src=&quot;https://pic4.zhimg.com/7500fa0afe0de92bf5e46e6980e3bef3_b.jpeg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;709&quot; data-original=&quot;https://pic4.zhimg.com/7500fa0afe0de92bf5e46e6980e3bef3_r.jpeg&quot;&gt;&lt;img data-rawwidth=&quot;2480&quot; data-rawheight=&quot;3508&quot; src=&quot;https://pic1.zhimg.com/f68e0fd77e7e946890844ba66ac2a724_b.jpeg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;2480&quot; data-original=&quot;https://pic1.zhimg.com/f68e0fd77e7e946890844ba66ac2a724_r.jpeg&quot;&gt;&lt;br&gt;当然涨粉和运营形象还需要因人而异每个人的最佳策略会不同，也希望我码的字能对大家有所帮助，谢谢！</textarea>
+
+
+<div class="zh-summary summary clearfix">
+<img data-rawwidth="500" data-rawheight="375" src="https://pic2.zhimg.com/51bbbf11241927ed8227ab93aafd6189_200x112.jpg" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic2.zhimg.com/51bbbf11241927ed8227ab93aafd6189_r.jpg">
+互联网社交平台的发展过程经历了以下几个阶段，从我小学的时候开始经历第一期直到现在还在不断变化1.2005年-QQ PC端社交新鲜期当时玩QQ的时候才开始学会打字不久，记得那时候还有个练打字的游戏，有打飞碟青蛙跳等属于比较基础的应用小学的时候大家主要是看…
+
+<a href="/question/37065743/answer/71743797" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2015-11-11" target="_blank" href="/question/37065743/answer/71743797">编辑于 2016-06-03</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-7033237"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>26 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-6" target="_blank" class="meta-item copyright">禁止转载</a>
+
+<meta name="disableCopy" content="true">
+<meta name="disableCopyAvatar" content="https://pic3.zhimg.com/746ecdfdd123929c26773f11e2b62f0a_m.jpg">
+
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+
+
+<div class="zu-main-sidebar">
+
+<div class="zm-side-section">
+<div class="zm-side-section-inner">
+<div class="SignFlow SignFlow--bordered" id="SidebarSignFlow">
+<div class="SignFlow-panel">
+<div class="title register">
+<h1>加入知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view register SignupForm">
+<form action="/register/email">
+<div class="input-wrapper">
+<input type="text" name="fullname" aria-label="姓名" data-placeholder="姓名" required>
+</div>
+<div class="input-wrapper">
+
+<input type="text" name="phone_num" class="account" aria-label="手机号（仅支持中国大陆）" data-placeholder="手机号（仅支持中国大陆）" required>
+
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" hidden> 
+<input type="password" name="password" aria-label="密码" data-placeholder="密码（不少于 6 位）" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha-module" data-type="en" >
+<input id="captcha" name="captcha" placeholder="验证码" required data-rule-required="true" data-msg-required="请填写验证码">
+<div class="captcha-container">
+
+<img class="js-refreshCaptcha captcha" width="120" height="30" data-tip="s$t$看不清楚？换一张"  alt="验证码">
+</div>
+</div>
+<div class="actions">
+
+<input type="submit" value="注册" class="submit zg-btn-blue">
+
+</div>
+<div class="sns clearfix">
+<span>已有帐号？<a href="#" class="switch-to-login">登录</a></span>
+</div>
+</form>
+</div>
+</div>
+<div class="SignFlow-panel" hidden>
+<div class="LoginForm">
+<div class="title login">
+<h1>登录知乎</h1>
+<h2>与世界分享你的知识、经验和见解</h2>
+</div>
+<div class="view login">
+<form method="POST">
+<div class="input-wrapper">
+<input type="text" name="account" class="account" aria-label="手机号或邮箱" placeholder="手机号或邮箱" required>
+</div>
+<div class="input-wrapper toggle-password">
+<input type="password" name="password" aria-label="密码" placeholder="密码" required>
+<span class="z-ico-show-password"></span>
+</div>
+<div class="input-wrapper captcha-module" data-type="en" >
+<input id="captcha" name="captcha" placeholder="验证码" required data-rule-required="true" data-msg-required="请填写验证码">
+<div class="captcha-container">
+
+<img class="js-refreshCaptcha captcha" width="120" height="30" data-tip="s$t$看不清楚？换一张"  alt="验证码">
+</div>
+</div>
+<div class="actions">
+
+<input type="submit" value="登录" class="submit zg-btn-blue">
+
+</div>
+<div class="sns clearfix">
+<label class="remember-me"><input type="checkbox" name="remember_me" checked value="true">记住我</label>
+<span class="middot">·</span>
+<button class="unable-login" type="button">无法登录？</button>
+<button type="button" class="js-show-sns-buttons is-visible">社交帐号登录</button>
+<div class="sns-buttons">
+<button type="button" class="wechat"><span class="ico sprite-global-icon-wechat-gray"></span>微信</button>
+<button type="button" class="weibo"><span class="ico sprite-global-icon-weibo-gray"></span>微博</button>
+<button type="button" class="qq"><span class="ico sprite-global-icon-qq-gray"></span>QQ</button>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="zm-profile-side-following zg-clear">
+<a class="item" href="/people/kong-qing-xun/followees">
+<span class="zg-gray-normal">关注了</span><br />
+<strong>208</strong><label> 人</label>
+</a>
+<a class="item" href="/people/kong-qing-xun/followers">
+<span class="zg-gray-normal">关注者</span><br />
+<strong>17817</strong><label> 人</label>
+</a>
+</div>
+<div class="zm-profile-side-section">
+<div class="zm-side-section-inner zg-clear">
+<div class="zm-profile-side-section-title">
+关注了 <a href="/people/kong-qing-xun/columns/followed" class="zg-link-litblue"><strong>16 个专栏</strong></a>
+</div>
+<div class="zm-profile-side-columns">
+
+<a href="http://zhuanlan.zhihu.com/therisinglab" data-tip="c$t$therisinglab" class="link" target="_blank">
+<img class="Avatar Avatar--is" src="https://pic1.zhimg.com/90ec3d39b8f86f02631a14feec0b70d8_l.jpg" srcset="https://pic1.zhimg.com/90ec3d39b8f86f02631a14feec0b70d8_l.jpg 2x" alt="新一线城市研究所" />
+</a>
+
+<a href="http://zhuanlan.zhihu.com/sdtalk" data-tip="c$t$sdtalk" class="link" target="_blank">
+<img class="Avatar Avatar--is" src="https://pic4.zhimg.com/0ea1dd274568aa42c3606f62cc41df23_l.jpeg" srcset="https://pic4.zhimg.com/0ea1dd274568aa42c3606f62cc41df23_l.jpeg 2x" alt="SD的碎碎念" />
+</a>
+
+<a href="http://zhuanlan.zhihu.com/hard-things" data-tip="c$t$hard-things" class="link" target="_blank">
+<img class="Avatar Avatar--is" src="https://pic1.zhimg.com/bec19ccf7e64e329724d95431595bbfc_l.jpg" srcset="https://pic1.zhimg.com/bec19ccf7e64e329724d95431595bbfc_l.jpg 2x" alt="hard things" />
+</a>
+
+<a href="http://zhuanlan.zhihu.com/zhinet" data-tip="c$t$zhinet" class="link" target="_blank">
+<img class="Avatar Avatar--is" src="https://pic1.zhimg.com/12d09df463e4ae860bf185317fb972b8_l.jpeg" srcset="https://pic1.zhimg.com/12d09df463e4ae860bf185317fb972b8_l.jpeg 2x" alt="不明真相" />
+</a>
+
+<a href="http://zhuanlan.zhihu.com/wontfallinyourlap" data-tip="c$t$wontfallinyourlap" class="link" target="_blank">
+<img class="Avatar Avatar--is" src="https://pic4.zhimg.com/7c0592d7605a27cedb695e51acdcbcaf_l.jpg" srcset="https://pic4.zhimg.com/7c0592d7605a27cedb695e51acdcbcaf_l.jpg 2x" alt="天上不会掉馅饼" />
+</a>
+
+<a href="http://zhuanlan.zhihu.com/xiepanda" data-tip="c$t$xiepanda" class="link" target="_blank">
+<img class="Avatar Avatar--is" src="https://pic1.zhimg.com/993d9179c_l.jpg" srcset="https://pic1.zhimg.com/993d9179c_l.jpg 2x" alt="谢熊猫出没注意" />
+</a>
+
+<a href="http://zhuanlan.zhihu.com/WebNotes" data-tip="c$t$WebNotes" class="link" target="_blank">
+<img class="Avatar Avatar--is" src="https://pic1.zhimg.com/53d2d98a0_l.jpg" srcset="https://pic1.zhimg.com/53d2d98a0_l.jpg 2x" alt="小道消息" />
+</a>
+
+</div>
+</div>
+</div>
+<div class="zm-profile-side-section">
+<div class="zm-side-section-inner zg-clear">
+<div class="zm-profile-side-section-title">
+关注了 <a href="/people/kong-qing-xun/topics" class="zg-link-litblue"><strong>17 个话题</strong></a>
+</div>
+<div class="zm-profile-side-topics" id="zh-profile-following-topic">
+
+<a class="link" data-tip="t$t$19550517" href="/topic/19550517">
+<img class="Avatar Avatar--l" src="https://pic4.zhimg.com/f07808da5625fef3607f8b75b770349f_l.jpg" srcset="https://pic4.zhimg.com/f07808da5625fef3607f8b75b770349f_xl.jpg 2x" alt="互联网" />
+</a>
+
+<a class="link" data-tip="t$t$19550560" href="/topic/19550560">
+<img class="Avatar Avatar--l" src="https://pic4.zhimg.com/b75f995419ff775ff71fca685d7825af_l.jpg" srcset="https://pic4.zhimg.com/b75f995419ff775ff71fca685d7825af_xl.jpg 2x" alt="创业" />
+</a>
+
+<a class="link" data-tip="t$t$19550228" href="/topic/19550228">
+<img class="Avatar Avatar--l" src="https://pic1.zhimg.com/2e33f063f1bd9221df967219167b5de0_l.jpg" srcset="https://pic1.zhimg.com/2e33f063f1bd9221df967219167b5de0_xl.jpg 2x" alt="知乎" />
+</a>
+
+<a class="link" data-tip="t$t$19556664" href="/topic/19556664">
+<img class="Avatar Avatar--l" src="https://pic3.zhimg.com/6d7dc1d82127396331a952e93fda484e_l.jpg" srcset="https://pic3.zhimg.com/6d7dc1d82127396331a952e93fda484e_xl.jpg 2x" alt="科技" />
+</a>
+
+<a class="link" data-tip="t$t$19555457" href="/topic/19555457">
+<img class="Avatar Avatar--l" src="https://pic4.zhimg.com/34799a68980175b37acfd487a46bce43_l.jpg" srcset="https://pic4.zhimg.com/34799a68980175b37acfd487a46bce43_xl.jpg 2x" alt="商业" />
+</a>
+
+<a class="link" data-tip="t$t$19551077" href="/topic/19551077">
+<img class="Avatar Avatar--l" src="https://pic2.zhimg.com/bea2e1c35_l.jpg" srcset="https://pic2.zhimg.com/bea2e1c35_xl.jpg 2x" alt="历史" />
+</a>
+
+<a class="link" data-tip="t$t$19550994" href="/topic/19550994">
+<img class="Avatar Avatar--l" src="https://pic4.zhimg.com/fb89e0ea3_l.jpg" srcset="https://pic4.zhimg.com/fb89e0ea3_xl.jpg 2x" alt="游戏" />
+</a>
+
+</div>
+</div>
+</div>
+
+<div class="zm-profile-side-section">
+<div class="zm-side-section-inner">
+<span class="zg-gray-normal">个人主页被 <strong>10730</strong> 人浏览</span>
+</div>
+</div>
+
+<script type="text/json" class="json-inline" data-name="current_people">["\u5b54\u5e86\u52cb","kong-qing-xun","https:\/\/pic3.zhimg.com\/186bbf9b4b585cad53615a07beb08c4e_s.png","ef24014bf4bfc938829a105d38f68bd1"]</script>
+<div id="zh-footer" class="zh-footer">
+<div class="content zg-wrap clearfix">
+<ul>
+
+<li><a href="https://liukanshan.zhihu.com" target="_blank">刘看山</a></li>
+
+<li><a href="/app" target="_blank">移动应用</a></li>
+<li><a href="/careers">加入知乎</a></li>
+<li><a href="/terms" target="_blank">知乎协议</a></li>
+<li><a href="/contact">联系我们</a></li>
+
+</ul>
+
+<span class="copy">&copy; 2016 知乎</span>
+
+</div>
+</div>
+
+
+</div>
+
+
+</div>
+
+
+
+<script type="text/json" class="json-inline" data-name="guiders2">{}</script>
+<script type="text/json" class="json-inline" data-name="current_user">["","","","-1","",0,0]</script>
+<script type="text/json" class="json-inline" data-name="user_status">[null,null]</script>
+<script type="text/json" class="json-inline" data-name="env">["zhihu.com","comet.zhihu.com",false,null,false]</script>
+<script type="text/json" class="json-inline" data-name="permissions">[]</script>
+
+
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1465983612000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+
+<script type="text/json" class="json-inline" data-name="ra-urls">{"Report":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Report.7b207896.js","Community":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Community.97844271.js","common":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/common.33e6b712.js","CommentApp":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/CommentApp.02a04f26.js"}</script>
+
+<script src="http://static.zhihu.com/static/revved/-/js/vendor.ff76fbae.js"></script>
+<script src="http://static.zhihu.com/static/revved/-/js/closure/base.f6462175.js"></script>
+
+<script src="http://static.zhihu.com/static/revved/-/js/closure/common.0510c1dd.js"></script>
+
+
+<script src="http://static.zhihu.com/static/revved/-/js/closure/richtexteditor.70f36315.js" async></script>
+<script src="http://static.zhihu.com/static/revved/-/js/closure/page-profile.a6c9a87b.js"></script>
+<meta name="entry" content="ZH.entryProfile" data-module-id="page-profile">
+
+<script type="text/zscript" znonce="f8a090f2e89c43ca8e2842a80ed229cf"></script>
+
+<input type="hidden" name="_xsrf" value="e09ecc6276e51178779db442bbc6f48c"/>
+</body>
+</html>
