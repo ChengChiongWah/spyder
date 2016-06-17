@@ -5,7 +5,7 @@
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 <meta name="renderer" content="webkit" />
-<meta http-equiv="X-ZA-Response-Id" content="85fe943879e14dcf8b417944f8eb6288">
+<meta http-equiv="X-ZA-Response-Id" content="5d10d742708e4ade92e25dba8bb0c9d3">
 
 <title> 孔庆勋 - 知乎</title>
 
@@ -14,7 +14,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 <meta http-equiv="mobile-agent" content="format=html5;url=http://www.zhihu.com/people/kong-qing-xun">
-<meta id="znonce" name="znonce" content="f8a090f2e89c43ca8e2842a80ed229cf">
+<meta id="znonce" name="znonce" content="c6708afda3394395b73de7edd51e97b6">
 
 
 
@@ -27,7 +27,7 @@
 <link rel="shortcut icon" href="http://static.zhihu.com/static/favicon.ico" type="image/x-icon">
 
 <link rel="search" type="application/opensearchdescription+xml" href="http://static.zhihu.com/static/search.xml" title="知乎" />
-<link rel="stylesheet" href="http://static.zhihu.com/static/revved/-/css/z.69975821.css">
+<link rel="stylesheet" href="http://static.zhihu.com/static/revved/-/css/z.ebbe0d18.css">
 <link rel="stylesheet" href="http://static.zhihu.com/static/revved/-/css/pages/profile/main.72a07704.css">
 
 
@@ -611,8 +611,8 @@ display:none;!important;
 <div class="zm-profile-header-operation zg-clear ">
 <div class="zm-profile-header-info-list">
 <span class="zm-profile-header-info-title">获得</span>
-<span class="zm-profile-header-user-agree"><span class="zm-profile-header-icon"></span><strong>54325</strong>赞同</span>
-<span class="zm-profile-header-user-thanks"><span class="zm-profile-header-icon"></span><strong>11736</strong>感谢</span>
+<span class="zm-profile-header-user-agree"><span class="zm-profile-header-icon"></span><strong>54423</strong>赞同</span>
+<span class="zm-profile-header-user-thanks"><span class="zm-profile-header-icon"></span><strong>11782</strong>感谢</span>
 
 </div>
 
@@ -695,7 +695,7 @@ href="/people/kong-qing-xun/logs">
 
 </p>
 <p class="meta">
-<span><i class="zg-icon vote"></i>7946</span>
+<span><i class="zg-icon vote"></i>7954</span>
 <span><i class="zg-icon comment"></i>14</span>
 </p>
 </div>
@@ -715,7 +715,7 @@ href="/people/kong-qing-xun/logs">
 
 </p>
 <p class="meta">
-<span><i class="zg-icon vote"></i>10895</span>
+<span><i class="zg-icon vote"></i>10899</span>
 <span><i class="zg-icon comment"></i>23</span>
 </p>
 </div>
@@ -735,7 +735,7 @@ href="/people/kong-qing-xun/logs">
 
 </p>
 <p class="meta">
-<span><i class="zg-icon vote"></i>3695</span>
+<span><i class="zg-icon vote"></i>3696</span>
 <span><i class="zg-icon comment"></i>9</span>
 </p>
 </div>
@@ -755,7 +755,7 @@ href="/people/kong-qing-xun/logs">
 
 </p>
 <p class="meta">
-<span><i class="zg-icon vote"></i>10589</span>
+<span><i class="zg-icon vote"></i>10592</span>
 <span><i class="zg-icon comment"></i>14</span>
 </p>
 </div>
@@ -777,7 +777,7 @@ href="/people/kong-qing-xun/logs">
 
 </p>
 <p class="meta">
-<span><i class="zg-icon vote"></i>2823</span>
+<span><i class="zg-icon vote"></i>2810</span>
 <span><i class="zg-icon comment"></i>36</span>
 </p>
 </div>
@@ -797,7 +797,7 @@ href="/people/kong-qing-xun/logs">
 
 </p>
 <p class="meta">
-<span><i class="zg-icon vote"></i>8305</span>
+<span><i class="zg-icon vote"></i>8360</span>
 <span><i class="zg-icon comment"></i>41</span>
 </p>
 </div>
@@ -851,7 +851,7 @@ href="/people/kong-qing-xun/logs">
 
 <div class="zm-profile-section-item zg-clear">
 <div class="zm-profile-vote-count">
-<div class="zm-profile-vote-num">2058</div>
+<div class="zm-profile-vote-num">2118</div>
 <div class="zm-profile-vote-type">赞同</div>
 </div>
 <div class="zm-profile-section-main">
@@ -878,7 +878,7 @@ href="/people/kong-qing-xun/logs">
 
 <div class="zm-profile-section-item zg-clear">
 <span class="zm-profile-vote-count">
-<div class="zm-profile-vote-num">696</div>
+<div class="zm-profile-vote-num">700</div>
 <div class="zm-profile-vote-type">浏览</div>
 </span>
 <div class="zm-profile-section-main">
@@ -897,7 +897,7 @@ href="/people/kong-qing-xun/logs">
 
 <div class="zm-profile-section-item zg-clear">
 <span class="zm-profile-vote-count">
-<div class="zm-profile-vote-num">26</div>
+<div class="zm-profile-vote-num">34</div>
 <div class="zm-profile-vote-type">浏览</div>
 </span>
 <div class="zm-profile-section-main">
@@ -944,8 +944,355 @@ href="/people/kong-qing-xun/logs">
 <div class="zm-profile-section-list profile-feed-wrap">
 <div id="zh-profile-activity-page-list">
 
+<div class="zm-profile-section-item zm-item clearfix" data-time="1466052366" data-type="" data-type-detail="member_follow_question">
+<span class="zm-profile-setion-time zg-gray zg-right">1 小时前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
+>孔庆勋</a> 关注了问题
+
+<a class="question_link" href="/question/29195352" data-id="3861031">世界上有哪些非常厉害但鲜为人知的公司？</a>
+</div>
+
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1466049546" data-type="p" data-type-detail="member_voteup_article">
+<span class="zm-profile-setion-time zg-gray zg-right">2 小时前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
+>孔庆勋</a> 赞了 <a class="column_link" href="http://zhuanlan.zhihu.com/FellowPlus" data-tip="c$t$FellowPlus">FellowPlus</a> 中的文章
+
+<a target='_blank' class="post-link" href="http://zhuanlan.zhihu.com/p/21359760">不温不火的互联网教育已经进入收成期？ | FellowData 互联网教育领域数据报告（上）</a>
+</div>
+<div tabindex="-1" class="zm-item-feed zm-item-post" data-type="p">
+<link itemprop="url" href="http://zhuanlan.zhihu.com/p/21359760">
+<meta itemprop="post-id" content="727689">
+<meta itemprop="post-url-token" content="21359760">
+<a class="zg-anchor-hidden" name="post-21359760"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="#" data-bind-votecount>12</a>
+</div>
+
+
+<div class="post-head">
+<div class="author-info">
+
+
+<a href="/people/wangliangabc" data-tip="p$t$wangliangabc"
+class="author-link">王亮</a>，<span class="bio">产品、市场、炒菜、养猫</span>
+
+
+</div>
+<div class="zm-item-vote-info" data-votecount="12">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">12</span>&nbsp;人赞</a></span>
+
+
+</div>
+</div>
+<div class="entry-body">
+<div class="zm-item-rich-text js-collapse-body" data-resourceid="727689">
+<div class="post-content" data-author-name="王亮" data-entry-url="http://zhuanlan.zhihu.com/p/21359760">
+<textarea hidden class="content">&lt;img src=&quot;https://pic4.zhimg.com/b0b76254af4267fa17ba4dcbea460ed3_b.jpg&quot; data-rawwidth=&quot;900&quot; data-rawheight=&quot;500&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;900&quot; data-original=&quot;https://pic4.zhimg.com/b0b76254af4267fa17ba4dcbea460ed3_r.jpg&quot;&gt;&lt;u&gt;以下内容来自 FellowData 公众号  (ID：FellowData)&lt;/u&gt;&lt;blockquote&gt;&lt;b&gt;摘要&lt;/b&gt;&lt;/blockquote&gt;&lt;p&gt;此次盘点，我们研究了从 2013 年至今教育培训领域共 1265 个有效项目的融资交易情况，数据以半年为单位，涉及投资机构 170 家。我们发现，这个领域不算冷，在 1265 个项目当中获过融资的项目有 480 个，退出的项目 48 个；这个领域也谈不上热，融资额超过 5000 万人民币的项目仅 13 个，并且未产生任何一家「独角兽」。而现在，随着从 2014 年开始逐渐增加的退出案例，和 2015 年开始逐步减少的新创公司数，它步入收成期的态势愈发显现。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;互联网教育领域，新玩家入场越来越少&lt;/strong&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;p&gt;互联网教育领域的创业热度自 2015 年下半年起严重下滑，且创业数量和融资额度上呈一个基本同样增减态势，若没有新模式的出现，预期教育培训行业的创业与投资将持续低谷。&lt;/p&gt;&lt;img src=&quot;https://pic2.zhimg.com/e48c7d7cff3e775ac628b79da143ca55_b.jpg&quot; data-rawwidth=&quot;1262&quot; data-rawheight=&quot;938&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1262&quot; data-original=&quot;https://pic2.zhimg.com/e48c7d7cff3e775ac628b79da143ca55_r.jpg&quot;&gt;&lt;p&gt;根据近三年的数据显示，从 2013 年至 2015 年，教育培训行业的创业数量整体呈上升趋势，而每年的下半年均比上半年减少将近三分之一的数量，&lt;b&gt;在 2015 年创业数量达到顶峰之后，&lt;/b&gt;&lt;b&gt;从下半年至今出现一个急剧下降的局面。&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;自 2015 年上，资本投入在该领域更加集中&lt;/strong&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;img src=&quot;https://pic1.zhimg.com/8e1880aa8ef7411562352729d1c398d4_b.jpg&quot; data-rawwidth=&quot;1200&quot; data-rawheight=&quot;994&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1200&quot; data-original=&quot;https://pic1.zhimg.com/8e1880aa8ef7411562352729d1c398d4_r.jpg&quot;&gt;&lt;p&gt;较创业数量相比，教育行业获得融资的项目比例从 2013 年到 2014 年下半年呈上升趋势，而从 2015 年上半年开始下降，整体的平均获投比例约为三分之一。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;市场对互联网教育领域的关注度持续不减，但资本退出已成为主题&lt;/strong&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;img src=&quot;https://pic4.zhimg.com/ea2536ed35e7688bf33d97b086f2f8bb_b.jpg&quot; data-rawwidth=&quot;1262&quot; data-rawheight=&quot;938&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1262&quot; data-original=&quot;https://pic4.zhimg.com/ea2536ed35e7688bf33d97b086f2f8bb_r.jpg&quot;&gt;&lt;p&gt;从 2014 年下半年开始，教育领域退出的项目急剧增长，随后开始缓慢下降，退出包括并购、IPO 以及新三板的项目，其中并购占比达到 95% 以上。&lt;/p&gt;&lt;p&gt;2013 年以前，全国品牌化的教育机构像新东方、环球雅思、北大青鸟等一直处于领先地位，教育培训行业总体也处于起步阶段。随着互联网的兴起，用户也因选择的丰富多样而变得随性，这给互联网教育带来了重要的发展契机。&lt;/p&gt;&lt;p&gt;2015 年是教育培训行业的爆发之年，宏观层面《教育法》《高等教育法》《民办教育促进法》等一系列改革发生，客观上极大推动了民营教育的发展，这一时期相关的创业和投资也信心满满，从早教、K12、职业教育、留学服务到家庭素质教育均有公司涉及。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://pic4.zhimg.com/28b1df9e0efd0d2a78523da130eaeceb_b.jpg&quot; data-rawwidth=&quot;1262&quot; data-rawheight=&quot;938&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1262&quot; data-original=&quot;https://pic4.zhimg.com/28b1df9e0efd0d2a78523da130eaeceb_r.jpg&quot;&gt;2015 年上半年中国教育领域的融资额已经接近 24 亿人民币，增长幅度接近 20%，但是下半年却下降了近 87% 。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://pic3.zhimg.com/60941c5bd071e941f1e1799c1c339cfa_b.jpg&quot; data-rawwidth=&quot;1262&quot; data-rawheight=&quot;938&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1262&quot; data-original=&quot;https://pic3.zhimg.com/60941c5bd071e941f1e1799c1c339cfa_r.jpg&quot;&gt;随着创投数据的增长，直到 2014 年，教育培训行业的媒体热度处于持续增长且基本趋于稳定的态势，虽然从 2015 年下半年开始，创投数据急剧下降，但是媒体的关注度却没有明显的下降趋势。&lt;/p&gt;&lt;br&gt;&lt;img src=&quot;https://pic3.zhimg.com/55401cbbbc319bb2e21e59cf4b2209ba_b.jpg&quot; data-rawwidth=&quot;1941&quot; data-rawheight=&quot;310&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1941&quot; data-original=&quot;https://pic3.zhimg.com/55401cbbbc319bb2e21e59cf4b2209ba_r.jpg&quot;&gt;&lt;p&gt;&lt;strong&gt;                                                 互联网教育领域数据报告（中）：&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;                                                谁是互联网教育投资的天使之王？&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt; 该领域内，有哪些优质项目已经从竞争中脱颖而出？&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;有哪些机构在该领域投资表现出色？&lt;strong&gt;真格基金？IDG？梅花天使创投？&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;这些投资机构的前瞻性从何而来？&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;想从数据中获得答案？扫描关注 FellowData &lt;/strong&gt;公众号&lt;strong&gt;（ID：FellowData)&lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;a href=&quot;https://link.zhihu.com/?target=http%3A//weixin.qq.com/r/okhDW-HEU6wsrbU49x2w&quot; class=&quot; external&quot; target=&quot;_blank&quot; rel=&quot;nofollow noreferrer&quot;&gt;&lt;span class=&quot;invisible&quot;&gt;http://&lt;/span&gt;&lt;span class=&quot;visible&quot;&gt;weixin.qq.com/r/okhDW-H&lt;/span&gt;&lt;span class=&quot;invisible&quot;&gt;EU6wsrbU49x2w&lt;/span&gt;&lt;span class=&quot;ellipsis&quot;&gt;&lt;/span&gt;&lt;i class=&quot;icon-external&quot;&gt;&lt;/i&gt;&lt;/a&gt; (二维码自动识别)&lt;/p&gt;</textarea>
+<div class="zh-summary summary clearfix">
+<img src="https://pic4.zhimg.com/b0b76254af4267fa17ba4dcbea460ed3_200x112.jpg" data-rawwidth="900" data-rawheight="500" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic4.zhimg.com/b0b76254af4267fa17ba4dcbea460ed3_r.jpg"><u>以下内容来自 FellowData 公众号 (ID：FellowData)</u><b>摘要</b>此次盘点，我们研究了从 2013 年至今教育培训领域共 1265 个有效项目的融资交易情况，数据以半年为单位，涉及投资机构 170 家。我们发现，这个领域不算冷，在 1265 个项目当中获过融资的项目有 480 个…
+
+<a href="http://zhuanlan.zhihu.com/p/21359760" class="toggle-expand">显示全部</a>
+
+</div>
+
+</div>
+</div>
+</div>
+<div class="zm-item-meta clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+
+<a data-follow="c:link" class="zg-follow meta-item" href="#" id="cl-3681"><i class="z-icon-follow"></i>关注专栏</a>
+
+<a href="#" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>1 条评论</a>
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+<span class="zg-bull zu-autohide">•</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+<button class="meta-item item-collapse js-collapse">
+<i class="z-ico-fold-white"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1466037220" data-type="a" data-type-detail="member_voteup_answer">
+<span class="zm-profile-setion-time zg-gray zg-right">5 小时前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
+>孔庆勋</a> 赞同了回答
+
+<a class="question_link" target="_blank" href="/question/47315089/answer/106012916">什么时候会有「这 TM 都是套路」的体验？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="37867874"
+data-atoken="106012916"
+data-collapsed="0"
+data-created="1465919999"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/47315089/answer/106012916">
+<meta itemprop="answer-id" content="37867874">
+<meta itemprop="answer-url-token" content="106012916">
+<a class="zg-anchor-hidden" name="answer-37867874"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>2839</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">2839</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/ni-zhi-dao-wo-bu-zhi-dao-96" target="_blank" data-tip="p$t$ni-zhi-dao-wo-bu-zhi-dao-96"
+
+><img src="https://pic3.zhimg.com/88ce5ebdde53fea3856a121428f2a0b6_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$ni-zhi-dao-wo-bu-zhi-dao-96"
+target="_blank" href="/people/ni-zhi-dao-wo-bu-zhi-dao-96"
+>我只是有点困</a>
+
+
+<span title="☜☜原名周树人，啊呸，原名花吃了那女孩" class="bio">，☜☜原名周树人，啊呸，原名花吃了那…</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="2839">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">2839</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="11140403" data-action="/answer/content" data-author-name="我只是有点困" data-entry-url="/question/47315089/answer/106012916">
+
+<textarea hidden class="content">我每天都会经过女生宿舍门口，你们也都知道，那些小情侣总会在门口卿卿我我虐我等单身狗，也会经常有男生在门口等女朋友。&lt;br&gt;我一眼就注意到了一位男生，在女生宿舍门前的树下停下，玩起了手机，我想他一定是在发消息，“宝宝我到你宿舍门口了！”&lt;br&gt;路灯下，清晰地看到雨滴从天而降，雨似乎越下越大了。&lt;br&gt;我走到树下，站在他旁边，眼前是刚洗完澡回宿舍的少女。&lt;br&gt;“在等女朋友？” 我若无其事地说。&lt;br&gt;“是啊。”他转过头慌张地说，他好像不习惯被男生搭讪。&lt;br&gt;“我也是等女朋友出来，现在的女生啊，口口声声说着就要出来了，实际上不等个二十分钟是不会出来的！”&lt;br&gt;因为我告诉他我也是等女朋友，有了这个共同点，而且又似乎找到了共鸣之处，他眉头一抬，打开了话匣子:&lt;br&gt;“可不是嘛！我等过半个多小时！而且也没见她化妆和不化妆有什么区别。”&lt;br&gt;我揪下一片叶子在手中把玩，说，&lt;br&gt;“也许有时候，想着穿这件好看还是穿那件好看呢？来来回回换了好几件衣服最终还是选了第一件！”&lt;br&gt;“哈哈哈就是！”&lt;br&gt;“我每次都等得心态爆炸，每次都想一走了之，化妆换衣服也不是不守时的理由，而且我哪次不是提前通知。”&lt;br&gt;“女孩子嘛，都这样。”&lt;br&gt;“可不能这样想，现在的女孩子就是给惯的。等待是个很痛苦的过程不是吗？”&lt;br&gt;他点点头。&lt;br&gt;我继续说，“如果再过十分钟她不出来我就走了，讲实话，女孩子就要治一治。”&lt;br&gt;“讲真！？你打算怎么解释？”&lt;br&gt;“我等你这么久是尽了我做男朋友的职责，而我走了，这是我的尊严，希望你下次守时。就这么说。”&lt;br&gt;他低头，似乎陷入了沉思。&lt;br&gt;“妈的！不等了！兄弟走喝酒去，我请客！”&lt;br&gt;我微微一笑，扔掉手中的树叶。我和他的转身离开女生宿舍门口，背影越拉越长。&lt;br&gt;&lt;br&gt;其实我哪有什么女朋友要等，我只是对你一见钟情。</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+我每天都会经过女生宿舍门口，你们也都知道，那些小情侣总会在门口卿卿我我虐我等单身狗，也会经常有男生在门口等女朋友。我一眼就注意到了一位男生，在女生宿舍门前的树下停下，玩起了手机，我想他一定是在发消息，“宝宝我到你宿舍门口了！”路灯下，清晰…
+
+<a href="/question/47315089/answer/106012916" class="toggle-expand">显示全部</a>
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2016-06-14" target="_blank" href="/question/47315089/answer/106012916">编辑于 昨天 09:50</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-11140403"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>249 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="zm-profile-section-item zm-item clearfix" data-time="1466036989" data-type="a" data-type-detail="member_voteup_answer">
+<span class="zm-profile-setion-time zg-gray zg-right">5 小时前</span>
+<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
+<a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
+>孔庆勋</a> 赞同了回答
+
+<a class="question_link" target="_blank" href="/question/47315089/answer/106029358">什么时候会有「这 TM 都是套路」的体验？</a>
+</div>
+<div tabindex="-1" class="zm-item-answer "
+itemscope itemtype="http://schema.org/Answer"
+data-aid="37874507"
+data-atoken="106029358"
+data-collapsed="0"
+data-created="1465932313"
+data-deleted="0"
+data-isowner="0"
+data-helpful="1"
+data-copyable="1"
+>
+<link itemprop="url" href="/question/47315089/answer/106029358">
+<meta itemprop="answer-id" content="37874507">
+<meta itemprop="answer-url-token" content="106029358">
+<a class="zg-anchor-hidden" name="answer-37874507"></a>
+
+<div class="zm-item-vote">
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>1377</a>
+</div>
+
+<div class="zm-votebar">
+<button class="up ">
+<i class="icon vote-arrow"></i>
+<span class="count">1377</span>
+<span class="label sr-only">赞同</span>
+</button>
+<button class="down ">
+<i class="icon vote-arrow"></i>
+<span class="label sr-only">反对</span>
+</button>
+</div>
+
+
+<div class="answer-head">
+
+<div class="zm-item-answer-author-info">
+
+<a class="zm-item-link-avatar avatar-link"
+
+href="/people/cheng-si-1994" target="_blank" data-tip="p$t$cheng-si-1994"
+
+><img src="https://pic2.zhimg.com/8dcbdd1c44769cefdf7c95f2cb5d3235_s.jpg"
+class="zm-list-avatar avatar"
+></a>
+
+
+<a class="author-link"
+data-tip="p$t$cheng-si-1994"
+target="_blank" href="/people/cheng-si-1994"
+>Christina Cheng</a>
+
+
+<span title="啥都会啥都不精的经济工程学渣" class="bio">，啥都会啥都不精的经济工程学渣</span>
+
+</div>
+
+<div class="zm-item-vote-info" data-votecount="1377">
+
+
+
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">1377</span>&nbsp;人赞同</a></span>
+
+
+</div>
+</div>
+<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="11140403" data-action="/answer/content" data-author-name="Christina Cheng" data-entry-url="/question/47315089/answer/106029358">
+
+<textarea hidden class="content">微信给对方发“ohh”，让对方长按点翻译。不谢，我姓雷。</textarea>
+
+
+<div class="zh-summary summary clearfix">
+
+微信给对方发“ohh”，让对方长按点翻译。不谢，我姓雷。
+
+</div>
+
+
+
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/47315089/answer/106029358">发布于 昨天 03:25</a></p>
+
+</div>
+<div class="zm-item-meta answer-actions clearfix js-contentActions">
+<div class="zm-meta-panel">
+
+<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-11140403"><i class="z-icon-follow"></i>关注问题</a>
+
+<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
+<i class="z-icon-comment"></i>218 条评论</a>
+
+
+<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
+
+
+
+<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
+
+<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
+
+
+
+
+
+<span class="zg-bull zu-autohide">&bull;</span>
+
+<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
+
+<span class="zg-bull zu-autohide">&bull;</span>
+<a href="#" class="meta-item zu-autohide js-report">举报</a>
+
+
+
+<span class="zg-bull">&bull;</span>
+
+<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
+
+
+<button class="meta-item item-collapse js-collapse">
+<i class="z-icon-fold"></i>收起
+</button>
+</div>
+</div>
+</div>
+</div>
+
 <div class="zm-profile-section-item zm-item clearfix" data-time="1465914640" data-type="a" data-type-detail="member_voteup_answer">
-<span class="zm-profile-setion-time zg-gray zg-right">19 小时前</span>
+<span class="zm-profile-setion-time zg-gray zg-right">1 天前</span>
 <div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
 <a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
 >孔庆勋</a> 赞同了回答
@@ -969,13 +1316,13 @@ data-copyable="1"
 <a class="zg-anchor-hidden" name="answer-32755711"></a>
 
 <div class="zm-item-vote">
-<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>1974</a>
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>1984</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
-<span class="count">1974</span>
+<span class="count">1984</span>
 <span class="label sr-only">赞同</span>
 </button>
 <button class="down ">
@@ -1008,21 +1355,11 @@ target="_blank" href="/people/too-young"
 
 </div>
 
-<div class="zm-item-vote-info" data-votecount="1974">
-
-
-<span class="voters text">
-<span class="user-block"><a data-tip="p$t$ma-long-ji" href="http://www.zhihu.com/people/ma-long-ji" target="_blank" class="zg-link" title="马隆基"
->马隆基</a>、</span><span class="user-block"><a data-tip="p$t$shinntei" href="http://www.zhihu.com/people/shinntei" target="_blank" class="zg-link" title="shinntei"
->shinntei</a>、</span><span class="user-block"><a data-tip="p$t$zhang-cheng-72-64" href="http://www.zhihu.com/people/zhang-cheng-72-64" target="_blank" class="zg-link" title="张晟"
->张晟</a></span>
-</span>
-
-
-<a href="javascript:;" class="more text"> 等人赞同</a>
+<div class="zm-item-vote-info" data-votecount="1984">
 
 
 
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">1984</span>&nbsp;人赞同</a></span>
 
 
 </div>
@@ -1089,7 +1426,7 @@ target="_blank" href="/people/too-young"
 </div>
 
 <div class="zm-profile-section-item zm-item clearfix" data-time="1465911224" data-type="a" data-type-detail="member_voteup_answer">
-<span class="zm-profile-setion-time zg-gray zg-right">20 小时前</span>
+<span class="zm-profile-setion-time zg-gray zg-right">1 天前</span>
 <div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
 <a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
 >孔庆勋</a> 赞同了回答
@@ -1113,13 +1450,13 @@ data-copyable="1"
 <a class="zg-anchor-hidden" name="answer-37394211"></a>
 
 <div class="zm-item-vote">
-<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>126</a>
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>154</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
-<span class="count">126</span>
+<span class="count">154</span>
 <span class="label sr-only">赞同</span>
 </button>
 <button class="down ">
@@ -1152,21 +1489,11 @@ target="_blank" href="/people/li-shi-87-4"
 
 </div>
 
-<div class="zm-item-vote-info" data-votecount="126">
-
-
-<span class="voters text">
-<span class="user-block"><a data-tip="p$t$pam-15" href="http://www.zhihu.com/people/pam-15" target="_blank" class="zg-link" title="Pam"
->Pam</a>、</span><span class="user-block"><a data-tip="p$t$huang-qun-zi-41" href="http://www.zhihu.com/people/huang-qun-zi-41" target="_blank" class="zg-link" title="黄裙子"
->黄裙子</a>、</span><span class="user-block"><a data-tip="p$t$yiwang-er-shen-27-88" href="http://www.zhihu.com/people/yiwang-er-shen-27-88" target="_blank" class="zg-link" title="一往而深"
->一往而深</a></span>
-</span>
-
-
-<a href="javascript:;" class="more text"> 等人赞同</a>
+<div class="zm-item-vote-info" data-votecount="154">
 
 
 
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">154</span>&nbsp;人赞同</a></span>
 
 
 </div>
@@ -1195,7 +1522,7 @@ target="_blank" href="/people/li-shi-87-4"
 <a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-10805259"><i class="z-icon-follow"></i>关注问题</a>
 
 <a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
-<i class="z-icon-comment"></i>18 条评论</a>
+<i class="z-icon-comment"></i>21 条评论</a>
 
 
 <a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
@@ -1233,7 +1560,7 @@ target="_blank" href="/people/li-shi-87-4"
 </div>
 
 <div class="zm-profile-section-item zm-item clearfix" data-time="1465877147" data-type="a" data-type-detail="member_voteup_answer">
-<span class="zm-profile-setion-time zg-gray zg-right">1 天前</span>
+<span class="zm-profile-setion-time zg-gray zg-right">2 天前</span>
 <div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
 <a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
 >孔庆勋</a> 赞同了回答
@@ -1257,13 +1584,13 @@ data-copyable="1"
 <a class="zg-anchor-hidden" name="answer-37784766"></a>
 
 <div class="zm-item-vote">
-<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>392</a>
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>423</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
-<span class="count">392</span>
+<span class="count">423</span>
 <span class="label sr-only">赞同</span>
 </button>
 <button class="down ">
@@ -1296,21 +1623,11 @@ target="_blank" href="/people/wang-yu-rong"
 
 </div>
 
-<div class="zm-item-vote-info" data-votecount="392">
-
-
-<span class="voters text">
-<span class="user-block"><a data-tip="p$t$zhao-hui-ying-95" href="http://www.zhihu.com/people/zhao-hui-ying-95" target="_blank" class="zg-link" title="赵会颖"
->赵会颖</a>、</span><span class="user-block"><a data-tip="p$t$hong-ya-pei" href="http://www.zhihu.com/people/hong-ya-pei" target="_blank" class="zg-link" title="洪亚培"
->洪亚培</a>、</span><span class="user-block"><a data-tip="p$t$ou-zhan-55" href="http://www.zhihu.com/people/ou-zhan-55" target="_blank" class="zg-link" title="欧沾"
->欧沾</a></span>
-</span>
-
-
-<a href="javascript:;" class="more text"> 等人赞同</a>
+<div class="zm-item-vote-info" data-votecount="423">
 
 
 
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">423</span>&nbsp;人赞同</a></span>
 
 
 </div>
@@ -1330,7 +1647,7 @@ target="_blank" href="/people/wang-yu-rong"
 
 
 
-<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2016-06-13" target="_blank" href="/question/26980854/answer/105808243">编辑于 昨天 08:32</a></p>
+<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2016-06-13" target="_blank" href="/question/26980854/answer/105808243">编辑于 2016-06-14</a></p>
 
 </div>
 <div class="zm-item-meta answer-actions clearfix js-contentActions">
@@ -1377,7 +1694,7 @@ target="_blank" href="/people/wang-yu-rong"
 </div>
 
 <div class="zm-profile-section-item zm-item clearfix" data-time="1465871296" data-type="a" data-type-detail="member_voteup_answer">
-<span class="zm-profile-setion-time zg-gray zg-right">1 天前</span>
+<span class="zm-profile-setion-time zg-gray zg-right">2 天前</span>
 <div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
 <a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
 >孔庆勋</a> 赞同了回答
@@ -1401,13 +1718,13 @@ data-copyable="1"
 <a class="zg-anchor-hidden" name="answer-37741862"></a>
 
 <div class="zm-item-vote">
-<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>33</a>
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>36</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
-<span class="count">33</span>
+<span class="count">36</span>
 <span class="label sr-only">赞同</span>
 </button>
 <button class="down ">
@@ -1440,21 +1757,11 @@ target="_blank" href="/people/zhe-lee-16"
 
 </div>
 
-<div class="zm-item-vote-info" data-votecount="33">
-
-
-<span class="voters text">
-<span class="user-block"><a data-tip="p$t$yuan-yu-ming-57" href="http://www.zhihu.com/people/yuan-yu-ming-57" target="_blank" class="zg-link" title="袁驭溟"
->袁驭溟</a>、</span><span class="user-block"><a data-tip="p$t$du-xiao-fu-12" href="http://www.zhihu.com/people/du-xiao-fu-12" target="_blank" class="zg-link" title="杜小甫"
->杜小甫</a>、</span><span class="user-block"><a data-tip="p$t$monica-wu-16" href="http://www.zhihu.com/people/monica-wu-16" target="_blank" class="zg-link" title="Monica Wu"
->Monica Wu</a></span>
-</span>
-
-
-<a href="javascript:;" class="more text"> 等人赞同</a>
+<div class="zm-item-vote-info" data-votecount="36">
 
 
 
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">36</span>&nbsp;人赞同</a></span>
 
 
 </div>
@@ -1521,7 +1828,7 @@ target="_blank" href="/people/zhe-lee-16"
 </div>
 
 <div class="zm-profile-section-item zm-item clearfix" data-time="1465827231" data-type="a" data-type-detail="member_voteup_answer">
-<span class="zm-profile-setion-time zg-gray zg-right">1 天前</span>
+<span class="zm-profile-setion-time zg-gray zg-right">2 天前</span>
 <div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
 <a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
 >孔庆勋</a> 赞同了回答
@@ -1545,13 +1852,13 @@ data-copyable="1"
 <a class="zg-anchor-hidden" name="answer-37790018"></a>
 
 <div class="zm-item-vote">
-<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>1018</a>
+<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>1058</a>
 </div>
 
 <div class="zm-votebar">
 <button class="up ">
 <i class="icon vote-arrow"></i>
-<span class="count">1018</span>
+<span class="count">1058</span>
 <span class="label sr-only">赞同</span>
 </button>
 <button class="down ">
@@ -1584,26 +1891,10 @@ target="_blank" href="/people/kaiqu"
 
 </div>
 
-<div class="zm-item-vote-info" data-votecount="1018">
-
-
-<span class="voters text">
-<span class="user-block"><a data-tip="p$t$luo-yichao-71" href="http://www.zhihu.com/people/luo-yichao-71" target="_blank" class="zg-link" title="罗一超"
->罗一超</a>、</span><span class="user-block"><a data-tip="p$t$ma-de-fang-85" href="http://www.zhihu.com/people/ma-de-fang-85" target="_blank" class="zg-link" title="马德方"
->马德方</a>、</span><span class="user-block"><a data-tip="p$t$charleslaw901" href="http://www.zhihu.com/people/charleslaw901" target="_blank" class="zg-link" title="永明生"
->永明生</a></span>
-</span>
-
-
-<a href="javascript:;" class="more text"> 等人赞同</a>
-
-
+<div class="zm-item-vote-info" data-votecount="1058">
 
 
 <span class="answer-tag">
-
-<span class="zg-bull text">•</span>
-
 <span class="text">收录于 </span>
 
 
@@ -1612,6 +1903,9 @@ target="_blank" href="/people/kaiqu"
 
 
 </span>
+
+
+<span class="zg-bull text">•</span><span class="voters text"><a href="#" class="more text"><span class="js-voteCount">1058</span>&nbsp;人赞同</a></span>
 
 
 </div>
@@ -1640,7 +1934,7 @@ target="_blank" href="/people/kaiqu"
 <a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-11176513"><i class="z-icon-follow"></i>关注问题</a>
 
 <a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
-<i class="z-icon-comment"></i>87 条评论</a>
+<i class="z-icon-comment"></i>95 条评论</a>
 
 
 <a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
@@ -1678,7 +1972,7 @@ target="_blank" href="/people/kaiqu"
 </div>
 
 <div class="zm-profile-section-item zm-item clearfix" data-time="1465823538" data-type="a" data-type-detail="member_answer_question">
-<span class="zm-profile-setion-time zg-gray zg-right">1 天前</span>
+<span class="zm-profile-setion-time zg-gray zg-right">2 天前</span>
 <div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
 <a title="孔庆勋"
 data-tip="p$t$kong-qing-xun"
@@ -1749,18 +2043,8 @@ target="_blank" href="/people/kong-qing-xun"
 <div class="zm-item-vote-info" data-votecount="27">
 
 
-<span class="voters text">
-<span class="user-block"><a data-tip="p$t$li-ly-46" href="http://www.zhihu.com/people/li-ly-46" target="_blank" class="zg-link" title="篱ly"
->篱ly</a>、</span><span class="user-block"><a data-tip="p$t$yan-wang-34-15" href="http://www.zhihu.com/people/yan-wang-34-15" target="_blank" class="zg-link" title="严旺"
->严旺</a>、</span><span class="user-block"><a data-tip="p$t$james.g" href="http://www.zhihu.com/people/james.g" target="_blank" class="zg-link" title="James.G"
->James.G</a></span>
-</span>
 
-
-<a href="javascript:;" class="more text"> 等人赞同</a>
-
-
-
+<span class="voters text"><a href="#" class="more text"><span class="js-voteCount">27</span>&nbsp;人赞同</a></span>
 
 
 </div>
@@ -1816,320 +2100,6 @@ target="_blank" href="/people/kong-qing-xun"
 <span class="zg-bull">&bull;</span>
 
 <a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
-
-
-<button class="meta-item item-collapse js-collapse">
-<i class="z-icon-fold"></i>收起
-</button>
-</div>
-</div>
-</div>
-</div>
-
-<div class="zm-profile-section-item zm-item clearfix" data-time="1465823294" data-type="" data-type-detail="member_follow_question">
-<span class="zm-profile-setion-time zg-gray zg-right">1 天前</span>
-<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
-<a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
->孔庆勋</a> 关注了问题
-
-<a class="question_link" href="/question/47404871" data-id="11176513">如何看待微软以 262 亿美元全现金收购 LinkedIn？</a>
-</div>
-
-</div>
-
-<div class="zm-profile-section-item zm-item clearfix" data-time="1465797931" data-type="" data-type-detail="member_follow_question">
-<span class="zm-profile-setion-time zg-gray zg-right">2 天前</span>
-<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
-<a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
->孔庆勋</a> 关注了问题
-
-<a class="question_link" href="/question/46890820" data-id="10970338">重庆会是下一个房价暴涨的城市吗？</a>
-</div>
-
-</div>
-
-<div class="zm-profile-section-item zm-item clearfix" data-time="1465785451" data-type="a" data-type-detail="member_voteup_answer">
-<span class="zm-profile-setion-time zg-gray zg-right">2 天前</span>
-<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
-<a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
->孔庆勋</a> 赞同了回答
-
-<a class="question_link" target="_blank" href="/question/46467400/answer/103789899">为什么很多移动互联网的 CEO 对 App 刷量作假现象态度很暧昧？</a>
-</div>
-<div tabindex="-1" class="zm-item-answer "
-itemscope itemtype="http://schema.org/Answer"
-data-aid="36973580"
-data-atoken="103789899"
-data-collapsed="0"
-data-created="1464779684"
-data-deleted="0"
-data-isowner="0"
-data-helpful="1"
-data-copyable="1"
->
-<link itemprop="url" href="/question/46467400/answer/103789899">
-<meta itemprop="answer-id" content="36973580">
-<meta itemprop="answer-url-token" content="103789899">
-<a class="zg-anchor-hidden" name="answer-36973580"></a>
-
-<div class="zm-item-vote">
-<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>23</a>
-</div>
-
-<div class="zm-votebar">
-<button class="up ">
-<i class="icon vote-arrow"></i>
-<span class="count">23</span>
-<span class="label sr-only">赞同</span>
-</button>
-<button class="down ">
-<i class="icon vote-arrow"></i>
-<span class="label sr-only">反对</span>
-</button>
-</div>
-
-
-<div class="answer-head">
-
-<div class="zm-item-answer-author-info">
-
-<a class="zm-item-link-avatar avatar-link"
-
-href="/people/kuaidaoqingyi" target="_blank" data-tip="p$t$kuaidaoqingyi"
-
-><img src="https://pic1.zhimg.com/2dc90d15ca0508d29faf3a992fcbc6f4_s.jpg"
-class="zm-list-avatar avatar"
-></a>
-
-
-<a class="author-link"
-data-tip="p$t$kuaidaoqingyi"
-target="_blank" href="/people/kuaidaoqingyi"
->快刀青衣</a>
-
-
-<span title="产品狗，无节操，有底线" class="bio">，产品狗，无节操，有底线</span>
-
-</div>
-
-<div class="zm-item-vote-info" data-votecount="23">
-
-
-<span class="voters text">
-<span class="user-block"><a data-tip="p$t$gao-leng-nan-dou-bi" href="http://www.zhihu.com/people/gao-leng-nan-dou-bi" target="_blank" class="zg-link" title="高冷男逗比"
->高冷男逗比</a>、</span><span class="user-block"><a data-tip="p$t$zoewen1813" href="http://www.zhihu.com/people/zoewen1813" target="_blank" class="zg-link" title="zoewen1813"
->zoewen1813</a>、</span><span class="user-block"><a data-tip="p$t$ma-jie-dong" href="http://www.zhihu.com/people/ma-jie-dong" target="_blank" class="zg-link" title="马杰栋"
->马杰栋</a></span>
-</span>
-
-
-<a href="javascript:;" class="more text"> 等人赞同</a>
-
-
-
-
-
-</div>
-</div>
-<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="10800787" data-action="/answer/content" data-author-name="快刀青衣" data-entry-url="/question/46467400/answer/103789899">
-
-<textarea hidden class="content">谢邀。&lt;br&gt;&lt;br&gt;我的产品技术同学可以证明，我几乎每个月都会强调一下数据真实性和不要为了宣传或者汇报去作假的原则。&lt;br&gt;&lt;br&gt;恩，首先我没有道德洁癖，我在前东家内部汇报时也做过数据美化（恩，不是造假，而是把好看的数据拿出来，不好看的数据装作没看见）&lt;br&gt;&lt;br&gt;但是创业之后，我的想法就改变了。&lt;br&gt;&lt;br&gt;1.绝不能数据造假&lt;br&gt;&lt;br&gt;数据不好看，可以想办法去解决，不能用一个谎言去掩盖另一个谎言，这样只是自欺欺人。特别是在创业团队，如果团队能对用户造假，那么就能对投资人造假，就能对创始人造假，那么什么底线都能突破。&lt;br&gt;&lt;br&gt;2.数据透明更有力于团队的进步&lt;br&gt;&lt;br&gt;我司每天会在全公司微信群里放出在各个渠道的销售数据、运营数据等，让每个人都思考为什么有的卖的好，有的流量高，深切的理解自己的用户。&lt;br&gt;&lt;br&gt;更核心的还是让团队成员明白公司的现状、现金流等等，能安心的工作，不会出现“吃个晚饭回来加班发现公司破产了”这样的狗血事件。&lt;br&gt;&lt;br&gt;3.数据造假的话，会被黑的&lt;br&gt;&lt;br&gt;我司总是自带被黑光环，可能一个季度就会被不良媒体黑上一次。我们也没打算争辩什么，被黑了，那就去吃顿好的算了。&lt;br&gt;&lt;br&gt;所以我们不敢数据造假，在这个时代里，怎么可能会有秘密存在……造假之后估计一个小时全世界都知道了。&lt;br&gt;&lt;br&gt;4.创业团队的造假与背后的不得已&lt;br&gt;&lt;br&gt;我相信很多团队的数据造假是因为压力，例如要融资了，投资人要求订单数达到多少多少，复购率达到多少多少。我能理解但是并不支持，因为优秀的投资人会关注数据指标，但是更关注的是整体项目的发展前景，而不是短期的数据飙升。</textarea>
-
-
-<div class="zh-summary summary clearfix">
-
-谢邀。我的产品技术同学可以证明，我几乎每个月都会强调一下数据真实性和不要为了宣传或者汇报去作假的原则。恩，首先我没有道德洁癖，我在前东家内部汇报时也做过数据美化（恩，不是造假，而是把好看的数据拿出来，不好看的数据装作没看见）但是创业之后，…
-
-<a href="/question/46467400/answer/103789899" class="toggle-expand">显示全部</a>
-
-</div>
-
-
-
-<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" target="_blank" href="/question/46467400/answer/103789899">发布于 2016-06-01</a></p>
-
-</div>
-<div class="zm-item-meta answer-actions clearfix js-contentActions">
-<div class="zm-meta-panel">
-
-<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-10800787"><i class="z-icon-follow"></i>关注问题</a>
-
-<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
-<i class="z-icon-comment"></i>7 条评论</a>
-
-
-<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
-
-
-
-<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
-
-<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
-
-
-
-
-
-<span class="zg-bull zu-autohide">&bull;</span>
-
-<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
-
-<span class="zg-bull zu-autohide">&bull;</span>
-<a href="#" class="meta-item zu-autohide js-report">举报</a>
-
-
-
-<span class="zg-bull">&bull;</span>
-
-<a href="/terms#sec-licence-1" target="_blank" class="meta-item copyright">作者保留权利</a>
-
-
-<button class="meta-item item-collapse js-collapse">
-<i class="z-icon-fold"></i>收起
-</button>
-</div>
-</div>
-</div>
-</div>
-
-<div class="zm-profile-section-item zm-item clearfix" data-time="1465780743" data-type="a" data-type-detail="member_voteup_answer">
-<span class="zm-profile-setion-time zg-gray zg-right">2 天前</span>
-<div class="zm-profile-section-main zm-profile-section-activity-main zm-profile-activity-page-item-main">
-<a data-tip="p$t$kong-qing-xun" href="http://www.zhihu.com/people/kong-qing-xun" class="zg-link" title="孔庆勋"
->孔庆勋</a> 赞同了回答
-
-<a class="question_link" target="_blank" href="/question/37065743/answer/71743797">如何成为 Instagram 的网红？</a>
-</div>
-<div tabindex="-1" class="zm-item-answer "
-itemscope itemtype="http://schema.org/Answer"
-data-aid="24118812"
-data-atoken="71743797"
-data-collapsed="1"
-data-created="1447224542"
-data-deleted="0"
-data-isowner="0"
-data-helpful="1"
-data-copyable="0"
->
-<link itemprop="url" href="/question/37065743/answer/71743797">
-<meta itemprop="answer-id" content="24118812">
-<meta itemprop="answer-url-token" content="71743797">
-<a class="zg-anchor-hidden" name="answer-24118812"></a>
-
-<div class="zm-item-vote">
-<a class="zm-item-vote-count js-expand js-vote-count" href="javascript:;" data-bind-votecount>613</a>
-</div>
-
-<div class="zm-votebar">
-<button class="up ">
-<i class="icon vote-arrow"></i>
-<span class="count">613</span>
-<span class="label sr-only">赞同</span>
-</button>
-<button class="down ">
-<i class="icon vote-arrow"></i>
-<span class="label sr-only">反对</span>
-</button>
-</div>
-
-
-<div class="answer-head">
-
-<div class="zm-item-answer-author-info">
-
-<a class="zm-item-link-avatar avatar-link"
-
-href="/people/wang-yu-rong" target="_blank" data-tip="p$t$wang-yu-rong"
-
-><img src="https://pic3.zhimg.com/746ecdfdd123929c26773f11e2b62f0a_s.jpg"
-class="zm-list-avatar avatar"
-></a>
-
-
-<a class="author-link"
-data-tip="p$t$wang-yu-rong"
-target="_blank" href="/people/wang-yu-rong"
->Pein融</a>
-
-
-<span title="95后创业者 坐标洛杉矶" class="bio">，95后创业者 坐标洛杉矶</span>
-
-</div>
-
-<div class="zm-item-vote-info" data-votecount="613">
-
-
-<span class="voters text">
-<span class="user-block"><a data-tip="p$t$deng-hui-22" href="http://www.zhihu.com/people/deng-hui-22" target="_blank" class="zg-link" title="一枚软胖子"
->一枚软胖子</a>、</span><span class="user-block"><a data-tip="p$t$ban-nc" href="http://www.zhihu.com/people/ban-nc" target="_blank" class="zg-link" title="BAN.NC"
->BAN.NC</a>、</span><span class="user-block"><a data-tip="p$t$ma-ge-li-te-ai-chi-suan-ning-meng" href="http://www.zhihu.com/people/ma-ge-li-te-ai-chi-suan-ning-meng" target="_blank" class="zg-link" title="玛格丽特爱吃酸柠檬"
->玛格丽特爱吃酸柠檬</a></span>
-</span>
-
-
-<a href="javascript:;" class="more text"> 等人赞同</a>
-
-
-
-
-
-</div>
-</div>
-<div class="zm-item-rich-text expandable js-collapse-body" data-resourceid="7033237" data-action="/answer/content" data-author-name="Pein融" data-entry-url="/question/37065743/answer/71743797">
-
-<textarea hidden class="content">互联网社交平台的发展过程经历了以下几个阶段，从我小学的时候开始经历第一期直到现在还在不断变化&lt;br&gt;&lt;br&gt;1.2005年-QQ PC端社交新鲜期当时玩QQ的时候才开始学会打字不久，记得那时候还有个练打字的游戏，有打飞碟青蛙跳等属于比较基础的应用&lt;img data-rawwidth=&quot;500&quot; data-rawheight=&quot;375&quot; src=&quot;https://pic2.zhimg.com/51bbbf11241927ed8227ab93aafd6189_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;500&quot; data-original=&quot;https://pic2.zhimg.com/51bbbf11241927ed8227ab93aafd6189_r.jpg&quot;&gt;&lt;br&gt;小学的时候大家主要是看等级，那时候移动端还完全没有普及开始，大家都还在小灵通时代: 回到家第一件事就是挂QQ，然后看小企鹅喂养啊之类的，或者冲进去一张新买的点卡。那个时候还有QQ秀，基本上所有人还在PC端社交软件新鲜期。&lt;br&gt;&lt;br&gt;2. 2008-2010 PC-移动转换期&lt;br&gt;&lt;br&gt;那段时间我在用的是三星anycall的手机，3G手机刚出来的时候很是受追捧，因为界面清晰然后大家还是普遍更容易接受按键的手机一些---Iphone4刚进市场时候普及度不算很高。&lt;br&gt;那个时候我身边朋友刚开始有习惯用自己的ID发动态，包括一些现在看起来非主流的动态和其他的转载 段子 游戏的点评（吐槽）等等---那个时候，打酱油，老鼠爱大米，洗刷刷等所谓的新星词汇开始在QQ空间等地方火起来，逐渐印入眼帘，包括后续的80后，90后等等这些现在看起来已经约定俗成，写入年轻人字典的词语。&lt;br&gt;&lt;img data-rawwidth=&quot;1400&quot; data-rawheight=&quot;818&quot; src=&quot;https://pic1.zhimg.com/14ab204de3c678443c252e0b78db8b50_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;1400&quot; data-original=&quot;https://pic1.zhimg.com/14ab204de3c678443c252e0b78db8b50_r.jpg&quot;&gt;3. 2011年之后 移动端的胜利&lt;br&gt;2011年之后，IPhone4s开始普及，人人网开始大范围渗透年轻的高中大学人群，网红这个词语开始获得关注。&lt;br&gt;第一批网红感觉就是那时候人人买了会员，那时候记得头像上上有乔巴的小鹿角，然后发状态有边框什么的，很多人会去加这些活跃用户人人好友。&lt;br&gt;值得一提的是，当时“网红”的评判标准是关系网的强度和访问量，而不是现在的粉丝数和传播度，算是一个微妙的区别&lt;br&gt;&lt;img data-rawwidth=&quot;600&quot; data-rawheight=&quot;599&quot; src=&quot;https://pic3.zhimg.com/169bbbe018660871f4f48e3b68f465ca_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;600&quot; data-original=&quot;https://pic3.zhimg.com/169bbbe018660871f4f48e3b68f465ca_r.jpg&quot;&gt;4. 2012年之后 人人没落 微信微博平分秋色&lt;br&gt;重点来了，如何成为网红？&lt;br&gt;我很不要脸的说我算是一个过来人&lt;br&gt;“网红”肯定是不敢当的，但是营销自身的网络ID还是有一定的经验，这里想要分享给大家看看，希望能有用&lt;br&gt;最初我是主办了杭城盛宴，一个面向90后的大型Party，第一条状态获得了92万的阅读量并且直接增加了数千基础粉丝&lt;br&gt;&lt;img data-rawwidth=&quot;589&quot; data-rawheight=&quot;414&quot; src=&quot;https://pic3.zhimg.com/e6ebbd7e2bb907ae4410650e2d2abefa_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;589&quot; data-original=&quot;https://pic3.zhimg.com/e6ebbd7e2bb907ae4410650e2d2abefa_r.jpg&quot;&gt;&lt;br&gt;不妨分成几个模块去讲解：&lt;br&gt;【如何成为微信网红-初级篇】&lt;br&gt;微信网红这个概念可能听起来有点奇怪，我先直接上图&lt;br&gt;&lt;br&gt;这个是初级篇的原因是因为比较容易达到，成本大约是找网红的推广费用3000左右+约拍摄影师（注意，必须是懂精修图的，你懂得）400左右&lt;br&gt;做法简单粗暴：&lt;br&gt;1. 拍写真 一套 选出最好看的三张&lt;br&gt;2. 找微信网红 做网络推广的 让她发你的三张照片加上一段文字，通常是“清纯小美女xxx，来自xxx，爱玩不高冷，新晋小网红，xxx白富美…,xxx千金”这些台词先从扩展圈子，添加好友开始。&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;617&quot; src=&quot;https://pic2.zhimg.com/6ab2f2485e6bf85a386fd816718f7355_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic2.zhimg.com/6ab2f2485e6bf85a386fd816718f7355_r.jpg&quot;&gt;&lt;br&gt;3.达到约2500好友后，开始和人互推，就是你发他到朋友圈 她发你互相加粉丝&lt;br&gt;&lt;br&gt;4.这个时候可以开始跟小网红们打交道，进群先聊参加酒吧之类的聚会了，如果有闲钱和线人，找个混得开的开一个卡请客 可以很快融入 虽然这些关系都很虚弱&lt;br&gt;&lt;br&gt;【如何搭建微博人脉圈-中级篇】&lt;br&gt;1. 取关所有网红 取关所有网红 取关所有网红&lt;br&gt;重要的事情说三遍，别问我为什么&lt;br&gt;网红群范例：打码，很无聊，对确实是很无聊，很标准的围城&lt;br&gt;&lt;br&gt;原因很简单，你单向关注他之后买【账号推荐】产品会关联到不想干的新增粉丝。&lt;br&gt;例如你和A都关注了王思聪，或者你和A都关注了你某个闺蜜&lt;br&gt;明显后者是你想要的粉丝，前者可能是一个跟你无关的某外省路人甲，他粉你边际收益约等于零。&lt;br&gt;&lt;br&gt;账号推荐产品的边际成本约为0.6-9元一个粉丝，个人觉得还是划得来的，毕竟新浪搞垄断也没有其他更便宜的办法现阶段，意外火的是个例，事实上大多数网络红人都在现实中投入了不少成本&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; src=&quot;https://pic3.zhimg.com/bdf01c7b5d7d237f5d6a5c6548c213ce_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic3.zhimg.com/bdf01c7b5d7d237f5d6a5c6548c213ce_r.jpg&quot;&gt;接下来就是，500个高质量互粉&lt;br&gt;中国玩家普遍喜欢被关注，不喜欢关注人，所以互粉是必须的。&lt;br&gt;这批人可以从微信上挖，也就是为什么我说了微信网红是最最初级的。&lt;br&gt;方法很简单，发朋友圈点赞互粉，抽人发红包…1.88一个红包发二十个基本都可以达到效果。&lt;br&gt;然后这批人常常互动，如果互动足够高的话，可以达到一个小网红的效果了。&lt;br&gt;&lt;br&gt;这个阶段结束后，你的微博粉丝应该是500+个羡慕你的小白和500个相对高质量的互粉=1000个左右&lt;br&gt;上互粉图，截图中都是N千+的互粉&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; src=&quot;https://pic2.zhimg.com/7efedd28a4f264e6a3e2e57a3c81c909_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic2.zhimg.com/7efedd28a4f264e6a3e2e57a3c81c909_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; src=&quot;https://pic2.zhimg.com/369b225aefa31b393d8bc5bd2f2c40b9_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic2.zhimg.com/369b225aefa31b393d8bc5bd2f2c40b9_r.jpg&quot;&gt;&lt;br&gt;&lt;br&gt;【如何成为微博网红并入圈-进阶篇】&lt;br&gt;因为过多在线上消耗精力的“网红”在生活中往往处理关系会有一些摩擦，在交友方面最好是谨慎一些，现实和网络能分的清楚自然是最好的&lt;br&gt;&lt;br&gt;在这里给大家举一个例子：PGY美女自媒体联盟，CEO是95年的也是我的好朋友，这些“网红”虽然线上消耗时间很多但是做事非常认真也收益不小，是一个很好的“值得交往的网红”范例&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; src=&quot;https://pic2.zhimg.com/b89a47f390439a34be5bbf70c49accdd_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic2.zhimg.com/b89a47f390439a34be5bbf70c49accdd_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; src=&quot;https://pic3.zhimg.com/0f2c41e1f6cc070c09780da7d94ed04e_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic3.zhimg.com/0f2c41e1f6cc070c09780da7d94ed04e_r.jpg&quot;&gt;&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; src=&quot;https://pic1.zhimg.com/eb14b597669b39ae9aaf56af9db09f48_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic1.zhimg.com/eb14b597669b39ae9aaf56af9db09f48_r.jpg&quot;&gt;事实上，“网红圈内是非多”很大程度因为消耗了过多精力在虚拟世界，相应的现实生活中会有一些行为不妥，或者把网络世界不合时宜的评判标准放在现实&lt;br&gt;因此有些时候其实依靠线上变现的网红更加值得信任，因为他们讲ID当成一个项目或事业来经营而不会过于沉浸于溢出满足感和虚荣指数之中。&lt;br&gt;&lt;br&gt;【如何进行事件营销 明确微博定位 建立可持续涨粉渠道-小资篇】&lt;br&gt;这个简单来说，就是需要明确你的定位，现在秀生活的窗口期已经过了，需要提供一些干货才能够取得效果&lt;br&gt;&lt;br&gt;例如我分三个模块&lt;br&gt;1. 分享国外留学生活，如下图&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; src=&quot;https://pic2.zhimg.com/5481af07050ffdeefa84b257f1a63209_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic2.zhimg.com/5481af07050ffdeefa84b257f1a63209_r.jpg&quot;&gt;&lt;br&gt;2. 海外新闻撰稿和采访&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;859&quot; src=&quot;https://pic3.zhimg.com/b2bb564236aa34e4b47dca546910d506_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic3.zhimg.com/b2bb564236aa34e4b47dca546910d506_r.jpg&quot;&gt;&lt;br&gt;3. 分享创业项目&amp;amp;Party，如下图&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; src=&quot;https://pic2.zhimg.com/1ff1bdcbc2cc82285b6f2b3929400c39_b.jpg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic2.zhimg.com/1ff1bdcbc2cc82285b6f2b3929400c39_r.jpg&quot;&gt;&lt;br&gt;同时，一个好看的自定义菜单也是很重要的细节可以在很多时候留住粉丝&lt;br&gt;自定义菜单建议分成三个一级菜单和若干二级菜单，在其中一项留下联系方式&lt;br&gt;&lt;img data-rawwidth=&quot;640&quot; data-rawheight=&quot;1136&quot; src=&quot;https://pic4.zhimg.com/09a6963364e544cab2ca99a0f8370297_b.jpeg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;640&quot; data-original=&quot;https://pic4.zhimg.com/09a6963364e544cab2ca99a0f8370297_r.jpeg&quot;&gt;&lt;img data-rawwidth=&quot;709&quot; data-rawheight=&quot;1054&quot; src=&quot;https://pic4.zhimg.com/7500fa0afe0de92bf5e46e6980e3bef3_b.jpeg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;709&quot; data-original=&quot;https://pic4.zhimg.com/7500fa0afe0de92bf5e46e6980e3bef3_r.jpeg&quot;&gt;&lt;img data-rawwidth=&quot;2480&quot; data-rawheight=&quot;3508&quot; src=&quot;https://pic1.zhimg.com/f68e0fd77e7e946890844ba66ac2a724_b.jpeg&quot; class=&quot;origin_image zh-lightbox-thumb&quot; width=&quot;2480&quot; data-original=&quot;https://pic1.zhimg.com/f68e0fd77e7e946890844ba66ac2a724_r.jpeg&quot;&gt;&lt;br&gt;当然涨粉和运营形象还需要因人而异每个人的最佳策略会不同，也希望我码的字能对大家有所帮助，谢谢！</textarea>
-
-
-<div class="zh-summary summary clearfix">
-<img data-rawwidth="500" data-rawheight="375" src="https://pic2.zhimg.com/51bbbf11241927ed8227ab93aafd6189_200x112.jpg" class="origin_image inline-img zh-lightbox-thumb" data-original="https://pic2.zhimg.com/51bbbf11241927ed8227ab93aafd6189_r.jpg">
-互联网社交平台的发展过程经历了以下几个阶段，从我小学的时候开始经历第一期直到现在还在不断变化1.2005年-QQ PC端社交新鲜期当时玩QQ的时候才开始学会打字不久，记得那时候还有个练打字的游戏，有打飞碟青蛙跳等属于比较基础的应用小学的时候大家主要是看…
-
-<a href="/question/37065743/answer/71743797" class="toggle-expand">显示全部</a>
-
-</div>
-
-
-
-<p class="visible-expanded"><a itemprop="url" class="answer-date-link meta-item" data-tip="s$t$发布于 2015-11-11" target="_blank" href="/question/37065743/answer/71743797">编辑于 2016-06-03</a></p>
-
-</div>
-<div class="zm-item-meta answer-actions clearfix js-contentActions">
-<div class="zm-meta-panel">
-
-<a data-follow="q:link" class="follow-link zg-follow meta-item" href="javascript:;" id="sfb-7033237"><i class="z-icon-follow"></i>关注问题</a>
-
-<a href="#" name="addcomment" class="meta-item toggle-comment js-toggleCommentBox">
-<i class="z-icon-comment"></i>26 条评论</a>
-
-
-<a href="#" class="meta-item zu-autohide js-thank" data-thanked="false"><i class="z-icon-thank"></i>感谢</a>
-
-
-
-<a href="#" class="meta-item zu-autohide js-share"><i class="z-icon-share"></i>分享</a>
-
-<a href="#" class="meta-item zu-autohide js-collect"><i class="z-icon-collect"></i>收藏</a>
-
-
-
-
-
-<span class="zg-bull zu-autohide">&bull;</span>
-
-<a href="#" class="meta-item zu-autohide js-noHelp">没有帮助</a>
-
-<span class="zg-bull zu-autohide">&bull;</span>
-<a href="#" class="meta-item zu-autohide js-report">举报</a>
-
-
-
-<span class="zg-bull">&bull;</span>
-
-<a href="/terms#sec-licence-6" target="_blank" class="meta-item copyright">禁止转载</a>
-
-<meta name="disableCopy" content="true">
-<meta name="disableCopyAvatar" content="https://pic3.zhimg.com/746ecdfdd123929c26773f11e2b62f0a_m.jpg">
-
 
 
 <button class="meta-item item-collapse js-collapse">
@@ -2247,7 +2217,7 @@ target="_blank" href="/people/wang-yu-rong"
 </a>
 <a class="item" href="/people/kong-qing-xun/followers">
 <span class="zg-gray-normal">关注者</span><br />
-<strong>17817</strong><label> 人</label>
+<strong>17850</strong><label> 人</label>
 </a>
 </div>
 <div class="zm-profile-side-section">
@@ -2329,7 +2299,7 @@ target="_blank" href="/people/wang-yu-rong"
 
 <div class="zm-profile-side-section">
 <div class="zm-side-section-inner">
-<span class="zg-gray-normal">个人主页被 <strong>10730</strong> 人浏览</span>
+<span class="zg-gray-normal">个人主页被 <strong>10752</strong> 人浏览</span>
 </div>
 </div>
 
@@ -2367,22 +2337,22 @@ target="_blank" href="/people/wang-yu-rong"
 <script type="text/json" class="json-inline" data-name="permissions">[]</script>
 
 
-<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1465983612000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
+<script type="text/json" class="json-inline" data-name="ga_vars">{"user_created":0,"now":1466057349000,"abtest_mask":"------------------------------","user_attr":[0,0,0,"-","-"],"user_hash":0}</script>
 
 <script type="text/json" class="json-inline" data-name="ra-urls">{"Report":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Report.7b207896.js","Community":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/Community.97844271.js","common":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/common.33e6b712.js","CommentApp":"http:\/\/static.zhihu.com\/static\/revved\/-\/apps\/CommentApp.02a04f26.js"}</script>
 
 <script src="http://static.zhihu.com/static/revved/-/js/vendor.ff76fbae.js"></script>
-<script src="http://static.zhihu.com/static/revved/-/js/closure/base.f6462175.js"></script>
+<script src="http://static.zhihu.com/static/revved/-/js/closure/base.d6b415ee.js"></script>
 
-<script src="http://static.zhihu.com/static/revved/-/js/closure/common.0510c1dd.js"></script>
+<script src="http://static.zhihu.com/static/revved/-/js/closure/common.6dfae752.js"></script>
 
 
-<script src="http://static.zhihu.com/static/revved/-/js/closure/richtexteditor.70f36315.js" async></script>
-<script src="http://static.zhihu.com/static/revved/-/js/closure/page-profile.a6c9a87b.js"></script>
+<script src="http://static.zhihu.com/static/revved/-/js/closure/richtexteditor.1d78744f.js" async></script>
+<script src="http://static.zhihu.com/static/revved/-/js/closure/page-profile.7d6eff19.js"></script>
 <meta name="entry" content="ZH.entryProfile" data-module-id="page-profile">
 
-<script type="text/zscript" znonce="f8a090f2e89c43ca8e2842a80ed229cf"></script>
+<script type="text/zscript" znonce="c6708afda3394395b73de7edd51e97b6"></script>
 
-<input type="hidden" name="_xsrf" value="e09ecc6276e51178779db442bbc6f48c"/>
+<input type="hidden" name="_xsrf" value="f8dc600ebc8b71f06201d5cde102376e"/>
 </body>
 </html>
