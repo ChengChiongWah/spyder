@@ -3,9 +3,6 @@ import re, sys
 from bs4 import BeautifulSoup
 
 class Spider_Model(object):
-    
-    def __init__(self):
-        self.name = []
 
     def GetPage(self):
         MyUrl = 'http://www.zhihu.com/people/kong-qing-xun'
@@ -14,11 +11,7 @@ class Spider_Model(object):
 	req = urllib2.Request(MyUrl, headers=Headers)
 	MyResponse = urllib2.urlopen(req)
 	MyPage = MyResponse.read()
-
 	UnicodePage = BeautifulSoup(MyPage, 'html5lib').prettify()
-#	Text = open("txt.txt", "wb")
-#	Text.write(MyPage)
-#	Text.close()
         
 	Title_Section = re.findall(r'<div class="title-section.*?<span class="name">(.*?)</span>', UnicodePage, re.S)
 	Location = re.findall(r'<span class="location item" title="(.*?)">', UnicodePage, re.S)
@@ -27,8 +20,9 @@ class Spider_Model(object):
 	Education_Item = re.findall(r'<span class="education item" title="(.*?)">.*?</span>', UnicodePage, re.S)
 	Education_Extra_Item = re.findall(r'<span class="education-extra item" title=["\'](.*?)[\'"]>.*?</span>', UnicodePage, re.S)
 	Description = re.findall(r'<span class="description unfold-item">\n\s*<span class="con.*?>\n\s*(.*?)\n', UnicodePage, re.S)
-	People = re.findall(r'<a class="author-link.*?" data-tip="p\$t\$(.*?)" href=.*?people.*?" target.*?">', UnicodePage, re.S) 
-	print MyPage, Title_Section[0], '\n', Location[0], '\n', Business_Item, '\n', Employment_Item[0], '\n', Education_Item[0], '\n', Education_Extra_Item, '\n', Description, '\n', list(set(People))
+	People = re.findall(r'<a class="author-link.*?" data-tip="p\$t\$(.*?)" href=.*?people.*?" target.*?">', UnicodePage, re.S)
+	print Title_Section[:], '\n', Location, '\n', Business_Item, '\n', Employment_Item, '\n', Education_Item, '\n', Education_Extra_Item, '\n', Description, '\n', list(set(People))
+	print '----------------------------'
 
 Spyder = Spider_Model()
 
