@@ -1,10 +1,13 @@
 import urllib2
 import re, sys
+import sqlite3
+from db import DB_Sqlite3
 from bs4 import BeautifulSoup
 
-class Spider_Model(object):
+class Spyder_Model(object):
 
-    def GetPage(self):
+    @staticmethod
+    def init():
         MyUrl = 'http://www.zhihu.com/people/kong-qing-xun'
 	UserAgent = 'Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0'
 	Headers = {'User-Agent': UserAgent }
@@ -21,10 +24,15 @@ class Spider_Model(object):
 	Education_Extra_Item = re.findall(r'<span class="education-extra item" title=["\'](.*?)[\'"]>.*?</span>', UnicodePage, re.S)
 	Description = re.findall(r'<span class="description unfold-item">\n\s*<span class="con.*?>\n\s*(.*?)\n', UnicodePage, re.S)
 	People = re.findall(r'<a class="author-link.*?" data-tip="p\$t\$(.*?)" href=.*?people.*?" target.*?">', UnicodePage, re.S)
-	print Title_Section[:], '\n', Location, '\n', Business_Item, '\n', Employment_Item, '\n', Education_Item, '\n', Education_Extra_Item, '\n', Description, '\n', list(set(People))
-	print '----------------------------'
-
-Spyder = Spider_Model()
+#	print Title_Section[:], '\n', Location, '\n', Business_Item, '\n', Employment_Item, '\n', Education_Item, '\n', Education_Extra_Item, '\n', Description, '\n', list(set(People))
+        conn = sqlite3.connect('spyder.db')
+	cur = conn.cursor()
+	sql = "insert into People_Inf values('%s', '%s', '%s', '%s', '%s', '%s', '%s')" %(Title_Section[0], Location[0], Business_Item[0], Employment_Item[0], Education_Item[0], Education_Extra_Item[0], Description[0])
+	cur.execute(sql)
+	conn.commit()
+	conn.close
+        
 
 if __name__ == '__main__':
-    Spyder.GetPage()
+#    DB_Sqlite3.Create_Db()
+    Spyder_Model.init()
