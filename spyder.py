@@ -1,5 +1,7 @@
 import urllib2
-import re, sys
+import re
+import os
+import sys
 import sqlite3
 from db import DB_Sqlite3
 from bs4 import BeautifulSoup
@@ -29,10 +31,15 @@ class Spyder_Model(object):
 	cur = conn.cursor()
 	sql = "insert into People_Inf values('%s', '%s', '%s', '%s', '%s', '%s', '%s')" %(Title_Section[0], Location[0], Business_Item[0], Employment_Item[0], Education_Item[0], Education_Extra_Item[0], Description[0])
 	cur.execute(sql)
+	for people_list in list(set(People)):
+	    cur.execute("insert into People values('%s')" %(people_list))
 	conn.commit()
 	conn.close
         
 
 if __name__ == '__main__':
-#    DB_Sqlite3.Create_Db()
+    if os.path.exists('./spyder.db'):
+        pass
+    else:
+        DB_Sqlite3.Create_Db()
     Spyder_Model.init()
