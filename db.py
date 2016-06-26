@@ -1,3 +1,4 @@
+#-*- coding:utf-8 -*-
 import sqlite3
 
 class DB_Sqlite3(object):
@@ -8,12 +9,7 @@ class DB_Sqlite3(object):
 	cur = conn.cursor()
 	cur.execute('''CREATE TABLE People_Inf
 	               (name text,
-		        location text,
-			business_item text,
-			employ_item text,
-			education_item text,
-			education_extra_item text,
-			description text
+		        description text
 			)''')
 	cur.execute('''CREATE TABLE People
 	               (name text
