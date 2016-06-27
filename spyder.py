@@ -31,13 +31,12 @@ class Spyder_Model(object):
 	Description = re.findall(r'<span class="description unfold-item">\n\s*<span class="con.*?>\n\s*(.*?)\n', UnicodePage, re.S)
 	People = re.findall(r'<a class="author-link.*?" data-tip="p\$t\$(.*?)" href=.*?people.*?" target.*?">', UnicodePage, re.S)
 #	print Title_Section[:], '\n', Location, '\n', Business_Item, '\n', Employment_Item, '\n', Education_Item, '\n', Education_Extra_Item, '\n', Description, '\n', list(set(People))
-	print tuple(Title_Section[:]), tuple(Description)
+#	print tuple(Title_Section[:] + Description), (Title_Section[:], Description)
         conn = sqlite3.connect('spyder.db')
 	cur = conn.cursor()
-	sql = "insert into People_Inf values(?, ?)", tuple(Title_Section[:]), tuple(Description)
-	cur.execute(sql)
+	cur.execute("insert into People_Inf values(?, ?)", tuple(Title_Section[:] + Description))
 	for people_list in list(set(People)):
-	    cur.execute("insert into People values('%s')" %(people_list))
+	    cur.execute("insert into People values(?)",(people_list,))
 	cur.close()
 	conn.commit()
 	conn.close()
@@ -61,8 +60,8 @@ class Spyder_Model(object):
 	    People = re.findall(r'<a class="author-link.*?" data-tip="p\$t\$(.*?)" href=.*?people.*?" target.*?">', UnicodePage, re.S)
 	    conn = sqlite3.connect('./spyder.db')
 	    cur = conn.cursor()
-	    sql = "insert into People_Inf values(?, ?)", (Title_Section[0]), (Description,) 
-	    cur.execute(sql)
+	    cur.execute("insert into People_Inf values(?, ?)", tuple(Title_Section[:] + Description))
+	    cur.execute("delete from People where name = ?", (people))
 	    for people_list in list(set(People)):
 		cur.execute('select name from People where name=?', (people_list,))
 		if cur.fetchone() is None:
@@ -70,6 +69,13 @@ class Spyder_Model(object):
 	    cur.close()
 	    conn.commit()
 	    conn.close()
+
+#	    conn1 = sqlite3.connect('./spyder.db')
+#	    cur1 = conn1.cursor()
+#	    cur1.execute('select * from People')
+#	    for people in cur1.fetchall():
+#		print people
+#	        self.spyder(people)
 	except (ValueError, IndexError, TypeError), e:
 	    print ('Error:', e)
 
@@ -79,9 +85,8 @@ class Spyder_Model(object):
 	cur = conn.cursor()
 	try:
 	    cur.execute('select * from People')
-	   # print cur.fetchall()
 	    for people in cur.fetchall():
-		print people
+#		print people
 	        Spyder_Model().spyder(people)
         except (ValueError, TypeError), e:
 	    print e
