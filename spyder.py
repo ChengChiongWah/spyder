@@ -20,14 +20,8 @@ class Spyder_Model(object):
 	UnicodePage = BeautifulSoup(MyPage, 'html5lib').prettify()
         
 	Title_Section = re.findall(r'<div class="title-section.*?<span class="name">(.*?)</span>', UnicodePage, re.S)
-#	Location = re.findall(r'<span class="location item" title="(.*?)">', UnicodePage, re.S)
-#	Business_Item = re.findall(r'<span class="business item" title="(.*?)">', UnicodePage, re.S)
-#	Employment_Item = re.findall(r'<span class="employment item" title="(.*?)">', UnicodePage, re.S)
-#	Education_Item = re.findall(r'<span class="education item" title="(.*?)">.*?</span>', UnicodePage, re.S)
-#	Education_Extra_Item = re.findall(r'<span class="education-extra item" title=["\'](.*?)[\'"]>.*?</span>', UnicodePage, re.S)
 	Description = re.findall(r'<span class="description unfold-item">\n\s*<span class="con.*?>\n\s*(.*?)\n', UnicodePage, re.S)
 	People = re.findall(r'<a class="author-link.*?" data-tip="p\$t\$(.*?)" href=.*?people.*?" target.*?">', UnicodePage, re.S)
-#	print Title_Section[:], '\n', Location, '\n', Business_Item, '\n', Employment_Item, '\n', Education_Item, '\n', Education_Extra_Item, '\n', Description, '\n', list(set(People))
         conn = sqlite3.connect('spyder.db')
 	cur = conn.cursor()
 	cur.execute("insert into People_Inf values(?, ?)", tuple(Title_Section[:] + Description))
@@ -47,11 +41,6 @@ class Spyder_Model(object):
 	    MyPage = MyResponse.read()
 	    UnicodePage = BeautifulSoup(MyPage, 'html5lib').prettify()
 	    Title_Section = re.findall(r'<div class="title-section.*?<span class="name">(.*?)</span>', UnicodePage, re.S)
-#	    Location = re.findall(r'<span class="location item" title="(.*?)">', UnicodePage, re.S)
-#	    Business_Item = re.findall(r'<span class="business item" title="(.*?)">', UnicodePage, re.S)
-#	    Employment_Item = re.findall(r'<span class="employment item" title="(.*?)">', UnicodePage, re.S)
-#	    Education_Item = re.findall(r'<span class="education item" title="(.*?)">.*?</span>', UnicodePage, re.S)
-#	    Education_Extra_Item = re.findall(r'<span class="education-extra item" title=["\'](.*?)[\'"]>.*?</span>', UnicodePage, re.S)
 	    Description = re.findall(r'<span class="description unfold-item">\n\s*<span class="con.*?>\n\s*(.*?)\n', UnicodePage, re.S)
 	    People = re.findall(r'<a class="author-link.*?" data-tip="p\$t\$(.*?)" href=.*?people.*?" target.*?">', UnicodePage, re.S)
 	    conn = sqlite3.connect('./spyder.db')
@@ -62,7 +51,7 @@ class Spyder_Model(object):
 	        cur.execute("insert into People_Inf values(?, ?)", tuple(Title_Section[:] + Description))
 	    cur.execute("delete from People where name = ?", (people))
 	    for people_list in list(set(People)):
-		cur.execute('select name from People where name=?', (people_list,))
+		cur.execute('select name from People_Inf where name=?', (people_list,))
 		if cur.fetchone() is None:
 		    cur.execute("insert into People values(?)", (people_list,))
 	    cur.close()
@@ -73,10 +62,10 @@ class Spyder_Model(object):
 	    cur1 = conn1.cursor()
 	    cur1.execute('select * from People')
 	    for people in cur1.fetchall():
-		print people
+#		print people
 	        self.spyder(people)
 	except (ValueError, IndexError, TypeError), e:
-	    print ('Error:', e)
+	    print ('Error:', e) 
 
     @classmethod
     def run(cls):
@@ -85,7 +74,6 @@ class Spyder_Model(object):
 	try:
 	    cur.execute('select * from People')
 	    for people in cur.fetchall():
-		print people
 	        Spyder_Model().spyder(people)
         except (ValueError, TypeError), e:
 	    print e
