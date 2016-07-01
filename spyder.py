@@ -24,7 +24,8 @@ class Spyder_Model(object):
 	People = re.findall(r'<a class="author-link.*?" data-tip="p\$t\$(.*?)" href=.*?people.*?" target.*?">', UnicodePage, re.S)
         conn = sqlite3.connect('spyder.db')
 	cur = conn.cursor()
-	cur.execute("insert into People_Inf values(?, ?)", tuple(Title_Section[:] + Description))
+#	print Title_Section[:], Description[0].encode('utf-8')
+	cur.execute("insert into People_Inf values(?, ?)", (Title_Section[0], Description[0]))
 	for people_list in list(set(People)):
 	    cur.execute("insert into People values(?)",(people_list,))
 	cur.close()
@@ -48,11 +49,13 @@ class Spyder_Model(object):
 	    if len(Description) == 0 :
 	        pass
 	    else:
-	        cur.execute("insert into People_Inf values(?, ?)", tuple(Title_Section[:] + Description))
+		print Title_Section[0].encode('utf-8'), Description[0].encode('utf-8')
+	        cur.execute("insert into People_Inf values(?, ?)", (Title_Section[0].encode('utf-8'),  Description[0].encode('utf-8')))
 	    cur.execute("delete from People where name = ?", (people))
 	    for people_list in list(set(People)):
 		cur.execute('select name from People_Inf where name=?', (people_list,))
 		if cur.fetchone() is None:
+#		    print people_list
 		    cur.execute("insert into People values(?)", (people_list,))
 	    cur.close()
 	    conn.commit()
