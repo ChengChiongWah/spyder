@@ -38,6 +38,7 @@ class Spyder_Model(object):
 	    UserAgent = 'Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0'
 	    Headers = {'User-Agent': UserAgent }
 	    req = urllib2.Request(MyUrl, headers=Headers)
+	    print "The people information with error:" + people[0]
 	    MyResponse = urllib2.urlopen(req)
 	    MyPage = MyResponse.read()
 	    UnicodePage = BeautifulSoup(MyPage, 'html5lib').prettify()
@@ -50,16 +51,22 @@ class Spyder_Model(object):
 	        pass
 	    else:
 		print Title_Section[0].encode('utf-8'), Description[0].encode('utf-8')
-	        cur.execute("insert into People_Inf values(?, ?)", (Title_Section[0].encode('utf-8'),  Description[0].encode('utf-8')))
+	        cur.execute("insert into People_Inf values(?, ?)", (Title_Section[0],  Description[0]))
 	    cur.execute("delete from People where name = ?", (people))
-	    for people_list in list(set(People)):
-		cur.execute('select name from People_Inf where name=?', (people_list,))
-		if cur.fetchone() is None:
-#		    print people_list
-		    cur.execute("insert into People values(?)", (people_list,))
 	    cur.close()
 	    conn.commit()
 	    conn.close()
+
+	    for people_list in list(set(People)):
+		conn2 = sqlite3.connect("./spyder.db")
+		cur2 = conn2.cursor()
+		cur2.execute('select name from People_Inf where name=?', (people_list,))
+		if cur2.fetchone() is None:
+#		    print people_list
+		    cur2.execute("insert into People values(?)", (people_list,))
+	        cur2.close()
+	        conn2.commit()
+	        conn2.close()
 
 	    conn1 = sqlite3.connect('./spyder.db')
 	    cur1 = conn1.cursor()
@@ -67,6 +74,8 @@ class Spyder_Model(object):
 	    for people in cur1.fetchall():
 #		print people
 	        self.spyder(people)
+	    cur1.close()
+	    conn1.close()
 	except (ValueError, IndexError, TypeError), e:
 	    print ('Error:', e) 
 
@@ -77,7 +86,12 @@ class Spyder_Model(object):
 	try:
 	    cur.execute('select * from People')
 	    for people in cur.fetchall():
-	        Spyder_Model().spyder(people)
+		try:
+		    Spyder_Model().spyder(people)
+		except:
+		   continue 
+            cur.close()        
+            conn.close()
         except (ValueError, TypeError), e:
 	    print e
 
@@ -88,6 +102,4 @@ if __name__ == '__main__':
     else:
         DB_Sqlite3.Create_Db()
 	Spyder_Model.init()
-    reload(sys)
-    sys.setdefaultencoding("utf-8")
     Spyder_Model.run()
