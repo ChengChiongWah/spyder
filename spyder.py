@@ -33,11 +33,11 @@ class Spyder_Model(object):
 	conn.close()
         
     def spyder(self, people):
-        try:
-	    MyUrl = 'http://www.zhihu.com/people/' + people[0]
-	    UserAgent = 'Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0'
-	    Headers = {'User-Agent': UserAgent }
-	    req = urllib2.Request(MyUrl, headers=Headers)
+	MyUrl = 'http://www.zhihu.com/people/' + people[0]
+	UserAgent = 'Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0'
+	Headers = {'User-Agent': UserAgent }
+	req = urllib2.Request(MyUrl, headers=Headers)
+	try:
 	    MyResponse = urllib2.urlopen(req)
 	    MyPage = MyResponse.read()
 	    UnicodePage = BeautifulSoup(MyPage, 'html5lib').prettify()
@@ -68,14 +68,10 @@ class Spyder_Model(object):
 		    cur2.close()
 		    conn2.commit()
 		    conn2.close()
-		    try:
-			print people_list
-		        self.spyder((people_list,))
-		    except (ValueError, IndexError, TypeError), e:
-		        continue
-	except (ValueError, IndexError, TypeError), e:
-	    print people, e 
-	    pass 
+		    self.spyder((people_list,))
+	except :
+	    print people,  "there is a error occored" 
+	     
 
     @classmethod
     def run(cls):
