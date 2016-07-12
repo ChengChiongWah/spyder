@@ -69,8 +69,8 @@ class Spyder_Model(object):
 		    conn2.commit()
 		    conn2.close()
 		    self.spyder((people_list,))
-	except :
-	    print people,  "there is a error occored" 
+	except BaseException, e:
+	    print e,  "there is a error occored on:",people 
 	     
 
     @classmethod
