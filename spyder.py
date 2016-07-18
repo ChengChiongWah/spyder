@@ -2,7 +2,7 @@
 import urllib2
 import re
 import os
-import sys
+import sys, types
 import logging, logging.handlers
 import sqlite3
 from db import DB_Sqlite3
@@ -11,9 +11,9 @@ from bs4 import BeautifulSoup
 
 def spyder(people):
     
-    logger = logging.getLogger(__name___)
+    logger = logging.getLogger(__name__)
     logger.setLevel(logging.DEBUG)
-    fh=logging.handers.RotatingFileHandler('log.txt', maxBytes = 1024)
+    fh=logging.handlers.RotatingFileHandler('log.txt', maxBytes=1024*1024, backupCount=1)
     fh.setLevel(logging.DEBUG)
     formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
     fh.setFormatter(formatter)
@@ -54,6 +54,7 @@ def spyder(people):
 	        cur2.close()
 	        conn2.commit()
 	        conn2.close()
+		yield  people_list
 	        for element in spyder(people_list):
 	            yield element
     except BaseException, e:
@@ -64,5 +65,6 @@ if __name__ == '__main__':
         pass
     else:
         DB_Sqlite3.Create_Db()
-    for person in spyder('xie-ke-41'):
-        print person
+    for gen in spyder('xie-ke-41'):
+        print gen
+    
