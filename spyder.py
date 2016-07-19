@@ -29,15 +29,15 @@ def spyder(people):
         UnicodePage = BeautifulSoup(MyPage, 'html5lib').prettify()
         Title_Section = re.findall(r'<div class="title-section ellipsis">[\s\S]*?"name">\n[ ]{10}(.*?)\n', UnicodePage, re.S)
         Description = re.findall(r'<span class="description unfold-item">\n\s*<span class="con.*?>\n\s*(.*?)\n', UnicodePage, re.S)
-        People = re.findall(r'<a class="author-link.*?" data-tip="p\$t\$(.*?)" href=.*?people.*?" target.*?">', UnicodePage, re.S)
+        People = re.findall(r'<a class="author-link.*?" data-hovercard="p\$t\$(.*?)" href=.*?people.*?" target.*?">', UnicodePage, re.S)
         conn = sqlite3.connect('./spyder.db')
         cur = conn.cursor()
         if len(Description) == 0 :
             cur.execute("insert into People_Inf values(?, ?, ?)", (Title_Section[0], None, people)) 
-#   	print Title_Section[0], None, people[:]
+            print Title_Section[0], None, people[:]
         else:
             cur.execute("insert into People_Inf values(?, ?, ?)", (Title_Section[0], Description[0], people))
-#		print Title_Section[0], Description[0], people[:]
+	    print Title_Section[0], Description[0], people[:]
 #	    cur.execute("delete from People where name = ?", (people))
         cur.close()
         conn.commit()
@@ -54,17 +54,15 @@ def spyder(people):
 	        cur2.close()
 	        conn2.commit()
 	        conn2.close()
-		yield  people_list
-	        for element in spyder(people_list):
-	            yield element
+		print people_list
+	        spyder(people_list)
     except BaseException, e:
         logger.debug('there is a error', exc_info=True) 
 
 if __name__ == '__main__':
+    sys.setrecursionlimit(10000)
     if os.path.exists('./spyder.db'):
         pass
     else:
         DB_Sqlite3.Create_Db()
-    for gen in spyder('xie-ke-41'):
-        print gen
-    
+    spyder('xie-ke-41')
