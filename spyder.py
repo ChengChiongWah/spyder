@@ -9,7 +9,7 @@ from db import DB_Sqlite3
 from bs4 import BeautifulSoup
 
 
-def spyder(people):
+def spyder(people, parent, level):
     
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.DEBUG)
@@ -33,10 +33,10 @@ def spyder(people):
         conn = sqlite3.connect('./spyder.db')
         cur = conn.cursor()
         if len(Description) == 0 :
-            cur.execute("insert into People_Inf values(?, ?, ?)", (Title_Section[0], None, people)) 
-            print Title_Section[0], None, people[:]
+            cur.execute("insert into People_Inf values(?, ?, ?, ?, ?)", (Title_Section[0], None, people, parent, level)) 
+            print Title_Section[0], None, people[:], parent, level,
         else:
-            cur.execute("insert into People_Inf values(?, ?, ?)", (Title_Section[0], Description[0], people))
+            cur.execute("insert into People_Inf values(?, ?, ?, ?, ?)", (Title_Section[0], Description[0], people, parent, level))
 	    print Title_Section[0], Description[0], people[:]
 #	    cur.execute("delete from People where name = ?", (people))
         cur.close()
@@ -50,19 +50,23 @@ def spyder(people):
 	    cur2.execute('select count(*) from People_Inf where Name_Url=?', (people_list,))
 	    cur2_len =  cur2.fetchall()[0][0]
 	    if cur2_len == 0:
-	#	    cur2.execute("insert into People values(?)", (people_list,))
-	        cur2.close()
-	        conn2.commit()
-	        conn2.close()
+	        cur2.execute("insert into People values(?, ?, ?, ?)", (people, level+1, False, people_list,))
 		print people_list
-	        spyder(people_list)
+		cur2.close()
+		conn2.commit()
+		conn2.close()
+	
+	conn3 = sqlite3.connect("./spyder.db")
+	cur3 = conn3.cursor()
+	cur3 = execute("select Name from People where Level=(select min(Level) from People) and Done=0")
+	cur3_list = cur3.fetchall()
+	spyder(people_list)
     except BaseException, e:
         logger.debug('there is a error', exc_info=True) 
 
 if __name__ == '__main__':
-    sys.setrecursionlimit(10000)
     if os.path.exists('./spyder.db'):
         pass
     else:
         DB_Sqlite3.Create_Db()
-    spyder('xie-ke-41')
+    spyder('li-de-long-68', 'root', 0)

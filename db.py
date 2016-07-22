@@ -8,12 +8,17 @@ class DB_Sqlite3(object):
         conn = sqlite3.connect('./spyder.db')
 	cur = conn.cursor()
 	cur.execute('''CREATE TABLE People_Inf
-	               (ID text,
-		        description text,
-			Name_Url text
+	               (ID text,           
+		        Description text,
+			Name_Url text,
+			Parent texe,
+			Level integer
 			)''')
 	cur.execute('''CREATE TABLE People
-	               (name text
+	               (Parent text,
+			Level integer,
+			Done boolean,
+		        Name text
 		       )''')
         conn.commit()
 	conn.close
