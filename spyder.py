@@ -51,9 +51,9 @@ def spyder(people, parent, level):
 	    if cur2_len == 0:
 	        cur2.execute("insert into People values(?, ?, ?, ?)", (people, level+1, False, people_list,))
 		#print people_list
-		cur2.close()
-		conn2.commit()
-		conn2.close()
+	    cur2.close()
+	    conn2.commit()
+	    conn2.close()
 	
     except BaseException, e:
         logger.debug('there is a error', exc_info=True) 
@@ -62,7 +62,9 @@ def run():
     while True:
         conn3 = sqlite3.connect("./spyder.db")
 	cur3 = conn3.cursor()
-        cur3.execute("select Name, Parent, Level from People where Level=(select min(Level) from People) and Done=0")
+	cur3.execute("select min(Level) from People")
+	Min_Level = cur3.fetchall()[0]
+        cur3.execute("select Name, Parent, Level from People where Level=? and Done=0", Min_Level)
 	cur3_list = cur3.fetchall()
 	cur3.close()
 	conn3.close()
