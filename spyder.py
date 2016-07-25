@@ -46,7 +46,7 @@ def spyder(people, parent, level):
         for people_list in list(set(People)):
             conn2 = sqlite3.connect("./spyder.db")
 	    cur2 = conn2.cursor()
-	    cur2.execute('select count(*) from People where Name=?', (people_list,))
+	    cur2.execute('select count(*) from People_Inf where Name_Url=?', (people_list,))
 	    cur2_len =  cur2.fetchall()[0][0]
 	    if cur2_len == 0:
 	        cur2.execute("insert into People values(?, ?, ?, ?)", (people, level+1, False, people_list,))
@@ -62,14 +62,14 @@ def run():
     while True:
         conn3 = sqlite3.connect("./spyder.db")
 	cur3 = conn3.cursor()
-	cur3.execute("select min(Level) from People")
+	cur3.execute("select min(Level) from People where Done=0")
 	Min_Level = cur3.fetchall()[0]
         cur3.execute("select Name, Parent, Level from People where Level=? and Done=0", Min_Level)
 	cur3_list = cur3.fetchall()
 	cur3.close()
 	conn3.close()
 	for element in cur3_list:
-	    print element[0]#, element[1], element[2]
+#	    print element[0], element[1], element[2]
 	    conn4 = sqlite3.connect("./spyder.db")
 	    cur4 = conn4.cursor()
 	    cur4.execute("update People set Done=1 where Name=?", (element[0],))
