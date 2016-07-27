@@ -33,10 +33,10 @@ def spyder(people, parent, level):
         conn = psycopg2.connect(database="spyderdb", user="dbuser", password="dbuser", host="127.0.0.1", port="5432") 
         cur = conn.cursor()
         if len(Description) == 0 :
-            cur.execute("insert into People_Inf values(?, ?, ?, ?, ?)", (Title_Section[0], None, people, parent, level)); 
-            print Title_Section[0], None, people[:], parent, level,"-------"
+            cur.execute("insert into People_Inf values(%s, %s, %s, %s, %s);", (Title_Section[0], NULL, people, parent, level)); 
+            print Title_Section[0], NULL, people[:], parent, level,"-------"
         else:
-            cur.execute("insert into People_Inf values(?, ?, ?, ?, ?)", (Title_Section[0], Description[0], people, parent, level));
+            cur.execute("INSERT INTO People_Inf VALUES(%s, %s, %s, %s, %s);", (Title_Section[0], Description[0], people, parent, level));
 	    print Title_Section[0], Description[0], people[:], parent, level,"--------"
 #	    cur.execute("delete from People where name = ?", (people))
         cur.close()
@@ -45,12 +45,13 @@ def spyder(people, parent, level):
 
 	   # print list(set(People))
         for people_list in list(set(People)):
+	  #  print people_list, type(people_list)
             conn2 = psycopg2.connect(database="spyderdb", user="dbuser", password="dbuser", host="127.0.0.1", port="5432") 
 	    cur2 = conn2.cursor()
-	    cur2.execute('select count(*) from People_Inf where Name_Url=?', (people_list,));
+	    cur2.execute('select count(*) from People where Name=(%s);', (people_list,));
 	    cur2_len =  cur2.fetchall()[0][0]
 	    if cur2_len == 0:
-	        cur2.execute("insert into People values(?, ?, ?, ?)", (people, level+1, False, people_list,));
+	        cur2.execute("INSERT INTO People VALUES(%s, %s, %s, %s);", (people, level+1, False, people_list,));
 		#print people_list
 	    cur2.close()
 	    conn2.commit()
@@ -61,28 +62,28 @@ def spyder(people, parent, level):
 
 def run():
     while True:
-        conn3 = sqlite3.connect("./spyder.db")
+        conn3 = psycopg2.connect(database="spyderdb", user="dbuser", password="dbuser", host="127.0.0.1", port="5432") 
 	cur3 = conn3.cursor()
-	cur3.execute("select min(Level) from People where Done=0")
+	cur3.execute("select min(Level) from People where Done=False;")
 	Min_Level = cur3.fetchall()[0]
-        cur3.execute("select Name, Parent, Level from People where Level=? and Done=0", Min_Level)
+        cur3.execute("select Name, Parent, Level from People where  Done=False;", Min_Level)
 	cur3_list = cur3.fetchall()
 	cur3.close()
 	conn3.close()
 	for element in cur3_list:
 #	    print element[0], element[1], element[2]
-	    conn4 = sqlite3.connect("./spyder.db")
+	    conn4 = psycopg2.connect(database="spyderdb", user="dbuser", password="dbuser", host="127.0.0.1", port="5432")
 	    cur4 = conn4.cursor()
-	    cur4.execute("update People set Done=1 where Name=?", (element[0],))
+	    cur4.execute("update People set Done=True where Name=(%s);", (element[0],))
 	    cur4.close()
 	    conn4.commit()
 	    conn4.close()
 	    spyder(element[0], element[1], element[2])
 
 if __name__ == '__main__':
-    if os.path.exists('./spyder.db'):
-        pass
-    else:
-        DB_Sqlite3.Create_Db()
+#    if os.path.exists('./spyder.db'):
+#        pass
+#    else:
+#        DB_Sqlite3.Create_Db()
     spyder('xie-ke-41', 'root', 0)
-#    run()
+    run()

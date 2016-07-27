@@ -12,15 +12,15 @@ class DB_Sqlite3(object):
 	               (ID text,           
 		        Description text,
 			Name_Url text,
-			Parent texe,
-			Level integer
-			)''')
+			Parent text,
+			Level int
+			);''')
 	cur.execute('''CREATE TABLE People
 	               (Parent text,
-			Level integer,
-			Done boolean,
+			Level int,
+			Done bool,
 		        Name text
-		       )''')
+		       );''')
         conn.commit()
 	conn.close
 
@@ -37,8 +37,8 @@ class DB_Sqlite3(object):
 		 Parent text,
 		 Level int);""")
 	cur.execute("""Create table People
-	        (Parent txt,
-		 Level integer,
+	        (Parent text,
+		 Level int,
 		 Done boolean,
 		 Name text
 		 )""")
