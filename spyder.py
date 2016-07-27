@@ -4,7 +4,8 @@ import re
 import os
 import sys, types
 import logging, logging.handlers
-import sqlite3
+#import sqlite3
+import psycopg2
 from db import DB_Sqlite3
 from bs4 import BeautifulSoup
 
@@ -29,13 +30,13 @@ def spyder(people, parent, level):
         Title_Section = re.findall(r'<div class="title-section ellipsis">[\s\S]*?"name">\n[ ]{10}(.*?)\n', UnicodePage, re.S)
         Description = re.findall(r'<span class="description unfold-item">\n\s*<span class="con.*?>\n\s*(.*?)\n', UnicodePage, re.S)
         People = re.findall(r'<a class="author-link.*?" data-hovercard="p\$t\$(.*?)" href=.*?people.*?" target.*?">', UnicodePage, re.S)
-        conn = sqlite3.connect('./spyder.db')
+        conn = psycopg2.connect(database="spyderdb", user="dbuser", password="dbuser", host="127.0.0.1", port="5432") 
         cur = conn.cursor()
         if len(Description) == 0 :
-            cur.execute("insert into People_Inf values(?, ?, ?, ?, ?)", (Title_Section[0], None, people, parent, level)) 
+            cur.execute("insert into People_Inf values(?, ?, ?, ?, ?)", (Title_Section[0], None, people, parent, level)); 
             print Title_Section[0], None, people[:], parent, level,"-------"
         else:
-            cur.execute("insert into People_Inf values(?, ?, ?, ?, ?)", (Title_Section[0], Description[0], people, parent, level))
+            cur.execute("insert into People_Inf values(?, ?, ?, ?, ?)", (Title_Section[0], Description[0], people, parent, level));
 	    print Title_Section[0], Description[0], people[:], parent, level,"--------"
 #	    cur.execute("delete from People where name = ?", (people))
         cur.close()
@@ -44,12 +45,12 @@ def spyder(people, parent, level):
 
 	   # print list(set(People))
         for people_list in list(set(People)):
-            conn2 = sqlite3.connect("./spyder.db")
+            conn2 = psycopg2.connect(database="spyderdb", user="dbuser", password="dbuser", host="127.0.0.1", port="5432") 
 	    cur2 = conn2.cursor()
-	    cur2.execute('select count(*) from People_Inf where Name_Url=?', (people_list,))
+	    cur2.execute('select count(*) from People_Inf where Name_Url=?', (people_list,));
 	    cur2_len =  cur2.fetchall()[0][0]
 	    if cur2_len == 0:
-	        cur2.execute("insert into People values(?, ?, ?, ?)", (people, level+1, False, people_list,))
+	        cur2.execute("insert into People values(?, ?, ?, ?)", (people, level+1, False, people_list,));
 		#print people_list
 	    cur2.close()
 	    conn2.commit()
@@ -84,4 +85,4 @@ if __name__ == '__main__':
     else:
         DB_Sqlite3.Create_Db()
     spyder('xie-ke-41', 'root', 0)
-    run()
+#    run()
