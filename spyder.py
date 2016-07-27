@@ -33,8 +33,8 @@ def spyder(people, parent, level):
         conn = psycopg2.connect(database="spyderdb", user="dbuser", password="dbuser", host="127.0.0.1", port="5432") 
         cur = conn.cursor()
         if len(Description) == 0 :
-            cur.execute("insert into People_Inf values(%s, %s, %s, %s, %s);", (Title_Section[0], NULL, people, parent, level)); 
-            print Title_Section[0], NULL, people[:], parent, level,"-------"
+            cur.execute("insert into People_Inf values(%s, %s, %s, %s, %s);", (Title_Section[0], None, people, parent, level)); 
+            print Title_Section[0], None, people[:], parent, level,"-------"
         else:
             cur.execute("INSERT INTO People_Inf VALUES(%s, %s, %s, %s, %s);", (Title_Section[0], Description[0], people, parent, level));
 	    print Title_Section[0], Description[0], people[:], parent, level,"--------"
